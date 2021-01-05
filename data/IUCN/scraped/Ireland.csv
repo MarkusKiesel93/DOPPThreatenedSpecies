@@ -1,0 +1,12 @@
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — gastropoda,Lapidary Snail,Helicigona lapicida,Stable,"Global, Europe",Least Concern
+animalia — mammalia,Brown Bear,Ursus arctos,Stable,Global,Least Concern
+animalia — mammalia,Wild Boar,Sus scrofa,Unknown,Global,Least Concern
+animalia — mammalia,Grey Wolf,Canis lupus,Stable,Global,Least Concern
+animalia — insecta,,Andrena fulva,Unknown,"Global, Europe",Data Deficient
+animalia — aves,Western Marsh-harrier,Circus aeruginosus,Increasing,Global,Least Concern
+animalia — aves,Red Kite,Milvus milvus,Increasing,Global,Least Concern
+animalia — insecta,Mountain Ringlet,Erebia epiphron,Decreasing,"Global, Europe",Least Concern
+animalia — aves,Western Capercaillie,Tetrao urogallus,Decreasing,Global,Least Concern
+animalia — aves,Great Auk,Pinguinus impennis,,Global,Extinct
+animalia — gastropoda,Mud Snail,Omphiscola glabra,Decreasing,"Global, Europe",Near Threatened

@@ -1,0 +1,29 @@
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — insecta,Ornate Bluet,Coenagrion ornatum,Decreasing,Global,Least Concern
+animalia — insecta,Blue-eyed Hooktail,Onychogomphus uncatus,Stable,Global,Least Concern
+animalia — actinopterygii,Atlantic Salmon,Salmo salar,,Global,Least Concern
+animalia — mammalia,Mediterranean Horseshoe Bat,Rhinolophus euryale,Decreasing,Global,Near Threatened
+animalia — amphibia,Green Toad,Bufotes viridis,Decreasing,Global,Least Concern
+animalia — mammalia,European Mink,Mustela lutreola,Decreasing,Global,Critically Endangered
+animalia — mammalia,Eurasian Beaver,Castor fiber,Increasing,Global,Least Concern
+animalia — aves,Northern Bald Ibis,Geronticus eremita,Stable,Global,Endangered
+animalia — mammalia,Long-fingered Bat,Myotis capaccinii,Decreasing,Global,Vulnerable
+animalia — insecta,Southern Marbled Skipper,Carcharodus boeticus,Stable,"Global, Europe",Least Concern
+animalia — amphibia,,Pelobates fuscus,Decreasing,Global,Least Concern
+animalia — bivalvia,,Microcondylaea bonellii,Decreasing,"Global, Europe, Mediterranean",Vulnerable
+animalia — amphibia,Moor Frog,Rana arvalis,Stable,Global,Least Concern
+animalia — aves,Bearded Vulture,Gypaetus barbatus,Decreasing,Global,Near Threatened
+animalia — insecta,,Coenagrion lunulatum,Decreasing,Global,Least Concern
+animalia — mammalia,Alpine Ibex,Capra ibex,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,,Coregonus fera,,"Global, Europe",Extinct
+animalia — cephalaspidomorphi,River Lamprey,Lampetra fluviatilis,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Salvelinus profundus,,"Global, Europe",Extinct
+animalia — actinopterygii,,Coregonus gutturosus,,"Global, Europe",Extinct
+animalia — actinopterygii,,Coregonus restrictus,,"Global, Europe",Extinct
+animalia — actinopterygii,,Coregonus hiemalis,,"Global, Europe",Extinct
+animalia — gastropoda,,Chilostoma glaciale,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Salvelinus neocomensis,,"Global, Europe",Extinct
+animalia — insecta,,Ropalopus ungaricus,Decreasing,"Global, Europe",Endangered
+animalia — actinopterygii,Weatherfish,Misgurnus fossilis,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Dytiscus latissimus,,Global,Vulnerable
+animalia — insecta,,Andrena curtula,Unknown,"Global, Europe",Data Deficient
