@@ -37,7 +37,7 @@ def open_land_regions_section(filters):
 def open_region_section(driver, filters, region_name):
     filter_region = filters.find_element_by_xpath(f"//*[text()='{region_name}']")
     # offset is needed to click the arrow on the right instead of the checkbox
-    x_offset = 100 
+    x_offset = 100
     ac = ActionChains(driver)
     ac.move_to_element(filter_region).move_by_offset(x_offset, 0).click().perform()
     sleep(2)
@@ -104,11 +104,11 @@ if __name__ == '__main__':
                               'Possibly Extinct',
                               'Possibly Extinct & Reintroduced']
     OECD_COUNTRIES = {
-        # 'Europe': [
-        #     'Austria', 'Belgium', 'Czechia', 'Denmark', 'Finland', 'France', 'Germany', 'Greece', 'Hungary',
-        #     'Iceland', 'Ireland', 'Italy', 'Luxembourg', 'Netherlands', 'Norway', 'Poland', 'Portugal', 'Slovakia',
-        #     'Spain', 'Sweden', 'Switzerland', 'United Kingdom'
-        # ],
+        'Europe': [
+            'Austria', 'Belgium', 'Czechia', 'Denmark', 'Finland', 'France', 'Germany', 'Greece', 'Hungary',
+            'Iceland', 'Ireland', 'Italy', 'Luxembourg', 'Netherlands', 'Norway', 'Poland', 'Portugal', 'Slovakia',
+            'Spain', 'Sweden', 'Switzerland', 'United Kingdom'
+        ],
         'Oceania': [
             'Australia', 'New Zealand',
         ],
