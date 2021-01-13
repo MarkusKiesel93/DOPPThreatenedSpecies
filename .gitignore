@@ -1,6 +1,9 @@
 # jupyter
 .ipynb_checkpoints/
 
+# python
+__pycache__/
+
 # selenium
 geckodriver.log
 
