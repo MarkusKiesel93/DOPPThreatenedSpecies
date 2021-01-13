@@ -15,6 +15,7 @@ beautifulsoup4 = "~=4.9"
 selenium = "~=3.141"
 appnope = "*"
 jupyterlab = "*"
+pyyaml = "~=5.3"
 
 [requires]
 python_version = "3.7"
