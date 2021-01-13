@@ -2,7 +2,7 @@ countries:
     Europe:
         - 'Austria'
         - 'Belgium'
-        - 'Czechia'
+        - 'Czech Republic'
         - 'Denmark'
         - 'Finland'
         - 'France'
@@ -17,7 +17,7 @@ countries:
         - 'Norway'
         - 'Poland'
         - 'Portugal'
-        - 'Slovakia'
+        - 'Slovak Republic'
         - 'Spain'
         - 'Sweden'
         - 'Switzerland'
@@ -35,4 +35,6 @@ countries:
         - 'Mexico'
 
 IUCN_name_transform:
+    'Czech Republic': 'Czechia'
     'Korea': 'Korea, Republic of'
+    'Slovak Republic': 'Slovakia'
