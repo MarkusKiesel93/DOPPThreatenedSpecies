@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 from time import sleep
 import pandas as pd
+from countries import get_for_IUCN
 
 
 # filter for Taxonomy group Animalia
@@ -103,25 +104,7 @@ if __name__ == '__main__':
                               'Extinct & Reintroduced',
                               'Possibly Extinct',
                               'Possibly Extinct & Reintroduced']
-    OECD_COUNTRIES = {
-        'Europe': [
-            'Austria', 'Belgium', 'Czechia', 'Denmark', 'Finland', 'France', 'Germany', 'Greece', 'Hungary',
-            'Iceland', 'Ireland', 'Italy', 'Luxembourg', 'Netherlands', 'Norway', 'Poland', 'Portugal', 'Slovakia',
-            'Spain', 'Sweden', 'Switzerland', 'United Kingdom'
-        ],
-        'Oceania': [
-            'Australia', 'New Zealand',
-        ],
-        'North America': [
-            'Canada', 'United States',
-        ],
-        'East Asia': [
-            'Japan', 'Korea, Republic of',
-        ],
-        'Mesoamerica': [
-            'Mexico',
-        ],
-    }
+    OECD_COUNTRIES = get_for_IUCN()
 
     # connect to browser with selenium
     driver = webdriver.Firefox(executable_path=DRIVER)
