@@ -38,11 +38,11 @@ def rename_country_from_IUCN(country_name):
     return country_name
 
 
-if __name__ == '__main__': 
+if __name__ == '__main__':
     print('list of all countries:')
     print(get_country_list())
 
     print('dictionary of regions and countries')
     print(get_for_IUCN())
 
-    print(rename_IUCN('Czechia'))
+    print(rename_country_from_IUCN('Czechia'))
