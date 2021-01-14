@@ -28,9 +28,21 @@ def get_for_IUCN():
     return dict
 
 
+def rename_country_from_IUCN(country_name):
+    name_transformations = cfg['IUCN_name_transform']
+    if country_name in list(name_transformations.values()):
+        key_list = list(name_transformations.keys())
+        val_list = list(name_transformations.values())
+        new_name = key_list[val_list.index(country_name)]
+        return new_name
+    return country_name
+
+
 if __name__ == '__main__': 
     print('list of all countries:')
     print(get_country_list())
 
     print('dictionary of regions and countries')
     print(get_for_IUCN())
+
+    print(rename_IUCN('Czechia'))
