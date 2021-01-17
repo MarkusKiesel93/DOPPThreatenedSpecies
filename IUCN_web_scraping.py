@@ -7,6 +7,46 @@ import pandas as pd
 from countries import get_for_IUCN
 
 
+def run_scraping(region_name, country_iucn, country_name, output_path):
+    print(f'scraping data for region: {country_name} in {region_name}')
+
+    DRIVER = Path('./geckodriver').absolute()
+    URL = 'https://www.iucnredlist.org/search/list'
+    COUNTRY_LEGEND_FILTERS = ['Extant (resident)',
+                              'Extant & Reintroduced',
+                              'Extinct',
+                              'Extinct & Reintroduced',
+                              'Possibly Extinct',
+                              'Possibly Extinct & Reintroduced']
+
+    # connect to browser with selenium
+    driver = webdriver.Firefox(executable_path=DRIVER)
+    driver.get(URL)
+    # get filters
+    filters = driver.find_element_by_class_name('filter')
+    # filter only animals
+    filter_animals(filters)
+    # filter for country legends
+    filter_country_legends(filters, COUNTRY_LEGEND_FILTERS)
+
+    # select region
+    open_land_regions_section(filters)
+    open_region_section(driver, filters, region_name)
+
+    # sect coutnry
+    click_country_filter(filters, country_iucn)
+
+    # extract data
+    load_whole_content(driver)
+    content = extract_content(driver)
+
+    file_path = (output_path / country_name).with_suffix('.csv')
+    content.to_csv(file_path, index=False)
+    
+    # close browser
+    driver.close()
+
+
 # filter for Taxonomy group Animalia
 def filter_animals(filters):
     filter_taxonomy = filters.find_element_by_xpath("//*[text()='Taxonomy']")
@@ -51,25 +91,26 @@ def click_country_filter(filters, country_name):
     sleep(2)
 
 
-# click the "Land Regions" button to return to all filters
-def click_return_regions(filters):
-    # select second element with name "Land Regions"
-    filter_region = filters.find_elements_by_xpath("//*[text()='Land Regions']")[1]
-    filter_region.click()
-    sleep(2)
-
-
 # clickst the "show all" button on the bottom of the main content as long as all species are loaded
 def load_whole_content(driver):
     main_content = driver.find_element_by_class_name('layout-page__major')
     try:
         show_all_button = main_content.find_element_by_class_name('section__link-out')
         show_all_button.click()
-        sleep(10)  # todo: find better method to wait for loaded content
+        wait_loading(main_content)
         load_whole_content(driver)  # recursive call
     # exceiption if "show all button is not found"
     except Exception:
-        sleep(10)  # todo: find better method to wait for loaded content
+        sleep(1)
+
+
+def wait_loading(main_content):
+    try:
+        main_content.find_element_by_class_name('spinner')
+        sleep(1)
+        wait_loading(main_content)
+    except Exception:
+        sleep(1)
 
 
 # extract species info from html li items
@@ -96,45 +137,11 @@ def extract_content(driver):
 
 
 if __name__ == '__main__':
-    DRIVER = Path('./geckodriver').absolute()
-    URL = 'https://www.iucnredlist.org/search/list'
     OUTPUT_PATH = Path('./data/IUCN/scraped')
-    COUNTRY_LEGEND_FILTERS = ['Extant & Reintroduced',
-                              'Extinct',
-                              'Extinct & Reintroduced',
-                              'Possibly Extinct',
-                              'Possibly Extinct & Reintroduced']
-    OECD_COUNTRIES = get_for_IUCN()
-
-    # connect to browser with selenium
-    driver = webdriver.Firefox(executable_path=DRIVER)
-    driver.get(URL)
-    # get filters
-    filters = driver.find_element_by_class_name('filter')
-    # filter only animals
-    filter_animals(filters)
-    # filter for country legends
-    filter_country_legends(filters, COUNTRY_LEGEND_FILTERS)
-
-    # go over all needed regions
-    open_land_regions_section(filters)
     # iterate all regions
-    for region_name in OECD_COUNTRIES:
-        print(f'region: {region_name}')
-        open_region_section(driver, filters, region_name)
-
-        # iterate all countries
-        for country_name in OECD_COUNTRIES[region_name]:
-            print(f'loading data for country: {country_name}')
-            click_country_filter(filters, country_name)
-
-            load_whole_content(driver)
-
-            content = extract_content(driver)
-
-            file_path = (OUTPUT_PATH / country_name.replace(' ', '_')).with_suffix('.csv')
-            content.to_csv(file_path, index=False)
-
-            click_country_filter(filters, country_name)
-
-        click_return_regions(filters)
+    OECD_REGION_COUNTY_LIST = get_for_IUCN()
+    for country_dict in OECD_REGION_COUNTY_LIST:
+        run_scraping(country_dict['region_name'],
+                     country_dict['country_iucn'],
+                     country_dict['country_name'],
+                     OUTPUT_PATH)
