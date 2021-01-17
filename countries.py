@@ -16,33 +16,29 @@ def get_country_list():
 
 
 def get_for_IUCN():
-    dict = cfg['countries']
-    name_transformations = cfg['IUCN_name_transform']
+    region_country_list = []
 
-    for region_name in dict:
-        for country_name in dict[region_name]:
-            if country_name in list(name_transformations.keys()):
-                dict[region_name].remove(country_name)
-                dict[region_name].append(name_transformations[country_name])
+    for region_name in cfg['countries']:
+        for country_name in cfg['countries'][region_name]:
+            country_dict = {}
+            country_dict['region_name'] = region_name
+            country_dict['country_name'] = country_name
+            if country_name in list(cfg['IUCN_name_transform'].keys()):
+                country_dict['country_iucn'] = cfg['IUCN_name_transform'][country_name]
+            else:
+                country_dict['country_iucn'] = country_name
+            region_country_list.append(country_dict)
 
-    return dict
-
-
-def rename_country_from_IUCN(country_name):
-    name_transformations = cfg['IUCN_name_transform']
-    if country_name in list(name_transformations.values()):
-        key_list = list(name_transformations.keys())
-        val_list = list(name_transformations.values())
-        new_name = key_list[val_list.index(country_name)]
-        return new_name
-    return country_name
+    return region_country_list
 
 
 if __name__ == '__main__':
     print('list of all countries:')
-    print(get_country_list())
+    country_list = get_country_list()
+    print(country_list)
+    assert len(country_list) == 29
 
     print('dictionary of regions and countries')
-    print(get_for_IUCN())
-
-    print(rename_country_from_IUCN('Czechia'))
+    countries_iucn = get_for_IUCN()
+    print(countries_iucn)
+    assert len(country_list) == len(countries_iucn)
