@@ -1,0 +1,61 @@
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — mammalia,New Zealand Fur Seal,Arctocephalus forsteri,Increasing,Global,Least Concern
+animalia — insecta,,Deinacrida rugosa,,Global,Vulnerable
+animalia — actinopterygii,,Astronesthes gemmifer,Unknown,Global,Data Deficient
+animalia — actinopterygii,Alfonsino,Beryx decadactylus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Ruanoho whero,Stable,Global,Least Concern
+animalia — actinopterygii,Half-naked Hatchetfish,Argyropelecus hemigymnus,Stable,Global,Least Concern
+animalia — actinopterygii,Deepwater Triplefin,Matanui profundum,Unknown,Global,Least Concern
+animalia — actinopterygii,Thripenny,Gilloblennius tripennis,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowspotted Sawtail,Prionurus maculatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Common Triplefin,Forsterygion lapillum,Stable,Global,Least Concern
+animalia — actinopterygii,Blue-eyed Triplefin,Notoclinops segmentatus,Stable,Global,Least Concern
+animalia — actinopterygii,Yaldwyn's Triplefin,Notoclinops yaldwyni,Stable,Global,Least Concern
+animalia — actinopterygii,Cryptic Triplefin,Cryptichthys jojettae,Stable,Global,Least Concern
+animalia — actinopterygii,,Blennodon dorsale,Unknown,Global,Least Concern
+animalia — gastropoda,New Zealand Mudsnail,Potamopyrgus antipodarum,Stable,Global,Least Concern
+animalia — actinopterygii,Clown Toado,Canthigaster callisterna,Unknown,Global,Least Concern
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Smalleye Squaretail,Tetragonurus cuvieri,Stable,Global,Least Concern
+animalia — actinopterygii,Bulbous Dreamer,Oneirodes eschrichtii,Unknown,Global,Least Concern
+animalia — actinopterygii,Banded bellows fish ,Centriscops humerosus,Unknown,Global,Least Concern
+animalia — aves,Auckland Teal,Anas aucklandica,Stable,Global,Vulnerable
+animalia — aves,Shore Plover,Thinornis novaeseelandiae,Stable,Global,Endangered
+animalia — aves,White-winged Petrel,Pterodroma leucoptera,Decreasing,Global,Vulnerable
+animalia — aves,Magenta Petrel,Pterodroma magentae,Increasing,Global,Critically Endangered
+animalia — aves,Black Swan,Cygnus atratus,Stable,Global,Least Concern
+animalia — aves,Weka,Gallirallus australis,Decreasing,Global,Vulnerable
+animalia — chondrichthyes,Spinetail Devil Ray,Mobula mobular,Decreasing,Global,Endangered
+animalia — aves,Buller's Shearwater,Ardenna bulleri,Stable,Global,Vulnerable
+animalia — aves,Auckland Shag,Leucocarbo colensoi,Stable,Global,Vulnerable
+animalia — aves,Greater Sandplover,Charadrius leschenaultii,Decreasing,Global,Least Concern
+animalia — aves,Bristle-thighed Curlew,Numenius tahitiensis,Decreasing,Global,Near Threatened
+animalia — aves,Southern Rockhopper Penguin,Eudyptes chrysocome,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Spotted Barracudina,Arctozenus risso,Unknown,Global,Least Concern
+animalia — actinopterygii,Bristlemouth,Sigmops bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sloane's Viperfish,Chauliodus sloani,Unknown,Global,Least Concern
+animalia — mammalia,Cuvier's Beaked Whale,Ziphius cavirostris,Unknown,Global,Least Concern
+animalia — mammalia,Striped Dolphin,Stenella coeruleoalba,Unknown,Global,Least Concern
+animalia — aves,Arctic Tern,Sterna paradisaea,Decreasing,Global,Least Concern
+animalia — aves,Snares Penguin,Eudyptes robustus,Stable,Global,Vulnerable
+animalia — chondrichthyes,Galapagos Shark,Carcharhinus galapagensis,Unknown,Global,Least Concern
+animalia — myxini,Broadgilled Hagfish,Eptatretus cirrhatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluespine Unicornfish,Naso unicornis,Unknown,Global,Least Concern
+animalia — actinopterygii,Convict Surgeonfish,Acanthurus triostegus,Stable,Global,Least Concern
+animalia — actinopterygii,Twister,Bellapiscis medius,Stable,Global,Least Concern
+animalia — actinopterygii,Oblique-swimming Triplefin,Forsterygion maryannae,Stable,Global,Least Concern
+animalia — chondrichthyes,Tiger Shark,Galeocerdo cuvier,Decreasing,Global,Near Threatened
+animalia — mammalia,New Zealand Sea Lion,Phocarctos hookeri,Decreasing,Global,Endangered
+animalia — actinopterygii,Agassiz's Thread-sail Fish,Chlorophthalmus agassizi,Unknown,Global,Least Concern
+animalia — actinopterygii,Spothead Lantern Fish,Diaphus metopoclampus,Unknown,Global,Least Concern
+animalia — actinopterygii,Softhead Grenadier,Malacocephalus laevis,Unknown,Global,Least Concern
+animalia — mammalia,Hector's Dolphin,Cephalorhynchus hectori,Decreasing,Global,Endangered
+animalia — aves,Little Egret,Egretta garzetta,Increasing,Global,Least Concern
+animalia — aves,Common Greenshank,Tringa nebularia,Stable,Global,Least Concern
+animalia — actinopterygii,Bigscale Deepsea Smelt,Melanolagus bericoides,Unknown,Global,Least Concern
+animalia — actinopterygii,Rakery Beaconlamp,Lampanyctus macdonaldi,Unknown,Global,Least Concern
+animalia — amphibia,Archey's Frog,Leiopelma archeyi,Stable,Global,Critically Endangered
+animalia — actinopterygii,Longspine Bellowsfish ,Notopogon xenosoma,Unknown,Global,Least Concern
+animalia — aves,Antipodes Parakeet,Cyanoramphus unicolor,Stable,Global,Vulnerable
+animalia — aves,Chatham Snipe,Coenocorypha pusilla,Stable,Global,Vulnerable
+animalia — clitellata,,Deinodrilus benhami,Unknown,Global,Data Deficient

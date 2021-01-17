@@ -1,54 +1,61 @@
 kingdom_class,common_name,scientific_name,trend,region,threat_level
-animalia — insecta,Lord Howe Horn-headed Stick-insect,Cornicandovia australica,Unknown,Global,Critically Endangered
-animalia — amphibia,Yellow-spotted Tree Frog,Litoria castanea,Unknown,Global,Critically Endangered
-animalia — amphibia,Peppered Tree Frog,Litoria piperata,Unknown,Global,Critically Endangered
-animalia — mammalia,Nullarbor Dwarf Bettong,Bettongia pusilla,,Global,Extinct
-animalia — mammalia,Western Long-beaked Echidna,Zaglossus bruijnii,Decreasing,Global,Critically Endangered
-animalia — mammalia,Darling Downs Hopping-mouse,Notomys mordax,,Global,Extinct
-animalia — mammalia,White-footed Rabbit-rat,Conilurus albipes,,Global,Extinct
-animalia — gastropoda,,Tornelasmias capricorni,,Global,Extinct
-animalia — gastropoda,,Beddomeia tumida,Unknown,Global,Critically Endangered
-animalia — aves,Lord Howe Gerygone,Gerygone insularis,,Global,Extinct
-animalia — aves,Island Thrush,Turdus poliocephalus,Decreasing,Global,Least Concern
-animalia — gastropoda,,Fluvidona dulvertonensis,,Global,Extinct
-animalia — hydrozoa,,Millepora boschmai,Unknown,Global,Critically Endangered
-animalia — amphibia,Mount Glorious Torrent Frog,Taudactylus diurnus,,Global,Extinct
-animalia — mammalia,Short-tailed Hopping-mouse,Notomys amplus,,Global,Extinct
-animalia — mammalia,Crescent Nailtail Wallaby,Onychogalea lunata,,Global,Extinct
-animalia — mammalia,Lord Howe Long-eared Bat,Nyctophilus howensis,,Global,Extinct
-animalia — mammalia,Lesser Stick-nest Rat,Leporillus apicalis,,Global,Extinct
-animalia — turbellaria,Lake Pedder Planarian,Romankenkius pedderensis,,Global,Extinct
-animalia — actinopterygii,Smooth Handfish,Sympterichthys unipennis,,Global,Extinct
-animalia — aves,Red-fronted Parakeet,Cyanoramphus novaezelandiae,Decreasing,Global,Least Concern
-animalia — amphibia,,Rheobatrachus vitellinus,,Global,Extinct
-animalia — mammalia,Eastern Hare-wallaby,Lagorchestes leporides,,Global,Extinct
-animalia — mammalia,Broad-faced Potoroo,Potorous platyops,,Global,Extinct
-animalia — mammalia,Pig-footed Bandicoot,Chaeropus ecaudatus,,Global,Extinct
-animalia — mammalia,Broad-cheeked Hopping-mouse,Notomys robustus,,Global,Extinct
-animalia — mammalia,Percy Island Flying Fox,Pteropus brunneus,,Global,Extinct
-animalia — mammalia,Blue-grey Mouse,Pseudomys glaucus,,Global,Extinct
-animalia — mammalia,Big-eared Hopping-mouse,Notomys macrotis,,Global,Extinct
-animalia — aves,Robust White-eye,Zosterops strenuus,,Global,Extinct
-animalia — aves,Paradise Parrot,Psephotellus pulcherrimus,,Global,Extinct
-animalia — aves,Metallic Pigeon,Columba vitiensis,Stable,Global,Least Concern
-animalia — aves,King Island Emu,Dromaius minor,,Global,Extinct
-animalia — malacostraca,Coconut Crab,Birgus latro,Decreasing,Global,Vulnerable
-animalia — mammalia,Toolache Wallaby,Macropus greyi,,Global,Extinct
-animalia — clitellata,Lake Pedder Earthworm,Hypolimnus pedderensis,,Global,Extinct
-animalia — mammalia,Kuluwarri,Lagorchestes asomatus,,Global,Extinct
-animalia — mammalia,Desert Rat Kangaroo,Caloprymnus campestris,,Global,Extinct
-animalia — mammalia,Long-eared Mouse,Pseudomys auritus,,Global,Extinct
-animalia — mammalia,Desert Bettong,Bettongia anhydra,,Global,Extinct
-animalia — aves,Kangaroo Island Emu,Dromaius baudinianus,,Global,Extinct
-animalia — gastropoda,,Placostylus cuniculinsulae,,Global,Extinct
-animalia — amphibia,,Rheobatrachus silus,,Global,Extinct
-animalia — mammalia,Thylacine,Thylacinus cynocephalus,,Global,Extinct
-animalia — mammalia,Desert Bandicoot,Perameles eremiana,,Global,Extinct
-animalia — mammalia,Yallara,Macrotis leucura,,Global,Extinct
-animalia — mammalia,Gould's Mouse,Pseudomys gouldii,,Global,Extinct
-animalia — mammalia,Long-tailed Hopping-mouse,Notomys longicaudatus,,Global,Extinct
-animalia — aves,White Swamphen,Porphyrio albus,,Global,Extinct
-animalia — aves,Norfolk Starling,Aplonis fusca,,Global,Extinct
-animalia — mammalia,Bramble Cay Melomys,Melomys rubicola,,Global,Extinct
-animalia — mammalia,Capricorn Rabbit-rat,Conilurus capricornensis,,Global,Extinct
-animalia — aves,Grey Petrel,Procellaria cinerea,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Red Parrotfish,Scarus xanthopleura,Unknown,Global,Least Concern
+animalia — actinopterygii,Three-spot Seahorse,Hippocampus trimaculatus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Bullethead Parrotfish,Chlorurus spilurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pacific Longnose Parrotfish,Hipposcarus longiceps,Unknown,Global,Least Concern
+animalia — actinopterygii,Bleeker's Parrotfish,Chlorurus bleekeri,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Parrotfish,Scarus niger,Unknown,Global,Least Concern
+animalia — actinopterygii,Rivulated Parrotfish,Scarus rivulatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Greensnout Parrotfish,Scarus spinus,Unknown,Global,Least Concern
+animalia — mammalia,Northern Hairy-nosed Wombat,Lasiorhinus krefftii,Stable,Global,Critically Endangered
+animalia — mammalia,Yellow-bellied Glider,Petaurus australis,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Indo-Pacific Tarpon,Megalops cyprinoides,Unknown,Global,Data Deficient
+animalia — mammalia,New Zealand Fur Seal,Arctocephalus forsteri,Increasing,Global,Least Concern
+animalia — actinopterygii,Spotted Seahorse,Hippocampus kuda,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Spotted Wrasse,Anampses meleagrides,Stable,Global,Least Concern
+animalia — malacostraca,,Euastacus urospinosus,Unknown,Global,Endangered
+animalia — amphibia,,Geocrinia vitellina,Stable,Global,Vulnerable
+animalia — actinopterygii,Semicircle Angelfish,Pomacanthus semicirculatus,Stable,Global,Least Concern
+animalia — reptilia,Turtleheaded Sea Snake,Emydocephalus annulatus,Decreasing,Global,Least Concern
+animalia — actinopterygii,,Coris gaimard,Stable,Global,Least Concern
+animalia — actinopterygii,,Oxycheilinus digramma,Unknown,Global,Least Concern
+animalia — mammalia,Mountain Pygmy Possum,Burramys parvus,Decreasing,Global,Critically Endangered
+animalia — chondrichthyes,Bull Shark,Carcharhinus leucas,Unknown,Global,Near Threatened
+animalia — malacostraca,,Cherax destructor,,Global,Vulnerable
+animalia — malacostraca,,Cherax quadricarinatus,Unknown,Global,Least Concern
+animalia — amphibia,Freycinet’s Frog,Litoria freycineti,Decreasing,Global,Vulnerable
+animalia — amphibia,,Litoria subglandulosa,Decreasing,Global,Vulnerable
+animalia — amphibia,Tinkling Froglet,Crinia tinnula,Decreasing,Global,Vulnerable
+animalia — amphibia,,Philoria kundagungan,Decreasing,Global,Endangered
+animalia — insecta,Lord Howe Island Stick-insect,Dryococelus australis,Unknown,Global,Critically Endangered
+animalia — reptilia,Carpet Python,Morelia spilota,Decreasing,Global,Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Leptostomias gladiator,Unknown,Global,Least Concern
+animalia — actinopterygii,Alfonsino,Beryx decadactylus,Unknown,Global,Least Concern
+animalia — mammalia,Greater Northern Free-tailed Bat,Chaerephon jobensis,Stable,Global,Least Concern
+animalia — mammalia,Central Rock-rat,Zyzomys pedunculatus,Decreasing,Global,Critically Endangered
+animalia — cephalopoda,,Sepia latimanus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Barramundi,Lates calcarifer,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus tessulatus,Stable,Global,Least Concern
+animalia — gastropoda,,Conus vexillum,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus canonicus,Unknown,Global,Least Concern
+animalia — holothuroidea,,Thelenota ananas,Decreasing,Global,Endangered
+animalia — actinopterygii,Banded Archerfish,Toxotes jaculatrix,Unknown,Global,Least Concern
+animalia — actinopterygii,Papuan Toby,Canthigaster papua,Unknown,Global,Least Concern
+animalia — actinopterygii,Orange-socket Surgeonfish,Acanthurus auranticavus,Unknown,Global,Least Concern
+animalia — actinopterygii,Elongate Surgeonfish,Acanthurus mata,Stable,Global,Least Concern
+animalia — actinopterygii,Slender Unicornfish,Naso lopezi,Unknown,Global,Least Concern
+animalia — actinopterygii,Humpnose Unicornfish,Naso tuberosus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Finelined Surgeonfish,Acanthurus grammoptilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Half-naked Hatchetfish,Argyropelecus hemigymnus,Stable,Global,Least Concern
+animalia — actinopterygii,Pennant Coral Fish,Heniochus acuminatus,Stable,Global,Least Concern
+animalia — gastropoda,,Conus leopardus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus armadillo,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus obscurus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus granum,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus victoriae,Unknown,Global,Least Concern
+animalia — gastropoda,Bubble Cone,Conus bullatus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus textile,,Global,Least Concern
+animalia — gastropoda,,Conus mustelinus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus boeticus,Unknown,Global,Least Concern
+animalia — gastropoda,Supreme Cone,Conus monachus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sixplate Sawtail,Prionurus microlepidotus,Unknown,Global,Least Concern

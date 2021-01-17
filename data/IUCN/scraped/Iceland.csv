@@ -1,3 +1,61 @@
 kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — actinopterygii,Dealfish,Trachipterus arcticus,Unknown,Global,Least Concern
+animalia — mammalia,Harbor Seal,Phoca vitulina,Unknown,Global,Least Concern
+animalia — actinopterygii,Alfonsino,Beryx decadactylus,Unknown,Global,Least Concern
+animalia — actinopterygii,Half-naked Hatchetfish,Argyropelecus hemigymnus,Stable,Global,Least Concern
+animalia — actinopterygii,Black Scabbardfish,Aphanopus carbo,Unknown,Global,Least Concern
+animalia — mammalia,Sowerby's Beaked Whale,Mesoplodon bidens,Unknown,Global,Least Concern
+animalia — aves,Eurasian Blackcap,Sylvia atricapilla,Increasing,Global,Least Concern
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Bulbous Dreamer,Oneirodes eschrichtii,Unknown,Global,Least Concern
+animalia — chondrichthyes,Shagreen Skate,Leucoraja fullonica,Decreasing,"Global, Europe",Vulnerable
+animalia — actinopterygii,Silvery Lightfish,Maurolicus muelleri,Unknown,Global,Least Concern
+animalia — chondrichthyes,Rabbitfish,Chimaera monstrosa,Decreasing,Global,Vulnerable
+animalia — aves,Gyrfalcon,Falco rusticolus,Stable,Global,Least Concern
+animalia — chondrichthyes,Thornback Skate,Raja clavata,Decreasing,Global,Near Threatened
+animalia — aves,Lapland Longspur,Calcarius lapponicus,Increasing,Global,Least Concern
+animalia — aves,Grey Wagtail,Motacilla cinerea,Stable,Global,Least Concern
+animalia — aves,Meadow Pipit,Anthus pratensis,Decreasing,Global,Near Threatened
+animalia — aves,Eurasian Oystercatcher,Haematopus ostralegus,Decreasing,Global,Near Threatened
+animalia — chondrichthyes,Iceland Catshark,Apristurus laurussonii,Stable,Global,Least Concern
+animalia — aves,European Shag,Gulosus aristotelis,Decreasing,Global,Least Concern
+animalia — aves,Red-necked Phalarope,Phalaropus lobatus,Decreasing,Global,Least Concern
+animalia — aves,Grey Heron,Ardea cinerea,Unknown,Global,Least Concern
+animalia — actinopterygii,Electric Lantern Fish,Electrona risso,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Barracudina,Arctozenus risso,Unknown,Global,Least Concern
+animalia — actinopterygii,Bristlemouth,Sigmops bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sloane's Viperfish,Chauliodus sloani,Unknown,Global,Least Concern
+animalia — aves,Sabine's Gull,Xema sabini,Stable,Global,Least Concern
+animalia — actinopterygii,Bean's Sawtooth Eel,Serrivomer beanii,Unknown,Global,Least Concern
+animalia — aves,Thick-billed Murre,Uria lomvia,Increasing,Global,Least Concern
+animalia — aves,Common Scoter,Melanitta nigra,Unknown,Global,Least Concern
+animalia — aves,Red Phalarope,Phalaropus fulicarius,Unknown,Global,Least Concern
+animalia — aves,Arctic Tern,Sterna paradisaea,Decreasing,Global,Least Concern
+animalia — aves,Black Guillemot,Cepphus grylle,Unknown,Global,Least Concern
+animalia — aves,Common Murre,Uria aalge,Increasing,Global,Least Concern
+animalia — aves,Black-legged Kittiwake,Rissa tridactyla,Decreasing,Global,Vulnerable
+animalia — mammalia,Red Fox,Vulpes vulpes,Stable,Global,Least Concern
+animalia — mammalia,Bearded Seal,Erignathus barbatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Softhead Grenadier,Malacocephalus laevis,Unknown,Global,Least Concern
+animalia — actinopterygii,Striped Seasnail,Liparis liparis,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Snake Pipefish,Entelurus aequoreus,Stable,"Global, Europe",Least Concern
+animalia — aves,Whooper Swan,Cygnus cygnus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigscale Deepsea Smelt,Melanolagus bericoides,Unknown,Global,Least Concern
+animalia — actinopterygii,Rakery Beaconlamp,Lampanyctus macdonaldi,Unknown,Global,Least Concern
 animalia — mammalia,Gray Whale,Eschrichtius robustus,Stable,Global,Least Concern
-animalia — aves,Great Auk,Pinguinus impennis,,Global,Extinct
+animalia — chondrichthyes,White Ghost Catshark,Apristurus aphyodes,Unknown,"Global, Europe",Least Concern
+animalia — aves,Eurasian Wigeon,Mareca penelope,Decreasing,Global,Least Concern
+animalia — aves,Brent Goose,Branta bernicla,Unknown,Global,Least Concern
+animalia — aves,Red-breasted Merganser,Mergus serrator,Stable,Global,Least Concern
+animalia — aves,White Wagtail,Motacilla alba,Stable,Global,Least Concern
+animalia — aves,Eurasian Collared-dove,Streptopelia decaocto,Increasing,Global,Least Concern
+animalia — aves,Harlequin Duck,Histrionicus histrionicus,Increasing,Global,Least Concern
+animalia — aves,Arctic Jaeger,Stercorarius parasiticus,Stable,Global,Least Concern
+animalia — chondrichthyes,Greenland Shark,Somniosus microcephalus,Decreasing,Global,Vulnerable
+animalia — chondrichthyes,Small-eyed Rabbitfish,Hydrolagus affinis,Stable,Global,Least Concern
+animalia — chondrichthyes,Spinytail Skate,Bathyraja spinicauda,Decreasing,Global,Near Threatened
+animalia — chondrichthyes,Black Dogfish,Centroscyllium fabricii,Stable,Global,Least Concern
+animalia — chondrichthyes,Thorny Skate,Amblyraja radiata,Decreasing,Global,Vulnerable
+animalia — aves,Black-headed Gull,Larus ridibundus,Unknown,Global,Least Concern
+animalia — aves,European Storm-petrel,Hydrobates pelagicus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Spiny Dogfish,Squalus acanthias,Decreasing,Global,Vulnerable

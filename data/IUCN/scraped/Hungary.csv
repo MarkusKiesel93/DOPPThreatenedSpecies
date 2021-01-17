@@ -1,22 +1,858 @@
 kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — gastropoda,Moss Chrysalis Snail,Pupilla muscorum,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Isoriphis marmottani,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Clytus tropicus,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Monochamus sartor,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Rosalia alpina,,Global,Vulnerable
+animalia — mammalia,Lesser Horseshoe Bat,Rhinolophus hipposideros,Decreasing,Global,Least Concern
+animalia — mammalia,Nathusius' Pipistrelle,Pipistrellus nathusii,Unknown,Global,Least Concern
+animalia — insecta,Ashton's Cuckoo Bumblebee,Bombus bohemicus,Decreasing,Global,Data Deficient
+animalia — reptilia,,Podarcis muralis,Stable,Global,Least Concern
 animalia — insecta,,Lycaena ottomana,Decreasing,Global,Vulnerable
+animalia — amphibia,,Bombina variegata,Decreasing,"Global, Europe",Least Concern
+animalia — reptilia,,Lacerta viridis,Decreasing,Global,Least Concern
+animalia — amphibia,Agile Frog,Rana dalmatina,Decreasing,Global,Least Concern
+animalia — insecta,,Cucujus cinnaberinus,Increasing,"Global, Europe",Near Threatened
+animalia — amphibia,,Ichthyosaura alpestris,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Nomada hirtipes,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Nomada verna,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,Ornate Bluet,Coenagrion ornatum,Decreasing,Global,Least Concern
+animalia — insecta,Variable Bluet,Coenagrion pulchellum,Stable,Global,Least Concern
+animalia — insecta,Small Bluetail,Ischnura pumilio,Stable,Global,Least Concern
+animalia — insecta,Common Clubtail,Gomphus vulgatissimus,Stable,Global,Least Concern
+animalia — insecta,,Lestes macrostigma,Decreasing,Global,Least Concern
+animalia — insecta,Broad-Bodied Chaser,Libellula depressa,Stable,Global,Least Concern
+animalia — insecta,Southern Darter,Sympetrum meridionale,Stable,Global,Least Concern
+animalia — mammalia,Soprano Pipistrelle,Pipistrellus pygmaeus,Unknown,Global,Least Concern
+animalia — mammalia,Lesser Noctule,Nyctalus leisleri,Unknown,Global,Least Concern
+animalia — mammalia,Western Barbastelle,Barbastella barbastellus,Decreasing,Global,Near Threatened
+animalia — mammalia,Particoloured Bat,Vespertilio murinus,Stable,Global,Least Concern
+animalia — mammalia,European Mole,Talpa europaea,Stable,Global,Least Concern
+animalia — gastropoda,,Bythinella austriaca,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Bithynia leachii,Stable,"Global, Europe, Mediterranean",Least Concern
+animalia — insecta,,Stenopterus similatus,Unknown,"Global, Europe",Data Deficient
+animalia — amphibia,European Tree Frog,Hyla arborea,Decreasing,Global,Least Concern
+animalia — insecta,,Phengaris teleius,,Global,Near Threatened
+animalia — gastropoda,,Malacolimax tenellus,Stable,"Global, Europe",Least Concern
+animalia — aves,Stock Dove,Columba oenas,Increasing,Global,Least Concern
+animalia — aves,Jack Snipe,Lymnocryptes minimus,Stable,Global,Least Concern
+animalia — aves,Spotted Redshank,Tringa erythropus,Stable,Global,Least Concern
+animalia — aves,Marsh Sandpiper,Tringa stagnatilis,Decreasing,Global,Least Concern
+animalia — aves,Wood Warbler,Phylloscopus sibilatrix,Decreasing,Global,Least Concern
+animalia — aves,Bearded Reedling,Panurus biarmicus,Unknown,Global,Least Concern
+animalia — aves,Alpine Accentor,Prunella collaris,Stable,Global,Least Concern
+animalia — aves,Eurasian Blackcap,Sylvia atricapilla,Increasing,Global,Least Concern
+animalia — aves,Yellowhammer,Emberiza citrinella,Decreasing,Global,Least Concern
+animalia — insecta,Cone-headed Grasshopper,Acrida ungarica,Stable,"Global, Europe",Least Concern
+animalia — insecta,Green Mountain Grasshopper,Miramella alpina,Stable,"Global, Europe",Least Concern
+animalia — insecta,Balkan Speckled Bush-cricket,Leptophyes boscii,Decreasing,"Global, Europe",Least Concern
 animalia — insecta,Fieber's Mountain Grasshopper,Pseudopodisma fieberi,Decreasing,"Global, Europe",Least Concern
 animalia — insecta,Moorland Hawker,Aeshna juncea,Stable,Global,Least Concern
+animalia — aves,Mute Swan,Cygnus olor,Increasing,Global,Least Concern
+animalia — aves,Common Crane,Grus grus,Increasing,Global,Least Concern
+animalia — aves,Eurasian Bittern,Botaurus stellaris,Decreasing,Global,Least Concern
+animalia — mammalia,Bicolored Shrew,Crocidura leucodon,Unknown,Global,Least Concern
+animalia — mammalia,Eurasian Pygmy Shrew,Sorex minutus,Stable,Global,Least Concern
+animalia — insecta,,Anogcodes fulvicollis,Stable,"Global, Europe",Least Concern
+animalia — aves,Common Grasshopper-warbler,Locustella naevia,Stable,Global,Least Concern
+animalia — aves,Woodchat Shrike,Lanius senator,Decreasing,Global,Least Concern
+animalia — aves,Rook,Corvus frugilegus,Decreasing,Global,Least Concern
+animalia — aves,Carrion Crow,Corvus corone,Increasing,Global,Least Concern
+animalia — mammalia,Hazel Dormouse,Muscardinus avellanarius,Unknown,Global,Least Concern
 animalia — mammalia,Brown Bear,Ursus arctos,Stable,Global,Least Concern
+animalia — aves,Common Kestrel,Falco tinnunculus,Decreasing,Global,Least Concern
+animalia — aves,River Warbler,Locustella fluviatilis,Decreasing,Global,Least Concern
+animalia — aves,Ortolan Bunting,Emberiza hortulana,Decreasing,Global,Least Concern
+animalia — aves,Lapland Longspur,Calcarius lapponicus,Increasing,Global,Least Concern
+animalia — aves,Eurasian Treecreeper,Certhia familiaris,Stable,Global,Least Concern
+animalia — aves,Grey Wagtail,Motacilla cinerea,Stable,Global,Least Concern
+animalia — aves,Black Stork,Ciconia nigra,Unknown,Global,Least Concern
+animalia — aves,Common Nightingale,Luscinia megarhynchos,Stable,Global,Least Concern
+animalia — aves,Great Spotted Woodpecker,Dendrocopos major,Increasing,Global,Least Concern
+animalia — aves,Northern Long-eared Owl,Asio otus,Decreasing,Global,Least Concern
+animalia — aves,Eurasian Jackdaw,Corvus monedula,Stable,Global,Least Concern
+animalia — aves,White-throated Dipper,Cinclus cinclus,Decreasing,Global,Least Concern
+animalia — aves,European Pied Flycatcher,Ficedula hypoleuca,Decreasing,Global,Least Concern
+animalia — aves,Meadow Pipit,Anthus pratensis,Decreasing,Global,Near Threatened
+animalia — gastropoda,,Sphyradium doliolum,Stable,Global,Least Concern
+animalia — aves,Pygmy Cormorant,Microcarbo pygmaeus,Increasing,Global,Least Concern
+animalia — aves,Black Redstart,Phoenicurus ochruros,Increasing,Global,Least Concern
+animalia — aves,Marsh Warbler,Acrocephalus palustris,Stable,Global,Least Concern
+animalia — aves,Olivaceous Warbler,Iduna pallida,Stable,Global,Least Concern
+animalia — aves,Common Whitethroat,Sylvia communis,Increasing,Global,Least Concern
+animalia — aves,Eurasian Penduline-tit,Remiz pendulinus,Increasing,Global,Least Concern
+animalia — aves,Eurasian Oystercatcher,Haematopus ostralegus,Decreasing,Global,Near Threatened
+animalia — insecta,Sombre Goldenring,Cordulegaster bidentata,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,Balkan Goldenring,Cordulegaster heros,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,Lilypad Whiteface,Leucorrhinia caudalis,Stable,Global,Least Concern
+animalia — insecta,Southern Sickle Bush-cricket,Phaneroptera nana,Increasing,Global,Least Concern
+animalia — aves,Bluethroat,Cyanecula svecica,Stable,Global,Least Concern
+animalia — aves,European Bee-eater,Merops apiaster,Stable,Global,Least Concern
+animalia — aves,Glossy Ibis,Plegadis falcinellus,Decreasing,Global,Least Concern
+animalia — aves,Grey Heron,Ardea cinerea,Unknown,Global,Least Concern
+animalia — aves,Eurasian Spoonbill,Platalea leucorodia,Unknown,Global,Least Concern
+animalia — mammalia,Schreiber's Bent-winged Bat,Miniopterus schreibersii,Decreasing,Global,Vulnerable
+animalia — aves,Velvet Scoter,Melanitta fusca,Decreasing,Global,Vulnerable
+animalia — aves,Eurasian Bullfinch,Pyrrhula pyrrhula,Decreasing,Global,Least Concern
+animalia — aves,Common Scoter,Melanitta nigra,Unknown,Global,Least Concern
+animalia — aves,Little Gull,Hydrocoloeus minutus,Increasing,Global,Least Concern
+animalia — mammalia,Golden Jackal,Canis aureus,Increasing,Global,Least Concern
+animalia — mammalia,Red Fox,Vulpes vulpes,Stable,Global,Least Concern
+animalia — aves,Eurasian Nuthatch,Sitta europaea,Stable,Global,Least Concern
+animalia — aves,Willow Tit,Poecile montanus,Decreasing,Global,Least Concern
+animalia — aves,Black-necked Grebe,Podiceps nigricollis,Unknown,Global,Least Concern
 animalia — actinopterygii,Beluga,Huso huso,Decreasing,Global,Critically Endangered
+animalia — reptilia,,Natrix tessellata,Decreasing,Global,Least Concern
+animalia — insecta,Grayling,Hipparchia semele,Decreasing,"Global, Europe",Least Concern
+animalia — gastropoda,Lesser Bulin,Merdigera obscura,Stable,Global,Least Concern
+animalia — gastropoda,,Isognomostoma isognomostomos,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Ampedus aethiops,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Grynocharis oblonga,Decreasing,"Global, Europe",Least Concern
+animalia — actinopterygii,Ukrainian Stickleback,Pungitius platygaster,Unknown,Global,Least Concern
+animalia — gastropoda,Black Nerite,Theodoxus prevostianus,Unknown,"Global, Europe",Endangered
+animalia — insecta,Spotted Darter,Sympetrum depressiusculum,Unknown,Global,Least Concern
+animalia — insecta,Geelschouderwespbij,Nomada ferruginata,Stable,"Global, Europe",Least Concern
+animalia — mammalia,Noctule,Nyctalus noctula,Unknown,Global,Least Concern
+animalia — mammalia,Greater Mouse-eared Bat,Myotis myotis,Stable,Global,Least Concern
+animalia — mammalia,Lesser Mouse-eared Myotis,Myotis blythii,Decreasing,Global,Least Concern
+animalia — mammalia,,Myotis dasycneme,Decreasing,Global,Near Threatened
+animalia — mammalia,Savi's Pipistrelle,Hypsugo savii,Stable,Global,Least Concern
+animalia — mammalia,Eurasian Otter,Lutra lutra,Decreasing,Global,Near Threatened
+animalia — mammalia,Moose,Alces alces,Increasing,Global,Least Concern
+animalia — insecta,,Andrena bucephala,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Andrena fulvata,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Andrena suerinensis,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,Yellow-spotted Emerald,Somatochlora flavomaculata,Stable,Global,Least Concern
+animalia — insecta,Vagrant Darter,Sympetrum vulgatum,Stable,Global,Least Concern
+animalia — reptilia,,Podarcis tauricus,Stable,Global,Least Concern
+animalia — mammalia,Pine Marten,Martes martes,Stable,Global,Least Concern
+animalia — insecta,Green Emerald Damselfly,Chalcolestes viridis,Stable,Global,Least Concern
+animalia — mammalia,Wild Boar,Sus scrofa,Unknown,Global,Least Concern
+animalia — aves,Hazel Grouse,Bonasa bonasia,Decreasing,Global,Least Concern
+animalia — aves,Smew,Mergellus albellus,Decreasing,Global,Least Concern
+animalia — aves,Greater White-fronted Goose,Anser albifrons,Unknown,Global,Least Concern
+animalia — aves,Little Crake,Zapornia parva,Stable,Global,Least Concern
+animalia — aves,White Stork,Ciconia ciconia,Increasing,Global,Least Concern
+animalia — aves,Little Egret,Egretta garzetta,Increasing,Global,Least Concern
+animalia — aves,Common Greenshank,Tringa nebularia,Stable,Global,Least Concern
+animalia — aves,Tawny Owl,Strix aluco,Stable,Global,Least Concern
+animalia — insecta,,Evodinus clathratus,Stable,"Global, Europe",Least Concern
+animalia — insecta,Krauss's Plump Bush-cricket,Isophya kraussii,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Stys' Plump Bush-cricket,Isophya stysi,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Blue-eyed Hawker,Aeshna affinis,Increasing,Global,Least Concern
+animalia — insecta,Common Saw Bush-cricket,Barbitistes serricauda,Unknown,"Global, Europe",Least Concern
+animalia — aves,Lesser Grey Shrike,Lanius minor,Decreasing,Global,Least Concern
+animalia — aves,Crested Tit,Lophophanes cristatus,Decreasing,Global,Least Concern
+animalia — amphibia,Marsh Frog,Pelophylax ridibundus,Increasing,Global,Least Concern
+animalia — mammalia,European Souslik,Spermophilus citellus,Decreasing,"Global, Europe",Endangered
+animalia — insecta,Migrant Hawker,Aeshna mixta,Increasing,Global,Least Concern
+animalia — insecta,Azure Bluet,Coenagrion puella,Unknown,Global,Least Concern
+animalia — aves,European Honey-buzzard,Pernis apivorus,Decreasing,Global,Least Concern
+animalia — aves,Montagu's Harrier,Circus pygargus,Decreasing,Global,Least Concern
+animalia — insecta,Black Darter,Sympetrum danae,Stable,Global,Least Concern
+animalia — mammalia,Wild Cat,Felis silvestris,Decreasing,Global,Least Concern
 animalia — aves,Aquatic Warbler,Acrocephalus paludicola,Decreasing,Global,Vulnerable
+animalia — aves,Greater Spotted Eagle,Clanga clanga,Decreasing,Global,Vulnerable
+animalia — aves,Eurasian Wigeon,Mareca penelope,Decreasing,Global,Least Concern
+animalia — aves,Eurasian Eagle-owl,Bubo bubo,Decreasing,Global,Least Concern
+animalia — reptilia,European Pond Turtle,Emys orbicularis,,Global,Near Threatened
+animalia — aves,Hawfinch,Coccothraustes coccothraustes,Increasing,Global,Least Concern
+animalia — aves,Rock Bunting,Emberiza cia,Increasing,Global,Least Concern
+animalia — mammalia,Forest Dormouse,Dryomys nitedula,Unknown,Global,Least Concern
+animalia — mammalia,European Pine Vole,Microtus subterraneus,Stable,Global,Least Concern
+animalia — mammalia,Southern Water Shrew,Neomys anomalus,Decreasing,Global,Least Concern
+animalia — aves,Brent Goose,Branta bernicla,Unknown,Global,Least Concern
+animalia — aves,Corncrake,Crex crex,Stable,Global,Least Concern
+animalia — insecta,Steppe Spiny Bush-cricket,Gampsocleis glabra,Decreasing,Global,Least Concern
+animalia — aves,Red-breasted Merganser,Mergus serrator,Stable,Global,Least Concern
+animalia — aves,White Wagtail,Motacilla alba,Stable,Global,Least Concern
+animalia — aves,Eurasian Collared-dove,Streptopelia decaocto,Increasing,Global,Least Concern
+animalia — aves,European Serin,Serinus serinus,Decreasing,Global,Least Concern
+animalia — mammalia,Eurasian Harvest Mouse,Micromys minutus,Stable,Global,Least Concern
+animalia — aves,Bean Goose,Anser fabalis,Decreasing,Global,Least Concern
+animalia — aves,Arctic Jaeger,Stercorarius parasiticus,Stable,Global,Least Concern
 animalia — insecta,Southern Barbed-wire Bush-cricket,Onconotus servillei,Unknown,Global,Least Concern
+animalia — aves,Black-headed Gull,Larus ridibundus,Unknown,Global,Least Concern
+animalia — aves,Common Woodpigeon,Columba palumbus,Increasing,Global,Least Concern
+animalia — aves,Levant Sparrowhawk,Accipiter brevipes,Stable,Global,Least Concern
+animalia — aves,Red-footed Falcon,Falco vespertinus,Decreasing,Global,Near Threatened
+animalia — aves,Squacco Heron,Ardeola ralloides,Unknown,Global,Least Concern
+animalia — aves,Eurasian Skylark,Alauda arvensis,Decreasing,Global,Least Concern
+animalia — aves,Redpoll,Acanthis flammea,Decreasing,Global,Least Concern
+animalia — aves,Reed Bunting,Emberiza schoeniclus,Decreasing,Global,Least Concern
+animalia — aves,Black-winged Stilt,Himantopus himantopus,Increasing,Global,Least Concern
+animalia — aves,Yellow-legged Gull,Larus michahellis,Increasing,Global,Least Concern
+animalia — aves,Northern Shoveler,Spatula clypeata,Decreasing,Global,Least Concern
+animalia — aves,Ring Ouzel,Turdus torquatus,Stable,Global,Least Concern
+animalia — aves,Common Starling,Sturnus vulgaris,Decreasing,Global,Least Concern
+animalia — aves,Common Shelduck,Tadorna tadorna,Increasing,Global,Least Concern
+animalia — aves,Mediterranean Gull,Larus melanocephalus,Decreasing,Global,Least Concern
+animalia — aves,Ruddy Turnstone,Arenaria interpres,Decreasing,Global,Least Concern
+animalia — aves,Black Kite,Milvus migrans,Stable,Global,Least Concern
+animalia — aves,Common Hoopoe,Upupa epops,Decreasing,Global,Least Concern
+animalia — insecta,,Corticeus bicoloroides,Unknown,"Global, Europe",Endangered
+animalia — insecta,,Mycetochara roubali,Unknown,"Global, Europe",Vulnerable
+animalia — insecta,White-tailed Skimmer,Orthetrum albistylum,Unknown,Global,Least Concern
+animalia — insecta,Keeled Skimmer,Orthetrum coerulescens,Stable,Global,Least Concern
+animalia — aves,Eastern Imperial Eagle,Aquila heliaca,Decreasing,Global,Vulnerable
+animalia — aves,Great White Egret,Ardea alba,Unknown,Global,Least Concern
+animalia — insecta,Green Hawker,Aeshna viridis,Stable,Global,Least Concern
+animalia — insecta,Brown Hawker,Aeshna grandis,Unknown,Global,Least Concern
+animalia — insecta,Banded Demoiselle,Calopteryx splendens,Stable,Global,Least Concern
+animalia — aves,Wallcreeper,Tichodroma muraria,Stable,Global,Least Concern
+animalia — aves,Ferruginous Duck,Aythya nyroca,Decreasing,Global,Near Threatened
+animalia — aves,Northern Goshawk,Accipiter gentilis,Unknown,Global,Least Concern
+animalia — aves,Common Raven,Corvus corax,Increasing,Global,Least Concern
+animalia — mammalia,Eurasian Red Squirrel,Sciurus vulgaris,Decreasing,Global,Least Concern
+animalia — aves,Little Ringed Plover,Charadrius dubius,Stable,Global,Least Concern
+animalia — aves,Little Grebe,Tachybaptus ruficollis,Decreasing,Global,Least Concern
+animalia — aves,Common Tern,Sterna hirundo,Unknown,Global,Least Concern
+animalia — bivalvia,Swollen River Mussel,Unio tumidus,Unknown,Global,Least Concern
+animalia — aves,Common Cuckoo,Cuculus canorus,Decreasing,Global,Least Concern
+animalia — aves,Collared Sand Martin,Riparia riparia,Decreasing,Global,Least Concern
+animalia — insecta,Large Copper,Lycaena dispar,,Global,Near Threatened
+animalia — insecta,,Phengaris nausithous,,Global,Near Threatened
+animalia — bivalvia,Porous Pea Mussel,Pisidium obtusale,Unknown,Global,Least Concern
+animalia — insecta,,Purpuricenus globulicollis,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Panurgus dentipes,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Macropis europaea,Decreasing,"Global, Europe",Least Concern
+animalia — amphibia,,Salamandra salamandra,Decreasing,"Global, Europe",Least Concern
+animalia — amphibia,,Lissotriton vulgaris,Stable,Global,Least Concern
+animalia — amphibia,,Triturus carnifex,Decreasing,"Global, Europe",Least Concern
+animalia — mammalia,Mediterranean Horseshoe Bat,Rhinolophus euryale,Decreasing,Global,Near Threatened
+animalia — mammalia,Giant Noctule,Nyctalus lasiopterus,Decreasing,Global,Vulnerable
+animalia — mammalia,Geoffroy's Bat,Myotis emarginatus,Stable,Global,Least Concern
+animalia — mammalia,Lesser Shrew,Crocidura suaveolens,Stable,Global,Least Concern
+animalia — mammalia,Bechstein's Myotis,Myotis bechsteinii,Decreasing,Global,Near Threatened
+animalia — bivalvia,Duck Mussel,Anodonta anatina,Decreasing,Global,Least Concern
+animalia — insecta,Knautiawespbij,Nomada armata,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,Signaalwespbij,Nomada signata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Radix auricularia,Stable,Global,Least Concern
+animalia — insecta,Rood-zwarte dubbeltand,Nomada fabriciana,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Limoniscus violaceus,Unknown,"Global, Europe",Endangered
+animalia — insecta,,Ampedus hjorti,Decreasing,"Global, Europe",Vulnerable
+animalia — insecta,,Tritoma bipustulata,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Ampedus melanurus,Decreasing,"Global, Europe",Data Deficient
+animalia — insecta,,Stenagostus rufus,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Osmoderma barnabita,Decreasing,"Global, Europe",Near Threatened
+animalia — amphibia,,Triturus cristatus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Ship sturgeon,Acipenser nudiventris,Decreasing,Global,Critically Endangered
+animalia — actinopterygii,Sterlet,Acipenser ruthenus,Decreasing,Global,Vulnerable
+animalia — bivalvia,Depressed River Mussel,Pseudanodonta complanata,Unknown,Global,Vulnerable
+animalia — mammalia,European Hare,Lepus europaeus,Decreasing,Global,Least Concern
+animalia — insecta,,Saphanus piceus,Stable,"Global, Europe",Least Concern
+animalia — aves,Sedge Warbler,Acrocephalus schoenobaenus,Stable,Global,Least Concern
+animalia — aves,Tundra Swan,Cygnus columbianus,Unknown,Global,Least Concern
+animalia — aves,Common Firecrest,Regulus ignicapilla,Stable,Global,Least Concern
+animalia — aves,Mistle Thrush,Turdus viscivorus,Decreasing,Global,Least Concern
+animalia — reptilia,Viviparous Lizard,Zootoca vivipara,Unknown,Global,Least Concern
+animalia — insecta,Littoral Dark Bush-cricket,Pholidoptera littoralis,Increasing,"Global, Europe",Least Concern
+animalia — insecta,Cheating Mountain Grasshopper,Odontopodisma decipiens,Stable,"Global, Europe",Least Concern
+animalia — insecta,More-modest Plump Bush-cricket,Isophya modestior,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Common Speckled Bush-cricket,Leptophyes punctatissima,Increasing,"Global, Europe",Least Concern
 animalia — insecta,Bronze Glandular Bush-cricket,Bradyporus dasypus,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Eastern Saddle Bush-cricket,Ephippiger ephippiger,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Alpine Dark Bush-cricket,Pholidoptera aptera,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Beautiful Demoiselle,Calopteryx virgo,Stable,Global,Least Concern
+animalia — aves,Garganey,Spatula querquedula,Decreasing,Global,Least Concern
+animalia — amphibia,Green Toad,Bufotes viridis,Decreasing,Global,Least Concern
+animalia — aves,Eurasian Golden Plover,Pluvialis apricaria,Increasing,Global,Least Concern
+animalia — amphibia,Pool Frog,Pelophylax lessonae,Decreasing,"Global, Europe",Least Concern
 animalia — mammalia,European Mink,Mustela lutreola,Decreasing,Global,Critically Endangered
+animalia — mammalia,Eurasian Badger,Meles meles,Stable,Global,Least Concern
+animalia — insecta,Large Red Damsel,Pyrrhosoma nymphula,Stable,Global,Least Concern
+animalia — insecta,Balkan Emerald,Somatochlora meridionalis,Unknown,Global,Least Concern
+animalia — insecta,River Clubtail,Stylurus flavipes,Increasing,Global,Least Concern
+animalia — insecta,Blue Chaser,Libellula fulva,Stable,Global,Least Concern
+animalia — insecta,Pieninsky' Plump Bush-cricket,Isophya pienensis,Unknown,"Global, Europe",Near Threatened
+animalia — insecta,Fuss' Bright Bush-cricket,Poecilimon fussii,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Transylvanian Dark Bush-cricket,Pholidoptera transsylvanica,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Brunner's Bright Bush-cricket,Poecilimon brunneri,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Four-spotted Chaser,Libellula quadrimaculata,Stable,Global,Least Concern
+animalia — aves,Icterine Warbler,Hippolais icterina,Decreasing,Global,Least Concern
+animalia — aves,Great Snipe,Gallinago media,Decreasing,Global,Near Threatened
+animalia — aves,Twite,Linaria flavirostris,Decreasing,Global,Least Concern
+animalia — aves,Eurasian Wryneck,Jynx torquilla,Decreasing,Global,Least Concern
+animalia — mammalia,Common Hamster,Cricetus cricetus,Decreasing,Global,Critically Endangered
+animalia — aves,Eurasian Siskin,Spinus spinus,Decreasing,Global,Least Concern
+animalia — aves,Red Crossbill,Loxia curvirostra,Stable,Global,Least Concern
+animalia — aves,Rufous-tailed Rock-thrush,Monticola saxatilis,Decreasing,Global,Least Concern
+animalia — aves,Garden Warbler,Sylvia borin,Decreasing,Global,Least Concern
+animalia — aves,Saker Falcon,Falco cherrug,Decreasing,Global,Endangered
+animalia — aves,Curlew Sandpiper,Calidris ferruginea,Decreasing,Global,Near Threatened
+animalia — mammalia,Eurasian Lynx,Lynx lynx,Stable,Global,Least Concern
+animalia — mammalia,Striped Field Mouse,Apodemus agrarius,Stable,Global,Least Concern
+animalia — mammalia,Long-tailed Field Mouse,Apodemus sylvaticus,Stable,Global,Least Concern
+animalia — mammalia,European Water Vole,Arvicola amphibius,Stable,Global,Least Concern
 animalia — mammalia,Eurasian Beaver,Castor fiber,Increasing,Global,Least Concern
+animalia — mammalia,Bank Vole,Myodes glareolus,Stable,Global,Least Concern
+animalia — malacostraca,,Pontastacus leptodactylus,Unknown,Global,Least Concern
+animalia — aves,Short-eared Owl,Asio flammeus,Decreasing,Global,Least Concern
+animalia — aves,Tufted Duck,Aythya fuligula,Stable,Global,Least Concern
+animalia — mammalia,Field Vole,Microtus agrestis,Stable,Global,Least Concern
+animalia — aves,European Robin,Erithacus rubecula,Increasing,Global,Least Concern
+animalia — aves,Cirl Bunting,Emberiza cirlus,Increasing,Global,Least Concern
+animalia — aves,Eurasian Thick-knee,Burhinus oedicnemus,Decreasing,Global,Least Concern
+animalia — aves,Coal Tit,Periparus ater,Decreasing,Global,Least Concern
+animalia — aves,Great Bustard,Otis tarda,Decreasing,Global,Vulnerable
+animalia — aves,Eurasian Tree Sparrow,Passer montanus,Decreasing,Global,Least Concern
+animalia — aves,Ural Owl,Strix uralensis,Stable,Global,Least Concern
+animalia — insecta,Blue Hawker,Aeshna cyanea,Increasing,Global,Least Concern
+animalia — aves,Grey Plover,Pluvialis squatarola,Decreasing,Global,Least Concern
+animalia — aves,Corn Bunting,Emberiza calandra,Decreasing,Global,Least Concern
+animalia — aves,Great Cormorant,Phalacrocorax carbo,Increasing,Global,Least Concern
+animalia — aves,Eurasian Scops-owl,Otus scops,Decreasing,Global,Least Concern
+animalia — aves,Temminck's Stint,Calidris temminckii,Unknown,Global,Least Concern
+animalia — aves,Common Linnet,Linaria cannabina,Decreasing,Global,Least Concern
+animalia — insecta,Common Bluetail,Ischnura elegans,Stable,Global,Least Concern
 animalia — aves,Great White Pelican,Pelecanus onocrotalus,Unknown,Global,Least Concern
+animalia — aves,Red Knot,Calidris canutus,Decreasing,Global,Near Threatened
+animalia — aves,Common Goldeneye,Bucephala clangula,Stable,Global,Least Concern
+animalia — aves,White-winged Tern,Chlidonias leucopterus,Stable,Global,Least Concern
+animalia — aves,Grey-faced Woodpecker,Picus canus,Increasing,Global,Least Concern
+animalia — aves,Eurasian Green Woodpecker,Picus viridis,Increasing,Global,Least Concern
+animalia — insecta,,Anisarthron barbipes,Decreasing,"Global, Europe",Vulnerable
+animalia — aves,Slender-billed Curlew,Numenius tenuirostris,Decreasing,Global,Critically Endangered
+animalia — insecta,Southern Emerald Damselfly,Lestes barbarus,Unknown,Global,Least Concern
+animalia — aves,Caspian Tern,Hydroprogne caspia,Increasing,Global,Least Concern
+animalia — aves,Black-crowned Night-heron,Nycticorax nycticorax,Decreasing,Global,Least Concern
+animalia — aves,Collared Flycatcher,Ficedula albicollis,Increasing,Global,Least Concern
+animalia — aves,Horned Lark,Eremophila alpestris,Decreasing,Global,Least Concern
+animalia — aves,Common Ringed Plover,Charadrius hiaticula,Decreasing,Global,Least Concern
+animalia — insecta,Mourning Cloak,Nymphalis antiopa,Unknown,Global,Least Concern
+animalia — aves,Northern Pintail,Anas acuta,Decreasing,Global,Least Concern
+animalia — aves,European Roller,Coracias garrulus,Decreasing,Global,Least Concern
+animalia — aves,Lesser Black-backed Gull,Larus fuscus,Increasing,Global,Least Concern
+animalia — aves,Crested Lark,Galerida cristata,Decreasing,Global,Least Concern
+animalia — aves,Common Snipe,Gallinago gallinago,Decreasing,Global,Least Concern
+animalia — mammalia,Grey Wolf,Canis lupus,Stable,Global,Least Concern
+animalia — insecta,Red Admiral,Vanessa atalanta,Unknown,Global,Least Concern
+animalia — aves,White-tailed Sea-eagle,Haliaeetus albicilla,Increasing,Global,Least Concern
+animalia — aves,White-backed Woodpecker,Dendrocopos leucotos,Decreasing,Global,Least Concern
+animalia — mammalia,Least Weasel,Mustela nivalis,Stable,Global,Least Concern
+animalia — aves,Red-necked Grebe,Podiceps grisegena,Decreasing,Global,Least Concern
+animalia — gastropoda,,Helix pomatia,Stable,"Global, Europe",Least Concern
+animalia — reptilia,Sand Lizard,Lacerta agilis,Decreasing,Global,Least Concern
+animalia — insecta,,Ropalopus insubricus,Unknown,"Global, Europe",Near Threatened
+animalia — insecta,,Clytus lama,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Ropalopus femoratus,Stable,"Global, Europe",Least Concern
+animalia — bivalvia,Painter's Mussel,Unio pictorum,Unknown,Global,Least Concern
+animalia — insecta,Scarce Fritillary,Euphydryas maturna,,Global,Data Deficient
+animalia — insecta,,Phengaris arion,,Global,Near Threatened
+animalia — insecta,,Metrioptera domogledi,,Global,Vulnerable
+animalia — bivalvia,,Sphaerium corneum,Unknown,Global,Least Concern
+animalia — insecta,Cardinal Click Beetle,Ampedus cardinalis,Unknown,"Global, Europe",Near Threatened
+animalia — reptilia,Grass Snake,Natrix natrix,,Global,Least Concern
+animalia — aves,Common Swift,Apus apus,Stable,Global,Least Concern
+animalia — aves,Ruff,Calidris pugnax,Decreasing,Global,Least Concern
+animalia — aves,Whimbrel,Numenius phaeopus,Decreasing,Global,Least Concern
+animalia — aves,Green Sandpiper,Tringa ochropus,Increasing,Global,Least Concern
+animalia — aves,Common Redshank,Tringa totanus,Unknown,Global,Least Concern
+animalia — aves,Long-tailed Tit,Aegithalos caudatus,Stable,Global,Least Concern
+animalia — aves,Savi's Warbler,Locustella luscinioides,Stable,Global,Least Concern
+animalia — aves,Barred Warbler,Sylvia nisoria,Stable,Global,Least Concern
+animalia — aves,Fieldfare,Turdus pilaris,Stable,Global,Least Concern
+animalia — aves,Common Kingfisher,Alcedo atthis,Unknown,Global,Least Concern
+animalia — aves,Black-winged Pratincole,Glareola nordmanni,Decreasing,Global,Near Threatened
+animalia — bivalvia,Thick Shelled River Mussel,Unio crassus,Decreasing,Global,Endangered
+animalia — insecta,Lesser Emperor,Anax parthenope,Stable,Global,Least Concern
+animalia — aves,Lesser Spotted Eagle,Clanga pomarina,Stable,Global,Least Concern
+animalia — aves,Booted Eagle,Hieraaetus pennatus,Unknown,Global,Least Concern
+animalia — aves,Merlin,Falco columbarius,Stable,Global,Least Concern
+animalia — aves,Red-crested Pochard,Netta rufina,Unknown,Global,Least Concern
+animalia — aves,Gadwall,Mareca strepera,Increasing,Global,Least Concern
+animalia — aves,Spotted Crake,Porzana porzana,Stable,Global,Least Concern
+animalia — aves,Black Woodpecker,Dryocopus martius,Increasing,Global,Least Concern
+animalia — insecta,,Pedostrangalia revestita,Stable,"Global, Europe",Vulnerable
+animalia — aves,Great Tit,Parus major,Increasing,Global,Least Concern
+animalia — insecta,Blue Emperor,Anax imperator,Stable,Global,Least Concern
+animalia — insecta,Bull Bush-cricket,Polysarcus denticauda,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Blackwing Speckled Bush-cricket,Leptophyes discoidalis,Decreasing,"Global, Europe",Vulnerable
+animalia — insecta,Schmidt's Mountain Grasshopper,Odontopodisma schmidtii,Stable,"Global, Europe",Least Concern
+animalia — insecta,Keeled Plump Bush-cricket,Isophya costata,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Goblet-marked Damselfly,Erythromma lindenii,Unknown,Global,Least Concern
+animalia — insecta,Red-veined Darter,Sympetrum fonscolombii,Stable,Global,Least Concern
+animalia — insecta,Eurasian Toothed Grasshopper,Stenobothrus eurasius,,Global,Vulnerable
+animalia — insecta,Cerambyx Longicorn,Cerambyx cerdo,,Global,Vulnerable
+animalia — mammalia,Whiskered Myotis,Myotis mystacinus,Unknown,Global,Least Concern
+animalia — mammalia,Common Vole,Microtus arvalis,Stable,Global,Least Concern
+animalia — mammalia,Greater Horseshoe Bat,Rhinolophus ferrumequinum,Decreasing,Global,Least Concern
+animalia — reptilia,Aesculapian Ratsnake,Zamenis longissimus,Unknown,Global,Least Concern
+animalia — mammalia,Western Polecat,Mustela putorius,Decreasing,Global,Least Concern
+animalia — insecta,,Megachile parietina,Unknown,"Global, Europe",Least Concern
+animalia — amphibia,Common Toad,Bufo bufo,Stable,Global,Least Concern
+animalia — insecta,Woodland Grayling,Hipparchia fagi,Decreasing,"Global, Europe",Near Threatened
+animalia — mammalia,European Roe Deer,Capreolus capreolus,Increasing,Global,Least Concern
+animalia — insecta,Northern Yellow Bumble Bee,Bombus distinguendus,Unknown,Global,Data Deficient
+animalia — insecta,,Andrena fulva,Unknown,"Global, Europe",Data Deficient
+animalia — bivalvia,Swan Mussel,Anodonta cygnea,Decreasing,Global,Least Concern
+animalia — insecta,Gewone wespbij,Nomada flava,Stable,"Global, Europe",Least Concern
+animalia — insecta,Green-eyed Hooktail,Onychogomphus forcipatus,Stable,Global,Least Concern
+animalia — insecta,Hairy Hawker,Brachytron pratense,Stable,Global,Least Concern
+animalia — insecta,Eastern Willow Spreadwing,Chalcolestes parvidens,Stable,Global,Least Concern
+animalia — insecta,Small Emerald Spreadwing,Lestes virens,Stable,Global,Least Concern
+animalia — insecta,Yellow-spotted Whiteface,Leucorrhinia pectoralis,Stable,Global,Least Concern
+animalia — insecta,Banded Darter,Sympetrum pedemontanum,Stable,Global,Least Concern
+animalia — aves,Collared Pratincole,Glareola pratincola,Decreasing,Global,Least Concern
+animalia — mammalia,Yellow-necked Field Mouse,Apodemus flavicollis,Stable,Global,Least Concern
+animalia — aves,Middle Spotted Woodpecker,Leiopicus medius,Increasing,Global,Least Concern
+animalia — aves,Goosander,Mergus merganser,Unknown,Global,Least Concern
+animalia — aves,Song Thrush,Turdus philomelos,Increasing,Global,Least Concern
+animalia — aves,Water Pipit,Anthus spinoletta,Stable,Global,Least Concern
+animalia — insecta,Yellow-winged Darter,Sympetrum flaveolum,Stable,Global,Least Concern
 animalia — aves,Little Bustard,Tetrax tetrax,Decreasing,Global,Near Threatened
+animalia — mammalia,Eurasian Water Shrew,Neomys fodiens,Stable,Global,Least Concern
+animalia — aves,Whiskered Tern,Chlidonias hybrida,Stable,Global,Least Concern
+animalia — aves,Eurasian Curlew,Numenius arquata,Decreasing,Global,Near Threatened
+animalia — aves,Eurasian Blue Tit,Cyanistes caeruleus,Increasing,Global,Least Concern
+animalia — aves,Northern House Martin,Delichon urbicum,Decreasing,Global,Least Concern
+animalia — aves,Greylag Goose,Anser anser,Increasing,Global,Least Concern
+animalia — aves,Red-breasted Flycatcher,Ficedula parva,Increasing,Global,Least Concern
+animalia — aves,Black-tailed Godwit,Limosa limosa,Decreasing,Global,Near Threatened
+animalia — aves,Common Chaffinch,Fringilla coelebs,Increasing,Global,Least Concern
+animalia — aves,Long-legged Buzzard,Buteo rufinus,Stable,Global,Least Concern
+animalia — aves,Common Moorhen,Gallinula chloropus,Stable,Global,Least Concern
+animalia — aves,Spotted Flycatcher,Muscicapa striata,Decreasing,Global,Least Concern
+animalia — aves,European Turtle-dove,Streptopelia turtur,Decreasing,Global,Vulnerable
+animalia — aves,Baillon's Crake,Zapornia pusilla,Unknown,Global,Least Concern
+animalia — aves,Mallard,Anas platyrhynchos,Increasing,Global,Least Concern
+animalia — aves,Common Reed-warbler,Acrocephalus scirpaceus,Stable,Global,Least Concern
+animalia — insecta,Eurasian Baskettail,Epitheca bimaculata,Stable,Global,Least Concern
+animalia — insecta,Downy Emerald,Cordulia aenea,Unknown,Global,Least Concern
+animalia — insecta,Green Gomphid,Ophiogomphus cecilia,Stable,Global,Least Concern
+animalia — insecta,Ruddy Darter,Sympetrum sanguineum,Unknown,Global,Least Concern
+animalia — aves,Northern Wheatear,Oenanthe oenanthe,Decreasing,Global,Least Concern
+animalia — aves,Lesser White-fronted Goose,Anser erythropus,Decreasing,Global,Vulnerable
+animalia — aves,Pallid Harrier,Circus macrourus,Decreasing,Global,Near Threatened
+animalia — aves,Greater Scaup,Aythya marila,Decreasing,Global,Least Concern
+animalia — aves,Long-tailed Duck,Clangula hyemalis,Decreasing,Global,Vulnerable
+animalia — aves,Pomarine Jaeger,Stercorarius pomarinus,Stable,Global,Least Concern
+animalia — insecta,Spearhead Bluet,Coenagrion hastulatum,Unknown,Global,Least Concern
+animalia — aves,European Goldfinch,Carduelis carduelis,Decreasing,Global,Least Concern
+animalia — aves,Goldcrest,Regulus regulus,Decreasing,Global,Least Concern
+animalia — aves,Northern Wren,Troglodytes troglodytes,Increasing,Global,Least Concern
+animalia — aves,Arctic Loon,Gavia arctica,Decreasing,Global,Least Concern
+animalia — aves,Western Water Rail,Rallus aquaticus,Decreasing,Global,Least Concern
+animalia — aves,Common Pochard,Aythya ferina,Decreasing,Global,Vulnerable
+animalia — aves,Eurasian Woodcock,Scolopax rusticola,Stable,Global,Least Concern
+animalia — aves,Common Little Bittern,Ixobrychus minutus,Decreasing,Global,Least Concern
+animalia — aves,Dunlin,Calidris alpina,Decreasing,Global,Least Concern
+animalia — aves,Broad-billed Sandpiper,Calidris falcinellus,Decreasing,Global,Least Concern
+animalia — aves,Kentish Plover,Charadrius alexandrinus,Decreasing,Global,Least Concern
+animalia — aves,Western Marsh-harrier,Circus aeruginosus,Increasing,Global,Least Concern
+animalia — aves,Rock Dove,Columba livia,Decreasing,Global,Least Concern
+animalia — aves,Peregrine Falcon,Falco peregrinus,Stable,Global,Least Concern
+animalia — aves,Pied Avocet,Recurvirostra avosetta,Unknown,Global,Least Concern
+animalia — aves,Common Barn-owl,Tyto alba,Stable,Global,Least Concern
+animalia — aves,Woodlark,Lullula arborea,Increasing,Global,Least Concern
+animalia — aves,Mew Gull,Larus canus,Unknown,Global,Least Concern
+animalia — gastropoda,,Lozekia transsilvanica,Stable,"Global, Europe",Least Concern
+animalia — aves,Red Kite,Milvus milvus,Increasing,Global,Least Concern
+animalia — mammalia,Stoat,Mustela erminea,Stable,Global,Least Concern
+animalia — aves,Common Stonechat,Saxicola torquatus,Stable,Global,Least Concern
+animalia — aves,Eurasian Buzzard,Buteo buteo,Stable,Global,Least Concern
+animalia — insecta,Broad Scarlet,Crocothemis erythraea,Increasing,Global,Least Concern
+animalia — aves,Long-tailed Jaeger,Stercorarius longicaudus,Stable,Global,Least Concern
+animalia — insecta,,Thambus frivaldskyi,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Microrhagus lepidus,Increasing,"Global, Europe",Least Concern
+animalia — amphibia,,Pelobates fuscus,Decreasing,Global,Least Concern
+animalia — insecta,,Polyommatus coridon,Stable,"Global, Europe",Least Concern
+animalia — insecta,Dainty Bluet,Coenagrion scitulum,Increasing,Global,Least Concern
+animalia — insecta,Small Red-eyed Damselfly,Erythromma viridulum,Increasing,Global,Least Concern
+animalia — insecta,Common Spreadwing,Lestes sponsa,Stable,Global,Least Concern
+animalia — gastropoda,Narrow-mouthed Whorl Snail,Vertigo angustior,Decreasing,Global,Near Threatened
+animalia — insecta,Common Field Grasshopper,Chorthippus brunneus,Unknown,Global,Least Concern
+animalia — insecta,,Megachile lagopoda,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Beech Marten,Martes foina,Stable,Global,Least Concern
+animalia — gastropoda,Common Bithynia,Bithynia tentaculata,Stable,Global,Least Concern
+animalia — insecta,False Ringlet,Coenonympha oedippus,,Global,Near Threatened
+animalia — insecta,Common Predatory Bush-cricket,Saga pedo,,Global,Vulnerable
+animalia — actinopterygii,Brown Trout,Salmo trutta,Unknown,"Global, Europe",Least Concern
+animalia — malacostraca,Noble Crayfish,Astacus astacus,Decreasing,Global,Vulnerable
+animalia — amphibia,Fire-bellied Toad,Bombina bombina,Decreasing,Global,Least Concern
+animalia — insecta,,Epeolus cruciger,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,,Chelostoma grande,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Hoplitis lepeletieri,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Andrena semilaevis,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Hoplitis loti,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Andrena nuptialis,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Red-legged Mountain Grasshopper,Odontopodisma rubripes,Decreasing,"Global, Europe",Near Threatened
+animalia — mammalia,,Eptesicus nilssonii,Stable,Global,Least Concern
+animalia — aves,Golden Eagle,Aquila chrysaetos,Stable,Global,Least Concern
+animalia — aves,Eurasian Hobby,Falco subbuteo,Decreasing,Global,Least Concern
+animalia — insecta,Common Darter,Sympetrum striolatum,Unknown,Global,Least Concern
+animalia — amphibia,Moor Frog,Rana arvalis,Stable,Global,Least Concern
+animalia — amphibia,,Rana temporaria,Stable,Global,Least Concern
+animalia — aves,Eurasian Dotterel,Eudromias morinellus,Decreasing,Global,Least Concern
+animalia — aves,Sanderling,Calidris alba,Unknown,Global,Least Concern
+animalia — aves,Bohemian Waxwing,Bombycilla garrulus,Increasing,Global,Least Concern
+animalia — aves,Whinchat,Saxicola rubetra,Decreasing,Global,Least Concern
+animalia — aves,Brambling,Fringilla montifringilla,Decreasing,Global,Least Concern
+animalia — aves,Snow Bunting,Plectrophenax nivalis,Decreasing,Global,Least Concern
+animalia — aves,Grey Partridge,Perdix perdix,Decreasing,Global,Least Concern
 animalia — aves,Black Grouse,Lyrurus tetrix,Decreasing,Global,Least Concern
+animalia — aves,European Nightjar,Caprimulgus europaeus,Decreasing,Global,Least Concern
+animalia — aves,Common Sandpiper,Actitis hypoleucos,Decreasing,Global,Least Concern
+animalia — aves,Wood Sandpiper,Tringa glareola,Stable,Global,Least Concern
+animalia — insecta,,Pidonia lurida,Stable,"Global, Europe",Least Concern
+animalia — aves,Syrian Woodpecker,Dendrocopos syriacus,Stable,Global,Least Concern
+animalia — insecta,Carpathian Dancing Grasshopper,Chorthippus oschei,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Common Straw Grasshopper,Euchorthippus declivus,Increasing,"Global, Europe",Least Concern
+animalia — insecta,Eastern Saw Bush-cricket,Barbitistes constrictus,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Graceful Bush-cricket,Pachytrachis gracilis,Increasing,"Global, Europe",Least Concern
+animalia — insecta,Oak Bush-cricket,Meconema thalassinum,Decreasing,"Global, Europe",Least Concern
+animalia — bivalvia,,Musculium lacustre,Unknown,Global,Least Concern
+animalia — insecta,Nagy's Mountain Grasshopper,Pseudopodisma nagyi,Unknown,"Global, Europe",Near Threatened
+animalia — insecta,Pygmy Toothed Grasshopper,Stenobothrus crassipes,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Serbian Ant-cricket,Myrmecophilus nonveilleri,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Curve-tailed Plump Bush-cricket,Isophya camptoxypha,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Modest Plump Bush-cricket,Isophya modesta,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,Emerald Spreadwing,Lestes dryas,Stable,Global,Least Concern
+animalia — insecta,,Mantis religiosa,Unknown,Global,Least Concern
+animalia — insecta,Common Groundhopper,Tetrix undulata,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Verge Cricket,Eumodicogryllus bordigalensis,Increasing,Global,Least Concern
+animalia — aves,Red-backed Shrike,Lanius collurio,Decreasing,Global,Least Concern
+animalia — aves,Redwing,Turdus iliacus,Decreasing,Global,Near Threatened
+animalia — aves,Northern Lapwing,Vanellus vanellus,Decreasing,Global,Near Threatened
+animalia — aves,Cetti's Warbler,Cettia cetti,Increasing,Global,Least Concern
+animalia — aves,Short-toed Treecreeper,Certhia brachydactyla,Increasing,Global,Least Concern
+animalia — aves,Thrush Nightingale,Luscinia luscinia,Stable,Global,Least Concern
+animalia — aves,Great Reed-warbler,Acrocephalus arundinaceus,Decreasing,Global,Least Concern
+animalia — aves,Bar-tailed Godwit,Limosa lapponica,Decreasing,Global,Near Threatened
+animalia — mammalia,Lesser Mole Rat,Nannospalax leucodon,Decreasing,Global,Data Deficient
+animalia — reptilia,Juniper Skink,Ablepharus kitaibelii,Stable,Global,Least Concern
+animalia — aves,Lesser Spotted Woodpecker,Dryobates minor,Decreasing,Global,Least Concern
+animalia — aves,Hen Harrier,Circus cyaneus,Decreasing,Global,Least Concern
+animalia — aves,Short-toed Snake-eagle,Circaetus gallicus,Stable,Global,Least Concern
+animalia — insecta,,Ampedus quadrisignatus,Decreasing,"Global, Europe",Endangered
+animalia — aves,Eurasian Sparrowhawk,Accipiter nisus,Stable,Global,Least Concern
+animalia — aves,Rough-legged Buzzard,Buteo lagopus,Stable,Global,Least Concern
 animalia — aves,White-headed Duck,Oxyura leucocephala,Decreasing,Global,Endangered
+animalia — mammalia,,Microtus oeconomus,Stable,Global,Least Concern
+animalia — mammalia,House Mouse,Mus musculus,Stable,Global,Least Concern
+animalia — mammalia,,Sorex araneus,Stable,Global,Least Concern
+animalia — mammalia,Edible Dormouse,Glis glis,Unknown,Global,Least Concern
+animalia — malacostraca,Stone Crayfish,Austropotamobius torrentium,Decreasing,Global,Data Deficient
+animalia — aves,Red-throated Loon,Gavia stellata,Decreasing,Global,Least Concern
+animalia — aves,European Greenfinch,Chloris chloris,Stable,Global,Least Concern
+animalia — aves,Tawny Pipit,Anthus campestris,Stable,Global,Least Concern
+animalia — aves,Marsh Tit,Poecile palustris,Decreasing,Global,Least Concern
+animalia — gastropoda,Desmoulin's Whorl Snail,Vertigo moulinsiana,Decreasing,Global,Vulnerable
+animalia — aves,Tree Pipit,Anthus trivialis,Decreasing,Global,Least Concern
+animalia — aves,Horned Grebe,Podiceps auritus,Decreasing,Global,Vulnerable
+animalia — aves,Common Redstart,Phoenicurus phoenicurus,Increasing,Global,Least Concern
+animalia — aves,Western Yellow Wagtail,Motacilla flava,Decreasing,Global,Least Concern
+animalia — aves,Purple Heron,Ardea purpurea,Decreasing,Global,Least Concern
+animalia — aves,Cream-coloured Courser,Cursorius cursor,Decreasing,Global,Least Concern
+animalia — insecta,,Allecula morio,Unknown,"Global, Europe",Least Concern
+animalia — aves,Moustached Warbler,Acrocephalus melanopogon,Stable,Global,Least Concern
+animalia — actinopterygii,European Eel,Anguilla anguilla,Decreasing,Global,Critically Endangered
+animalia — aves,Great Crested Grebe,Podiceps cristatus,Unknown,Global,Least Concern
+animalia — aves,Common Coot,Fulica atra,Increasing,Global,Least Concern
+animalia — aves,Common Quail,Coturnix coturnix,Decreasing,Global,Least Concern
+animalia — aves,Little Stint,Calidris minuta,Increasing,Global,Least Concern
 animalia — insecta,,Coenagrion lunulatum,Decreasing,Global,Least Concern
+animalia — insecta,Large Redeye,Erythromma najas,Stable,Global,Least Concern
+animalia — aves,European Herring Gull,Larus argentatus,Decreasing,Global,Least Concern
+animalia — aves,Dunnock,Prunella modularis,Decreasing,Global,Least Concern
+animalia — insecta,Painted Lady,Vanessa cardui,Unknown,Global,Least Concern
+animalia — aves,Little Owl,Athene noctua,Stable,Global,Least Concern
+animalia — aves,Little Tern,Sternula albifrons,Decreasing,Global,Least Concern
+animalia — aves,Black Tern,Chlidonias niger,Decreasing,Global,Least Concern
+animalia — aves,Osprey,Pandion haliaetus,Increasing,Global,Least Concern
+animalia — insecta,Common Winter Damsel,Sympecma fusca,Unknown,Global,Least Concern
+animalia — insecta,Southern Skimmer,Orthetrum brunneum,Increasing,Global,Least Concern
+animalia — insecta,Black-tailed Skimmer,Orthetrum cancellatum,Stable,Global,Least Concern
+animalia — insecta,Blue Featherleg,Platycnemis pennipes,Unknown,Global,Least Concern
+animalia — aves,Willow Warbler,Phylloscopus trochilus,Decreasing,Global,Least Concern
+animalia — aves,Barn Swallow,Hirundo rustica,Decreasing,Global,Least Concern
+animalia — gastropoda,,Mediterranea depressa,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Vitrea diaphana,Decreasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Discus rotundatus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Tandonia budapestensis,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Bulgarica vetusta,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Clausilia cruciata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Braune Sumpfschnecke,Stagnicola fuscus,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,,Barbus carpathicus,Decreasing,"Global, Europe",Least Concern
 animalia — actinopterygii,Pontian Shemaya,Alburnus sarmaticus,Unknown,"Global, Europe",Endangered
+animalia — gastropoda,Lesser Ramshorn Snail,Anisus vorticulus,Decreasing,Global,Data Deficient
+animalia — insecta,Common Blue Damselfly,Enallagma cyathigerum,Stable,Global,Least Concern
+animalia — gastropoda,,Fruticicola fruticum,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Brown Lipped Snail,Cepaea nemoralis,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Urticicola umbrosus,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,Sichel,Pelecus cultratus,Unknown,Global,Least Concern
+animalia — insecta,,Morimus funereus,,Global,Vulnerable
+animalia — malacostraca,,Niphargus hrabei,,Global,Vulnerable
+animalia — gastropoda,,Acroloxus rossicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Roach,Rutilus rutilus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Cyprinus carpio,Unknown,Global,Vulnerable
+animalia — gastropoda,,Stagnicola palustris,Unknown,Global,Least Concern
+animalia — gastropoda,,Cochlicopa nitens,,Global,Least Concern
+animalia — mammalia,Common Pipistrelle,Pipistrellus pipistrellus,Stable,Global,Least Concern
+animalia — insecta,,Nomada bluethgeni,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Nomada noskiewiczi,Decreasing,"Global, Europe",Vulnerable
+animalia — insecta,Vlekpootwespbij,Nomada melathoracica,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Star Gyro,Gyraulus crista,Stable,Global,Least Concern
+animalia — gastropoda,Fluss-Federkiemenschnecke,Borysthenia naticina,Decreasing,Global,Least Concern
+animalia — insecta,,Nomada concolor,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Zwartbuikwespbij,Nomada errans,Decreasing,"Global, Europe",Near Threatened
+animalia — gastropoda,White Lipped Snail,Cepaea hortensis,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Triplax carpathica,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Ancyrona japonica,Unknown,"Global, Europe",Data Deficient
+animalia — actinopterygii,Pike-perch,Sander lucioperca,Unknown,Global,Least Concern
+animalia — actinopterygii,,Romanogobio uranoscopus,Unknown,"Global, Europe",Least Concern
+animalia — bivalvia,River Orb Mussel,Sphaerium rivicola,Unknown,Global,Vulnerable
+animalia — gastropoda,,Fagotia daudebartii,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Common Bladder Snail,Physa fontinalis,Stable,Global,Least Concern
+animalia — gastropoda,Great Pond Snail,Lymnaea stagnalis,Stable,Global,Least Concern
+animalia — insecta,,Andrena roseipes,Unknown,"Global, Europe",Data Deficient
+animalia — gastropoda,Ram's Horn Snail,Planorbis planorbis,Unknown,Global,Least Concern
+animalia — aves,Eurasian Golden Oriole,Oriolus oriolus,Stable,Global,Least Concern
+animalia — actinopterygii,Nase,Chondrostoma nasus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Bullhead,Cottus gobio,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Kessler's Gudgeon,Romanogobio kesslerii,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Herb Field Mouse,Apodemus uralensis,Stable,Global,Least Concern
+animalia — mammalia,Hungarian Birch Mouse,Sicista trizona,Decreasing,Global,Endangered
+animalia — gastropoda,Hairy Snail,Trochulus hispidus,Stable,"Global, Europe",Least Concern
+animalia — aves,Common Chiffchaff,Phylloscopus collybita,Increasing,Global,Least Concern
+animalia — gastropoda,,Morlina glabra,Stable,"Global, Europe",Least Concern
+animalia — aves,House Sparrow,Passer domesticus,Decreasing,Global,Least Concern
+animalia — aves,Great Grey Shrike,Lanius excubitor,Decreasing,Global,Least Concern
+animalia — gastropoda,Scaly snail of Doboz,Kovacsia kovacsi,Stable,"Global, Europe",Least Concern
+animalia — mammalia,Red Deer,Cervus elaphus,Increasing,Global,Least Concern
+animalia — actinopterygii,Bleak,Alburnus alburnus,Unknown,Global,Least Concern
+animalia — aves,Common Teal,Anas crecca,Unknown,Global,Least Concern
+animalia — gastropoda,,Segmentina molytes,Unknown,Global,Least Concern
+animalia — gastropoda,,Segmentina servaini,Unknown,Global,Data Deficient
+animalia — gastropoda,,Ruthenica filograna,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Bulgarica cana,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Arion distinctus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Anisus leucostoma,Stable,Global,Least Concern
+animalia — gastropoda,,Euomphalia strigella,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Strawberry Snail,Trochulus striolatus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Helix lutescens,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Pseudotrichia rubiginosa,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Monacha cartusiana,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Triplax pygmaea,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Dacne notata,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Microrhagus pygmaeus,Increasing,"Global, Europe",Least Concern
+animalia — insecta,,Reitterelater bouyoni,Decreasing,"Global, Europe",Near Threatened
+animalia — gastropoda,,Stagnicola turricula,Unknown,Global,Least Concern
+animalia — actinopterygii,Danube salmon,Hucho hucho,Unknown,"Global, Europe",Endangered
+animalia — insecta,,Microrhagus emyi,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Hauffenia kissdalmae,Unknown,"Global, Europe",Data Deficient
+animalia — actinopterygii,European Bitterling,Rhodeus amarus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Romanogobio vladykovi,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,Wall Snail,Balea perversa,Decreasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Macrogastra ventricosa,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Laciniaria plicata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Lake Limpet,Acroloxus lacustris,Stable,Global,Least Concern
+animalia — bivalvia,,Sphaerium solidum,Decreasing,Global,Near Threatened
+animalia — gastropoda,,Clausilia pumila,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,,Phoxinus phoxinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Western Tubenose Goby,Proterorhinus semilunaris,Unknown,Global,Least Concern
+animalia — actinopterygii,,Barbus balcanicus,Unknown,"Global, Europe",Least Concern
+animalia — aves,Eurasian Blackbird,Turdus merula,Increasing,Global,Least Concern
+animalia — gastropoda,Flußsteinkleber,Lithoglyphus naticoides,Unknown,Global,Least Concern
+animalia — bivalvia,,Pisidium milium,Unknown,Global,Least Concern
+animalia — gastropoda,European Stream Valvata,Valvata piscinalis,Unknown,Global,Least Concern
+animalia — actinopterygii,European Mudminnow,Umbra krameri,Decreasing,"Global, Europe",Vulnerable
+animalia — actinopterygii,Vimba Bream,Vimba vimba,Unknown,Global,Least Concern
+animalia — insecta,Blue Ground Beetle,Carabus intricatus,,Global,Near Threatened
+animalia — insecta,,Megachile giraudi,Unknown,"Global, Europe",Data Deficient
+animalia — mammalia,Gray Big-eared Bat,Plecotus austriacus,Decreasing,"Global, Europe",Near Threatened
+animalia — actinopterygii,Wels Catfish,Silurus glanis,Unknown,Global,Least Concern
+animalia — mammalia,Brandt's Myotis,Myotis brandtii,Stable,Global,Least Concern
+animalia — insecta,,Tetraloniella lyncea,Unknown,"Global, Europe",Data Deficient
+animalia — actinopterygii,,Telestes souffia,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Gymnocephalus schraetser,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Lymnaea bakowskyana,Unknown,Global,Data Deficient
+animalia — cephalaspidomorphi,,Eudontomyzon vladykovi,Unknown,"Global, Europe",Least Concern
+animalia — insecta,Kalkgraslandwespbij,Nomada piccioliana,Decreasing,"Global, Europe",Least Concern
+animalia — aves,Eurasian Jay,Garrulus glandarius,Stable,Global,Least Concern
+animalia — actinopterygii,Balon's Ruffe,Gymnocephalus baloni,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Barbel,Barbus barbus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Northern Pike,Esox lucius,Stable,Global,Least Concern
+animalia — gastropoda,,Faustina faustina,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Trochulus erjaveci,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Trochulus lubomirskii,Stable,"Global, Europe",Least Concern
+animalia — bivalvia,Caserta Pea Mussel,Pisidium casertanum,Stable,Global,Least Concern
+animalia — gastropoda,Striped Nerite,Theodoxus transversalis,Unknown,"Global, Europe",Endangered
+animalia — actinopterygii,Grayling,Thymallus thymallus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Tench,Tinca tinca,Unknown,Global,Least Concern
+animalia — gastropoda,,Candidula unifasciata,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Lioderina linearis,Decreasing,"Global, Europe",Data Deficient
+animalia — insecta,,Clypeorhagus clypeatus,Unknown,"Global, Europe",Data Deficient
+animalia — gastropoda,,Paladilhia hungarica,,Global,Near Threatened
+animalia — actinopterygii,Volga Pikeperch,Sander volgensis,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Andrena strohmella,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Steppe Polecat,Mustela eversmanii,Decreasing,Global,Least Concern
+animalia — insecta,,Eriogaster catax,,Global,Data Deficient
+animalia — gastropoda,,Fagotia esperi,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Formica polyctena,,Global,Near Threatened
 animalia — actinopterygii,Russian sturgeon,Acipenser gueldenstaedtii,Decreasing,Global,Critically Endangered
+animalia — arachnida,,Dolomedes plantarius,,Global,Vulnerable
+animalia — insecta,,Proserpinus proserpina,,Global,Data Deficient
+animalia — insecta,,Nomada atroscutellaris,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Nomada corcyraea,Unknown,"Global, Europe",Data Deficient
+animalia — actinopterygii,Chub,Squalius cephalus,Unknown,Global,Least Concern
+animalia — gastropoda,,Aegopinella ressmanni,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,,Sabanejewia bulgarica,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Cobitis elongatoides,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Salmo labrax,Unknown,"Global, Europe",Least Concern
+animalia — bivalvia,,Sphaerium ovale,Unknown,Global,Least Concern
+animalia — gastropoda,,Stagnicola corvus,Unknown,Global,Least Concern
+animalia — gastropoda,Flat Ram's Horn Sail,Hippeutis complanatus,Unknown,Global,Least Concern
+animalia — gastropoda,Danubial Blind Snail,Bythiospeum oshanovae,Unknown,"Global, Europe",Vulnerable
+animalia — bivalvia,Henslow’s Pea Mussel,Pisidium henslowanum,Unknown,Global,Least Concern
+animalia — gastropoda,,Platyla banatica,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Orcula dolium,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Platyla polita,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Columella edentula,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Tenebroides fuscus,Stable,"Global, Europe",Data Deficient
+animalia — gastropoda,,Limax cinereoniger,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Macrogastra borealis,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Bielzia coerulans,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Cochlodina fimbriata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Vitrea subrimata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Cochlodina cerata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Arion rufus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Clausilia rugosa,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Arion silvaticus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Deroceras lothari,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Clausilia dubia,Stable,"Global, Europe",Least Concern
+animalia — bivalvia,,Pisidium nitidum,Stable,Global,Least Concern
+animalia — insecta,,Megachile hungarica,Unknown,"Global, Europe",Data Deficient
+animalia — cephalaspidomorphi,Ukranian Brook Lamprey,Eudontomyzon mariae,Decreasing,"Global, Europe",Least Concern
+animalia — actinopterygii,Dace,Leuciscus leuciscus,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Alpine Shrew,Sorex alpinus,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,,Anthophora gallica,Unknown,"Global, Europe",Data Deficient
+animalia — aves,Eurasian Magpie,Pica pica,Stable,Global,Least Concern
+animalia — insecta,,Isomira antennata,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,Stone Loach,Barbatula barbatula,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Granaria frumentum,Stable,"Global, Europe",Least Concern
+animalia — aves,Yellow-billed Kite,Milvus aegyptius,Decreasing,Global,Least Concern
+animalia — gastropoda,,Faustina illyrica,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Petasina filicina,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Gobio carpathicus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Rutilus virgo,Unknown,"Global, Europe",Least Concern
+animalia — malacostraca,,Niphargus valachicus,,Global,Vulnerable
+animalia — actinopterygii,,Perca fluviatilis,Unknown,Global,Least Concern
+animalia — gastropoda,,Perforatella bidentata,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Hylis cariniceps,Stable,"Global, Europe",Least Concern
+animalia — bivalvia,,Pisidium pseudosphaerium,Unknown,"Global, Europe",Least Concern
+animalia — bivalvia,,Pisidium supinum,Unknown,Global,Least Concern
+animalia — gastropoda,,Amphimelania holandrii,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,Great Ram's Horn Snail,Planorbarius corneus,Unknown,Global,Least Concern
+animalia — gastropoda,,Ena montana,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Pagodulina pagodula,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Monachoides incarnatus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Semilimax semilimax,Stable,"Global, Europe",Least Concern
+animalia — reptilia,Large Whip Snake,Dolichophis caspius,Unknown,Global,Least Concern
+animalia — gastropoda,Smooth Ram’s Horn Snail,Gyraulus laevis,Decreasing,Global,Least Concern
+animalia — gastropoda,,Vestia turgida,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Cochlodina orthostoma,Decreasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Mediterranea inopinata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Arion fuscus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Discus perspectivus,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Andrena pellucens,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Hylaeus nivalis,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Hylaeus pictus,Unknown,"Global, Europe",Data Deficient
+animalia — gastropoda,River Limpet,Ancylus fluviatilis,Unknown,Global,Least Concern
+animalia — insecta,,Ceratina gravidula,Stable,"Global, Europe",Least Concern
+animalia — clitellata,European Medicinal Leech,Hirudo medicinalis,Unknown,Global,Near Threatened
+animalia — gastropoda,,Radix balthica,Stable,Global,Least Concern
+animalia — actinopterygii,Siberian Bullhead,Cottus poecilopus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Carassius carassius,Decreasing,Global,Least Concern
+animalia — reptilia,Meadow Viper,Vipera ursinii,Decreasing,"Global, Europe",Vulnerable
+animalia — actinopterygii,Danube Streber,Zingel streber,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Zingel,Zingel zingel,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Andrena graecella,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Andrena anthrisci,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Serotine,Eptesicus serotinus,Stable,Global,Least Concern
+animalia — insecta,,Graphoderus bilineatus,,Global,Vulnerable
 animalia — actinopterygii,,Alosa immaculata,Decreasing,Global,Vulnerable
+animalia — actinopterygii,,Gymnocephalus cernua,Unknown,Global,Least Concern
+animalia — mammalia,Natterer's Bat,Myotis nattereri,Stable,Global,Least Concern
+animalia — mammalia,Kuhl's Pipistrelle,Pipistrellus kuhlii,Unknown,Global,Least Concern
+animalia — gastropoda,Attenuate Fossaria,Galba truncatula,Unknown,Global,Least Concern
+animalia — insecta,,Corticeus versipellis,Decreasing,"Global, Europe",Endangered
+animalia — aves,Northern Nutcracker,Nucifraga caryocatactes,Decreasing,Global,Least Concern
+animalia — gastropoda,,Spelaeodiscus triarius,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Deroceras sturanyi,Increasing,"Global, Europe",Least Concern
+animalia — mammalia,Brown Long-eared Bat,Plecotus auritus,Stable,Global,Least Concern
+animalia — cephalaspidomorphi,Brook Lamprey,Lampetra planeri,Unknown,"Global, Europe",Least Concern
+animalia — mammalia,Montane Water Vole,Arvicola scherman,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Limax maximus,Stable,"Global, Europe",Least Concern
+animalia — aves,Greater Short-toed Lark,Calandrella brachydactyla,Unknown,Global,Least Concern
+animalia — gastropoda,,Monachoides vicinus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Mesopotamian Asp,Leuciscus aspius,Unknown,Global,Least Concern
+animalia — actinopterygii,,Blicca bjoerkna,Unknown,Global,Least Concern
+animalia — gastropoda,,Petasina bielzi,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Semilimacella bonellii,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Vestia gulo,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Segmentina distinguenda,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Bream,Ballerus ballerus,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,,Ballerus sapa,Unknown,Global,Least Concern
+animalia — actinopterygii,,Sabanejewia balcanica,Unknown,"Global, Europe",Least Concern
+animalia — actinopterygii,Common Bream,Abramis brama,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gobio obtusirostris,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,Large Mouthed Valve Snail,Valvata macrostoma,Decreasing,Global,Least Concern
+animalia — gastropoda,,Gyraulus rossmaessleri,Increasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Helicodonta obvoluta,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Caucasotachea vindobonensis,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Copse Snail,Arianta arbustorum,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Petasina unidentata,Stable,"Global, Europe",Least Concern
+animalia — insecta,,Ampedus vandalitiae,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Ampedus triangulum,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Aegopis verticillus,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Brede blinkslak,Aegopinella nitens,Stable,"Global, Europe",Least Concern
+animalia — mammalia,Alcathoe Whiskered Bat,Myotis alcathoe,Unknown,"Global, Europe",Data Deficient
+animalia — mammalia,Steppe Mouse,Mus spicilegus,Decreasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Valvata studeri,Stable,Global,Least Concern
+animalia — insecta,,Ropalopus ungaricus,Decreasing,"Global, Europe",Endangered
+animalia — actinopterygii,,Leucaspius delineatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ide,Leuciscus idus,Unknown,Global,Least Concern
+animalia — gastropoda,,Vitrea crystallina,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Arion hortensis,Increasing,"Global, Europe",Least Concern
+animalia — gastropoda,,Macrogastra plicatula,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Draparnaud's Glass Snail,Oxychilus draparnaudi,Increasing,"Global, Europe",Least Concern
+animalia — bivalvia,,Sphaerium galitzini,Unknown,Global,Data Deficient
+animalia — gastropoda,Karst snail of Torna,Bythinella pannonica,Stable,"Global, Europe",Least Concern
+animalia — actinopterygii,Rudd,Scardinius erythrophthalmus,Unknown,Global,Least Concern
+animalia — amphibia,,Triturus dobrogicus,Decreasing,"Global, Europe",Near Threatened
+animalia — gastropoda,,Vallonia enniensis,,Global,Data Deficient
+animalia — gastropoda,,Viviparus acerosus,Increasing,"Global, Europe",Least Concern
+animalia — insecta,Zwarte wespbij,Nomada argentata,Decreasing,"Global, Europe",Near Threatened
+animalia — insecta,Kleine bleekvlekwespbij,Nomada baccata,Decreasing,"Global, Europe",Near Threatened
+animalia — mammalia,Daubenton's Myotis,Myotis daubentonii,Stable,Global,Least Concern
 animalia — mammalia,,Myotis schaubi,Unknown,Global,Data Deficient
+animalia — actinopterygii,Burbot,Lota lota,Stable,Global,Least Concern
+animalia — insecta,,Epeolus fasciatus,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Osmia pilicornis,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Andrena curvana,Unknown,"Global, Europe",Data Deficient
+animalia — insecta,,Hylaeus alpinus,Unknown,"Global, Europe",Data Deficient
+animalia — actinopterygii,Weatherfish,Misgurnus fossilis,Decreasing,"Global, Europe",Least Concern
+animalia — insecta,,Formica pratensis,,Global,Near Threatened
 animalia — insecta,,Dytiscus latissimus,,Global,Vulnerable
+animalia — cephalaspidomorphi,,Eudontomyzon danfordi,Unknown,"Global, Europe",Least Concern
+animalia — insecta,,Formica lugubris,,Global,Near Threatened
+animalia — insecta,,Formica rufa,,Global,Near Threatened
+animalia — gastropoda,Lister's River Snail,Viviparus contectus,Decreasing,Global,Least Concern
+animalia — gastropoda,Twisted Ram's-horn,Bathyomphalus contortus,Unknown,Global,Least Concern
+animalia — gastropoda,,Gyraulus albus,Stable,Global,Least Concern
+animalia — bivalvia,,Pisidium subtruncatum,Unknown,Global,Least Concern
+animalia — gastropoda,,Drobacia banatica,Stable,"Global, Europe",Least Concern
 animalia — insecta,,Ammobates melectoides,Decreasing,"Global, Europe",Endangered
+animalia — insecta,,Megachile dacica,Unknown,"Global, Europe",Data Deficient
+animalia — gastropoda,,Theodoxus fluviatilis,Stable,Global,Least Concern
+animalia — mammalia,Northern White-breasted Hedgehog,Erinaceus roumanicus,Stable,Global,Least Concern
+animalia — gastropoda,,Helicopsis hungarica,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Alinda biplicata,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,Hungarian Blind Snail,Paladilhiopsis hungaricum,Unknown,"Global, Europe",Vulnerable
+animalia — aves,Lesser Whitethroat,Sylvia curruca,Stable,Global,Least Concern
+animalia — gastropoda,,Helicopsis striata,Unknown,Global,Least Concern
+animalia — gastropoda,,Cellariopsis deubeli,Stable,"Global, Europe",Least Concern
+animalia — gastropoda,,Perforatella dibothrion,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Petasina bakowskii,Unknown,"Global, Europe",Least Concern
+animalia — gastropoda,,Alinda stabilis,Stable,"Global, Europe",Least Concern

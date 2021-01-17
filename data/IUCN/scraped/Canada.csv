@@ -1,25 +1,61 @@
 kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — myxini,Atlantic Hagfish,Myxine glutinosa,Unknown,Global,Least Concern
+animalia — actinopterygii,Dealfish,Trachipterus arcticus,Unknown,Global,Least Concern
+animalia — mammalia,Wolverine,Gulo gulo,Decreasing,Global,Least Concern
+animalia — mammalia,Harbor Seal,Phoca vitulina,Unknown,Global,Least Concern
+animalia — insecta,Ashton's Cuckoo Bumblebee,Bombus bohemicus,Decreasing,Global,Data Deficient
+animalia — insecta,Rusty Patched Bumble Bee,Bombus affinis,Decreasing,Global,Critically Endangered
+animalia — insecta,Sitka bumble bee,Bombus sitkensis,Stable,Global,Least Concern
+animalia — insecta,Van Dyke Bumble Bee,Bombus vandykei,Stable,Global,Least Concern
+animalia — insecta,Vosnesensky Bumble Bee,Bombus vosnesenskii,Stable,Global,Least Concern
+animalia — insecta,White Shouldered Bumble Bee,Bombus appositus,Unknown,Global,Least Concern
+animalia — actinopterygii,Northern Pipefish,Syngnathus fuscus,Unknown,Global,Least Concern
+animalia — gastropoda,Pinto Abalone,Haliotis kamtschatkana,Stable,Global,Endangered
 animalia — reptilia,,Crotalus horridus,Decreasing,Global,Least Concern
-animalia — mammalia,Black-footed Ferret,Mustela nigripes,Decreasing,Global,Endangered
-animalia — aves,Eskimo Curlew,Numenius borealis,Unknown,Global,Critically Endangered
-animalia — insecta,,Nicrophorus americanus,,Global,Critically Endangered
-animalia — gastropoda,Glossy Valvata,Valvata humeralis,Unknown,Global,Least Concern
-animalia — gastropoda,Lake Winnipeg Physa Snail,Physella winnipegensis,Decreasing,Global,Data Deficient
-animalia — aves,Labrador Duck,Camptorhynchus labradorius,,Global,Extinct
-animalia — aves,Great Auk,Pinguinus impennis,,Global,Extinct
-animalia — mammalia,Swift Fox,Vulpes velox,Stable,Global,Least Concern
-animalia — gastropoda,,Galba vancouverensis,,Global,Extinct
-animalia — actinopterygii,,Coregonus johannae,,Global,Extinct
-animalia — gastropoda,Caribou Ramshorn,Planorbella columbiensis,,Global,Critically Endangered
-animalia — bivalvia,Dwarf Wedgemussel,Alasmidonta heterodon,Decreasing,Global,Vulnerable
-animalia — actinopterygii,,Coregonus alpenae,,Global,Extinct
-animalia — reptilia,,Phrynosoma douglasii,Stable,Global,Least Concern
-animalia — actinopterygii,Paddlefish,Polyodon spathula,Unknown,Global,Vulnerable
-animalia — mammalia,Sea Mink,Neovison macrodon,,Global,Extinct
-animalia — gastropoda,Ashy Pebblesnail,Fluminicola fuscus,Decreasing,Global,Near Threatened
-animalia — aves,Passenger Pigeon,Ectopistes migratorius,,Global,Extinct
-animalia — insecta,Variable Cuckoo Bumblebee,Bombus variabilis,Decreasing,Global,Critically Endangered
-animalia — actinopterygii,,Coregonus nigripinnis,,Global,Extinct
-animalia — actinopterygii,Shortnose Cisco,Coregonus reighardi,,Global,Critically Endangered
-animalia — insecta,Rocky Mountain Locust,Melanoplus spretus,,Global,Extinct
-animalia — reptilia,Western Pond Turtle,Actinemys marmorata,,Global,Vulnerable
+animalia — actinopterygii,,Astronesthes gemmifer,Unknown,Global,Data Deficient
+animalia — insecta,Hunt Bumble Bee,Bombus huntii,Stable,Global,Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Leptostomias gladiator,Unknown,Global,Least Concern
+animalia — actinopterygii,,Chirostomias pliopterus,Unknown,Global,Least Concern
+animalia — actinopterygii,Alfonsino,Beryx decadactylus,Unknown,Global,Least Concern
+animalia — insecta,American Snout,Libytheana carinenta,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gonostoma denudatum,Unknown,Global,Least Concern
+animalia — mammalia,Sowerby's Beaked Whale,Mesoplodon bidens,Unknown,Global,Least Concern
+animalia — aves,Willow Grouse,Lagopus lagopus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Smalleye Squaretail,Tetragonurus cuvieri,Stable,Global,Least Concern
+animalia — actinopterygii,Bulbous Dreamer,Oneirodes eschrichtii,Unknown,Global,Least Concern
+animalia — aves,Red-tailed Hawk,Buteo jamaicensis,Increasing,Global,Least Concern
+animalia — aves,White Ibis,Eudocimus albus,Stable,Global,Least Concern
+animalia — insecta,Wandering Glider,Pantala flavescens,Stable,Global,Least Concern
+animalia — aves,American Black Duck,Anas rubripes,Decreasing,Global,Least Concern
+animalia — aves,Willet,Tringa semipalmata,Stable,Global,Least Concern
+animalia — insecta,Western Bumble Bee,Bombus occidentalis,Decreasing,Global,Vulnerable
+animalia — insecta,Moorland Hawker,Aeshna juncea,Stable,Global,Least Concern
+animalia — amphibia,Coastal Giant Salamander,Dicamptodon tenebrosus,Stable,Global,Least Concern
+animalia — bivalvia,Eastern Pondmussel,Ligumia nasuta,Decreasing,Global,Vulnerable
+animalia — amphibia,American Bullfrog,Lithobates catesbeianus,Increasing,Global,Least Concern
+animalia — aves,Gyrfalcon,Falco rusticolus,Stable,Global,Least Concern
+animalia — aves,Brown Pelican,Pelecanus occidentalis,Increasing,Global,Least Concern
+animalia — mammalia,Brown Bear,Ursus arctos,Stable,Global,Least Concern
+animalia — aves,Lapland Longspur,Calcarius lapponicus,Increasing,Global,Least Concern
+animalia — insecta,Black Tail Bumble Bee,Bombus melanopygus,Stable,Global,Least Concern
+animalia — reptilia,Snapping Turtle,Chelydra serpentina,Stable,Global,Least Concern
+animalia — reptilia,Painted Turtle,Chrysemys picta,Stable,Global,Least Concern
+animalia — aves,Northern Long-eared Owl,Asio otus,Decreasing,Global,Least Concern
+animalia — aves,Eastern Bluebird,Sialia sialis,Increasing,Global,Least Concern
+animalia — aves,Mountain Plover,Charadrius montanus,Decreasing,Global,Near Threatened
+animalia — aves,Buller's Shearwater,Ardenna bulleri,Stable,Global,Vulnerable
+animalia — aves,Bluethroat,Cyanecula svecica,Stable,Global,Least Concern
+animalia — aves,Glossy Ibis,Plegadis falcinellus,Decreasing,Global,Least Concern
+animalia — aves,Red-necked Phalarope,Phalaropus lobatus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Spotted Barracudina,Arctozenus risso,Unknown,Global,Least Concern
+animalia — actinopterygii,Bristlemouth,Sigmops bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sloane's Viperfish,Chauliodus sloani,Unknown,Global,Least Concern
+animalia — aves,Sabine's Gull,Xema sabini,Stable,Global,Least Concern
+animalia — actinopterygii,Bean's Sawtooth Eel,Serrivomer beanii,Unknown,Global,Least Concern
+animalia — aves,Thick-billed Murre,Uria lomvia,Increasing,Global,Least Concern
+animalia — aves,Roseate Tern,Sterna dougallii,Unknown,Global,Least Concern
+animalia — aves,Red Phalarope,Phalaropus fulicarius,Unknown,Global,Least Concern
+animalia — insecta,Question Mark,Polygonia interrogationis,Unknown,Global,Least Concern
+animalia — mammalia,Cuvier's Beaked Whale,Ziphius cavirostris,Unknown,Global,Least Concern
+animalia — mammalia,Striped Dolphin,Stenella coeruleoalba,Unknown,Global,Least Concern
