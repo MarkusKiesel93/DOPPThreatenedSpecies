@@ -78,7 +78,7 @@ def open_land_regions_section(filters):
 def open_region_section(driver, filters, region_name):
     filter_region = filters.find_element_by_xpath(f"//*[text()='{region_name}']")
     # offset is needed to click the arrow on the right instead of the checkbox
-    x_offset = 100
+    x_offset = 150
     ac = ActionChains(driver)
     ac.move_to_element(filter_region).move_by_offset(x_offset, 0).click().perform()
     sleep(2)
@@ -93,22 +93,22 @@ def click_country_filter(filters, country_name):
 
 # clickst the "show all" button on the bottom of the main content as long as all species are loaded
 def load_whole_content(driver):
-    main_content = driver.find_element_by_class_name('layout-page__major')
     try:
+        wait_loading(driver)
+        main_content = driver.find_element_by_class_name('layout-page__major')
         show_all_button = main_content.find_element_by_class_name('section__link-out')
         show_all_button.click()
-        wait_loading(main_content)
         load_whole_content(driver)  # recursive call
     # exceiption if "show all button is not found"
     except Exception:
         sleep(1)
 
 
-def wait_loading(main_content):
+def wait_loading(driver):
     try:
-        main_content.find_element_by_class_name('spinner')
+        driver.find_element_by_class_name('spinner')
         sleep(1)
-        wait_loading(main_content)
+        wait_loading(driver)
     except Exception:
         sleep(1)
 

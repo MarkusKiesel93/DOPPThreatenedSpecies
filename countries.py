@@ -36,7 +36,7 @@ if __name__ == '__main__':
     print('list of all countries:')
     country_list = get_country_list()
     print(country_list)
-    assert len(country_list) == 29
+    assert len(country_list) == 65
 
     print('dictionary of regions and countries')
     countries_iucn = get_for_IUCN()

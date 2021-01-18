@@ -1,40 +1,83 @@
 countries:
     Europe:
-        - 'Austria'
-        - 'Belgium'
-        - 'Czech Republic'
-        - 'Denmark'
-        - 'Finland'
-        - 'France'
-        - 'Germany'
-        - 'Greece'
-        - 'Hungary'
-        - 'Iceland'
-        - 'Ireland'
-        - 'Italy'
-        - 'Luxembourg'
-        - 'Netherlands'
-        - 'Norway'
-        - 'Poland'
-        - 'Portugal'
-        - 'Slovak Republic'
-        - 'Spain'
-        - 'Sweden'
-        - 'Switzerland'
-        - 'United Kingdom'
+        - Austria
+        - Belgium
+        - Bulgaria
+        - Croatia
+        - Czech Republic
+        - Denmark
+        - Estonia
+        - Finland
+        - France
+        - Germany
+        - Greece
+        - Greenland
+        - Hungary
+        - Iceland
+        - Ireland
+        - Italy
+        - Latvia
+        - Lithuania
+        - Luxembourg
+        - Malta
+        - Netherlands
+        - Norway
+        - Poland
+        - Portugal
+        - Romania
+        - Slovak Republic
+        - Slovenia
+        - Spain
+        - Sweden
+        - Switzerland
+        - United Kingdom
     Oceania:
-        - 'Australia'
-        - 'New Zealand'
+        - Australia
+        - New Zealand
+        - New Caledonia
+        - Northern Mariana Islands
     North America:
-        - 'Canada'
-        - 'United States'
+        - Canada
+        - United States
+    South America:
+        - Argentina
+        - Brazil
+        - Chile
+        - Colombia
+        - Peru
+    North Asia:
+        - Belarus
+        - Moldova
+        - Russia
+        - Ukraine
     East Asia:
-        - 'Japan'
-        - 'Korea'
+        - Japan
+        - Korea
+    South and Southeast Asia:
+        - India
+        - Indonesia
+    West and Central Asia:
+        - Armenia
+        - Azerbaijan
+        - Cyprus
+        - Georgia
+        - Israel
+        - Kazakhstan
+        - Kyrgyzstan
+        - Saudi Arabia
+        - Tajikistan
+        - Turkmenistan
+        - Uzbekistan
     Mesoamerica:
-        - 'Mexico'
+        - Mexico
+        - Costa Rica
+    Sub-Saharan Africa:
+        - South Africa
+    Caribbean Islands:
+        - Puerto Rico
 
 IUCN_name_transform:
-    'Czech Republic': 'Czechia'
-    'Korea': 'Korea, Republic of'
-    'Slovak Republic': 'Slovakia'
+    Czech Republic: Czechia
+    Korea: Korea, Republic of
+    Slovak Republic: Slovakia
+    Russia: Russian Federation
