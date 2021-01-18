@@ -1,1 +1,1709 @@
-
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — mammalia,American Manatee,Trichechus manatus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Indigo Hamlet,Hypoplectrus indigo,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Long-snout Seahorse,Hippocampus reidi,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Rainbow Parrotfish,Scarus guacamaia,Decreasing,Global,Near Threatened
+animalia — reptilia,Culebra Giant Anole,Anolis roosevelti,Unknown,Global,Critically Endangered
+animalia — actinopterygii,Insular Pipefish,Anarchopterus tectus,Unknown,Global,Least Concern
+animalia — actinopterygii,White-nose Pipefish,Cosmocampus albirostris,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Skink,Spondylurus nitidus,Decreasing,Global,Endangered
+animalia — actinopterygii,Lantern Bass,Serranus baldwini,Unknown,Global,Least Concern
+animalia — chondrichthyes,Atlantic Chupare,Styracura schmardae,Unknown,Global,Data Deficient
+animalia — amphibia,Cave Coqui,Eleutherodactylus cooki,Unknown,Global,Vulnerable
+animalia — actinopterygii,,Astronesthes gemmifer,Unknown,Global,Data Deficient
+animalia — actinopterygii,Roughlip Cardinalfish,Apogon robinsi,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotted Cardinalfish,Apogon maculatus,Stable,"Global, Caribbean",Least Concern
+animalia — reptilia,Puerto Rico Crested Anole,Anolis cristatellus,Stable,Global,Least Concern
+animalia — actinopterygii,Bastard Eel,Gymnothorax miliaris,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Ocellated Moray,Gymnothorax ocellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Tang,Acanthurus coeruleus,Stable,Global,Least Concern
+animalia — actinopterygii,Yellow Fin Mojarra,Gerres cinereus,Unknown,Global,Least Concern
+animalia — actinopterygii,Viper Moray,Enchelycore nigricans,Unknown,Global,Least Concern
+animalia — malacostraca,Sculptured Mitten Lobster,Parribacus antarcticus,Unknown,Global,Least Concern
+animalia — gastropoda,Crown Cone,Conus regius,Unknown,Global,Least Concern
+animalia — mammalia,Melon-headed Whale,Peponocephala electra,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gonostoma denudatum,Unknown,Global,Least Concern
+animalia — mammalia,Clymene Dolphin,Stenella clymene,Unknown,Global,Least Concern
+animalia — actinopterygii,Cubbyu,Pareques umbrosus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Jackknife Fish,Equetus lanceolatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Jamaican Weakfish,Cynoscion jamaicensis,Stable,Global,Least Concern
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — aves,Red-tailed Hawk,Buteo jamaicensis,Increasing,Global,Least Concern
+animalia — aves,White Ibis,Eudocimus albus,Stable,Global,Least Concern
+animalia — actinopterygii,Banded Pipefish,Micrognathus crinitus,Unknown,Global,Least Concern
+animalia — insecta,Wandering Glider,Pantala flavescens,Stable,Global,Least Concern
+animalia — aves,American Black Duck,Anas rubripes,Decreasing,Global,Least Concern
+animalia — aves,Willet,Tringa semipalmata,Stable,Global,Least Concern
+animalia — actinopterygii,Lined Sole,Achirus lineatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Drum,Equetus punctatus,Unknown,"Global, Caribbean",Least Concern
+animalia — chondrichthyes,Western Atlantic Torpedo Ray,Tetronarce occidentalis,Decreasing,Global,Least Concern
+animalia — aves,Brown Pelican,Pelecanus occidentalis,Increasing,Global,Least Concern
+animalia — aves,Red-billed Tropicbird,Phaethon aethereus,Decreasing,Global,Least Concern
+animalia — aves,Glossy Ibis,Plegadis falcinellus,Decreasing,Global,Least Concern
+animalia — aves,Hispaniolan Parakeet,Psittacara chloropterus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Spotted Barracudina,Arctozenus risso,Unknown,Global,Least Concern
+animalia — actinopterygii,Bristlemouth,Sigmops bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sloane's Viperfish,Chauliodus sloani,Unknown,Global,Least Concern
+animalia — aves,Roseate Tern,Sterna dougallii,Unknown,Global,Least Concern
+animalia — mammalia,Cuvier's Beaked Whale,Ziphius cavirostris,Unknown,Global,Least Concern
+animalia — mammalia,Striped Dolphin,Stenella coeruleoalba,Unknown,Global,Least Concern
+animalia — aves,Arctic Tern,Sterna paradisaea,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Megamouth Shark,Megachasma pelagios,Unknown,Global,Least Concern
+animalia — actinopterygii,Sharptail Eel,Myrichthys breviceps,Unknown,Global,Least Concern
+animalia — actinopterygii,Brown Garden Eel,Heteroconger longissimus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Bluntnose Stingray,Hypanus say,Decreasing,Global,Near Threatened
+animalia — chondrichthyes,Great Hammerhead,Sphyrna mokarran,Decreasing,Global,Critically Endangered
+animalia — actinopterygii,Doctorfish,Acanthurus chirurgus,Stable,Global,Least Concern
+animalia — actinopterygii,Flying Gurnard,Dactylopterus volitans,Unknown,Global,Least Concern
+animalia — actinopterygii,Belted Cardinalfish,Apogon townsendi,Stable,"Global, Caribbean",Least Concern
+animalia — gastropoda,,Conus inconstans,Unknown,Global,Least Concern
+animalia — actinopterygii,Bandtooth Conger,Ariosoma balearicum,Unknown,Global,Least Concern
+animalia — reptilia,Navassa Rhinoceros Iguana,Cyclura onchiopsis,,Global,Extinct
+animalia — chondrichthyes,Tiger Shark,Galeocerdo cuvier,Decreasing,Global,Near Threatened
+animalia — malacostraca,Spotted Spiny Lobster,Panulirus guttatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Shy Hamlet,Hypoplectrus guttavarius,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Blue-spotted Cornetfish,Fistularia tabacaria,Unknown,Global,Least Concern
+animalia — actinopterygii,Barreleye,Opisthoproctus soleatus,Unknown,Global,Least Concern
+animalia — amphibia,Mountain Coqui,Eleutherodactylus portoricensis,Decreasing,Global,Endangered
+animalia — actinopterygii,Agassiz's Thread-sail Fish,Chlorophthalmus agassizi,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Pipefish,Syngnathus caribbaeus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigmouth Sleeper,Gobiomorus dormitor,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigscale Deepsea Smelt,Melanolagus bericoides,Unknown,Global,Least Concern
+animalia — mammalia,Fraser's Dolphin,Lagenodelphis hosei,Unknown,Global,Least Concern
+animalia — aves,Roseate Spoonbill,Platalea ajaja,Stable,Global,Least Concern
+animalia — insecta,Common Green Darner,Anax junius,Stable,Global,Least Concern
+animalia — actinopterygii,Gray Triggerfish,Balistes capriscus,Decreasing,Global,Vulnerable
+animalia — aves,Brent Goose,Branta bernicla,Unknown,Global,Least Concern
+animalia — aves,Arctic Jaeger,Stercorarius parasiticus,Stable,Global,Least Concern
+animalia — aves,Black-headed Gull,Larus ridibundus,Unknown,Global,Least Concern
+animalia — aves,Canada Goose,Branta canadensis,Increasing,Global,Least Concern
+animalia — aves,Black-winged Stilt,Himantopus himantopus,Increasing,Global,Least Concern
+animalia — aves,Northern Shoveler,Spatula clypeata,Decreasing,Global,Least Concern
+animalia — aves,Ruddy Turnstone,Arenaria interpres,Decreasing,Global,Least Concern
+animalia — aves,Sooty Tern,Onychoprion fuscatus,Unknown,Global,Least Concern
+animalia — aves,Great White Egret,Ardea alba,Unknown,Global,Least Concern
+animalia — actinopterygii,Ocean Sunfish,Mola mola,Decreasing,Global,Vulnerable
+animalia — mammalia,Risso's Dolphin,Grampus griseus,Unknown,Global,Least Concern
+animalia — reptilia,Hawksbill Turtle,Eretmochelys imbricata,Decreasing,Global,Critically Endangered
+animalia — aves,Common Tern,Sterna hirundo,Unknown,Global,Least Concern
+animalia — actinopterygii,Greater Amberjack,Seriola dumerili,Unknown,Global,Least Concern
+animalia — aves,Collared Sand Martin,Riparia riparia,Decreasing,Global,Least Concern
+animalia — actinopterygii,Bigtooth Cardinalfish,Paroncheilus affinis,Unknown,Global,Least Concern
+animalia — actinopterygii,Bridled Goby,Coryphopterus glaucofraenum,Unknown,Global,Least Concern
+animalia — actinopterygii,Sharknose Goby,Elacatinus evelynae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotted Moray,Gymnothorax moringa,Unknown,Global,Least Concern
+animalia — chondrichthyes,Whale Shark,Rhincodon typus,Decreasing,Global,Endangered
+animalia — chondrichthyes,Scalloped Hammerhead,Sphyrna lewini,Decreasing,Global,Critically Endangered
+animalia — actinopterygii,Guayana Pike-conger,Cynoponticus savanna,Unknown,Global,Least Concern
+animalia — gastropoda,Bermuda Cone,Conus mindanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Common Dolphinfish,Coryphaena hippurus,Stable,Global,Least Concern
+animalia — actinopterygii,Rusty Goby,Priolepis hipoliti,Unknown,Global,Least Concern
+animalia — gastropoda,Maze's Cone,Conus mazei,Unknown,Global,Least Concern
+animalia — gastropoda,Carrot Cone,Conus daucus,Unknown,Global,Least Concern
+animalia — amphibia,Puerto Rican Crested Toad,Peltophryne lemur,Decreasing,Global,Critically Endangered
+animalia — amphibia,,Eleutherodactylus gryllus,Decreasing,Global,Endangered
+animalia — amphibia,,Eleutherodactylus unicolor,Stable,Global,Vulnerable
+animalia — amphibia,Melodius Coqui,Eleutherodactylus wightmanae,Decreasing,Global,Endangered
+animalia — malacostraca,West Indian Furrow Lobster,Justitia longimanus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Yellowhead Jawfish,Opistognathus aurifrons,Stable,Global,Least Concern
+animalia — actinopterygii,,Sudis hyalina,Unknown,Global,Data Deficient
+animalia — actinopterygii,Atlantic Bluefin Tuna,Thunnus thynnus,Decreasing,Global,Endangered
+animalia — actinopterygii,,Ahliesaurus berryi,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Gemfish,Nesiarchus nasutus,Stable,Global,Least Concern
+animalia — aves,Tundra Swan,Cygnus columbianus,Unknown,Global,Least Concern
+animalia — actinopterygii,Frillfin Goby,Bathygobius soporator,Unknown,Global,Least Concern
+animalia — actinopterygii,Tiger Grouper,Mycteroperca tigris,Decreasing,Global,Data Deficient
+animalia — aves,Green-backed Heron,Butorides striata,Decreasing,Global,Least Concern
+animalia — actinopterygii,Freshwater Pipefish,Pseudophallus mindii,Unknown,Global,Data Deficient
+animalia — aves,Short-eared Owl,Asio flammeus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Red Cornetfish,Fistularia petimba,Unknown,Global,Least Concern
+animalia — mammalia,Pantropical Spotted Dolphin,Stenella attenuata,Unknown,Global,Least Concern
+animalia — aves,Grey Plover,Pluvialis squatarola,Decreasing,Global,Least Concern
+animalia — aves,Red Knot,Calidris canutus,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Atlantic Goliath Grouper,Epinephelus itajara,Decreasing,Global,Vulnerable
+animalia — chondrichthyes,Smalltooth Sawfish,Pristis pectinata,Decreasing,Global,Critically Endangered
+animalia — aves,Sharp-shinned Hawk,Accipiter striatus,Increasing,Global,Least Concern
+animalia — aves,Caspian Tern,Hydroprogne caspia,Increasing,Global,Least Concern
+animalia — aves,Black-crowned Night-heron,Nycticorax nycticorax,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Oceanic Whitetip Shark,Carcharhinus longimanus,Decreasing,Global,Critically Endangered
+animalia — mammalia,Humpback Whale,Megaptera novaeangliae,Increasing,Global,Least Concern
+animalia — aves,Northern Pintail,Anas acuta,Decreasing,Global,Least Concern
+animalia — aves,Lesser Black-backed Gull,Larus fuscus,Increasing,Global,Least Concern
+animalia — aves,White-tailed Tropicbird,Phaethon lepturus,Decreasing,Global,Least Concern
+animalia — insecta,Gulf Fritillary,Agraulis vanillae,Unknown,Global,Least Concern
+animalia — aves,Puerto Rican Amazon,Amazona vittata,Increasing,Global,Critically Endangered
+animalia — chondrichthyes,Blue Shark,Prionace glauca,Decreasing,Global,Near Threatened
+animalia — mammalia,Short-finned Pilot Whale,Globicephala macrorhynchus,Unknown,Global,Least Concern
+animalia — actinopterygii,Silver Hatchetfish,Argyropelecus olfersii,Unknown,Global,Least Concern
+animalia — actinopterygii,Deepbody Boarfish,Antigonia capros,Stable,Global,Least Concern
+animalia — actinopterygii,Silver Spinyfin,Diretmus argenteus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Marlin,Makaira nigricans,Decreasing,Global,Vulnerable
+animalia — reptilia,Olive Ridley,Lepidochelys olivacea,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Redlip Blenny,Ophioblennius atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackfin Cardinalfish,Astrapogon puncticulatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Twospot Cardinalfish,Apogon pseudomaculatus,Stable,Global,Least Concern
+animalia — actinopterygii,Striped Mojarra,Eugerres plumieri,Stable,"Global, Caribbean",Least Concern
+animalia — gastropoda,Centurion Cone,Conus centurio,Unknown,Global,Least Concern
+animalia — gastropoda,Villepin's Cone,Conus villepinii,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus anaglypticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Sharpnose-puffer,Canthigaster rostrata,Unknown,Global,Least Concern
+animalia — aves,Whimbrel,Numenius phaeopus,Decreasing,Global,Least Concern
+animalia — aves,Merlin,Falco columbarius,Stable,Global,Least Concern
+animalia — aves,Gadwall,Mareca strepera,Increasing,Global,Least Concern
+animalia — reptilia,Emerald Anole,Anolis evermanni,Unknown,Global,Least Concern
+animalia — actinopterygii,High-hat,Pareques acuminatus,Unknown,Global,Least Concern
+animalia — aves,Puerto Rican Nightjar,Antrostomus noctitherus,Decreasing,Global,Endangered
+animalia — actinopterygii,,Astronesthes niger,Unknown,Global,Least Concern
+animalia — actinopterygii,Freckled Soapfish,Rypticus bistrispinus,Unknown,Global,Least Concern
+animalia — mammalia,Red Fruit Bat,Stenoderma rufum,Unknown,Global,Near Threatened
+animalia — actinopterygii,West Atlantic Trumpetfish,Aulostomus maculatus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Rosy Dory,Cyttopsis rosea,Stable,Global,Least Concern
+animalia — actinopterygii,Thorny Tinselfish,Grammicolepis brachiusculus,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Grouper,Mycteroperca bonaci,Decreasing,Global,Near Threatened
+animalia — actinopterygii,American Crested Pipefish,Cosmocampus brachycephalus,Decreasing,Global,Least Concern
+animalia — actinopterygii,West Atlantic Pygmy Pipehorse,Acentronura dendritica,Unknown,Global,Least Concern
+animalia — actinopterygii,American Pugnose Pipefish,Bryx dunckeri,Unknown,Global,Least Concern
+animalia — reptilia,Green Turtle,Chelonia mydas,Decreasing,Global,Endangered
+animalia — actinopterygii,Bluntsnout Smooth-head,Xenodermichthys copei,Unknown,Global,Least Concern
+animalia — amphibia,Locust Coqui,Eleutherodactylus locustus,Decreasing,Global,Critically Endangered
+animalia — reptilia,Leatherback,Dermochelys coriacea,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Cocco's Lantern Fish,Lobianchia gemellarii,Unknown,Global,Least Concern
+animalia — actinopterygii,Silver Roughy,Hoplostethus mediterraneus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Southern Stingray,Hypanus americanus,Decreasing,Global,Near Threatened
+animalia — aves,Turkey Vulture,Cathartes aura,Stable,Global,Least Concern
+animalia — mammalia,Spinner Dolphin,Stenella longirostris,Unknown,Global,Least Concern
+animalia — chondrichthyes,Basking Shark,Cetorhinus maximus,Decreasing,Global,Endangered
+animalia — aves,Cattle Egret,Bubulcus ibis,Increasing,Global,Least Concern
+animalia — aves,Mallard,Anas platyrhynchos,Increasing,Global,Least Concern
+animalia — aves,Greater Scaup,Aythya marila,Decreasing,Global,Least Concern
+animalia — aves,Pomarine Jaeger,Stercorarius pomarinus,Stable,Global,Least Concern
+animalia — aves,Common Gull-billed Tern,Gelochelidon nilotica,Decreasing,Global,Least Concern
+animalia — aves,Audubon's Shearwater,Puffinus lherminieri,Decreasing,Global,Least Concern
+animalia — aves,Peregrine Falcon,Falco peregrinus,Stable,Global,Least Concern
+animalia — aves,Common Barn-owl,Tyto alba,Stable,Global,Least Concern
+animalia — mammalia,Killer Whale,Orcinus orca,Unknown,Global,Data Deficient
+animalia — mammalia,Rough-toothed Dolphin,Steno bredanensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Riverine Clingfish,Gobiesox cephalus,Unknown,Global,Data Deficient
+animalia — aves,Great Blue Heron,Ardea herodias,Increasing,Global,Least Concern
+animalia — actinopterygii,Slender Snipe Eel,Nemichthys scolopaceus,Unknown,Global,Least Concern
+animalia — mammalia,Pygmy Sperm Whale,Kogia breviceps,Unknown,Global,Least Concern
+animalia — mammalia,Common Bottlenose Dolphin,Tursiops truncatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Chain Moray,Echidna catenata,Unknown,Global,Least Concern
+animalia — actinopterygii,Green Moray,Gymnothorax funebris,Unknown,Global,Least Concern
+animalia — actinopterygii,Freckled Cardinalfish,Phaeoptyx conklini,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Fairy Basslet,Gramma loreto,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Peppermint Goby,Coryphopterus lipernes,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Longspine Snipefish,Macroramphosus scolopax,Unknown,Global,Least Concern
+animalia — chondrichthyes,Smooth Hammerhead,Sphyrna zygaena,Decreasing,Global,Vulnerable
+animalia — gastropoda,Agate Cone,Conus ermineus,Unknown,Global,Least Concern
+animalia — gastropoda,Glory-of-the-Atlantic Cone,Conus granulatus,Unknown,Global,Least Concern
+animalia — gastropoda,Mouse Cone,Conus mus,Unknown,Global,Least Concern
+animalia — reptilia,Mona Rhinoceros Iguana,Cyclura stejnegeri,Increasing,Global,Critically Endangered
+animalia — gastropoda,West Indian Alphabet Cone,Conus spurius,Unknown,Global,Least Concern
+animalia — actinopterygii,Barred Hamlet,Hypoplectrus puella,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Peppermint Bass,Liopropoma rubre,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Tobacco Basslet,Serranus tabacarius,Unknown,Global,Least Concern
+animalia — mammalia,Antillean Fruit-eating Bat,Brachyphylla cavernarum,Unknown,Global,Least Concern
+animalia — actinopterygii,Bermuda Sea Chub,Kyphosus sectatrix,Stable,Global,Least Concern
+animalia — actinopterygii,Sargassum Pipefish,Syngnathus pelagicus,Unknown,Global,Least Concern
+animalia — amphibia,Hedrick's Coqui,Eleutherodactylus hedricki,Decreasing,Global,Endangered
+animalia — amphibia,Richmond's Coqui,Eleutherodactylus richmondi,Decreasing,Global,Critically Endangered
+animalia — actinopterygii,Sailfish,Istiophorus platypterus,Unknown,Global,Least Concern
+animalia — malacostraca,Caribbean Spiny Lobster,Panulirus argus,Decreasing,Global,Data Deficient
+animalia — aves,Sanderling,Calidris alba,Unknown,Global,Least Concern
+animalia — chondrichthyes,Giant Manta Ray,Mobula birostris,Decreasing,Global,Endangered
+animalia — actinopterygii,Shorthead Drum,Larimus breviceps,Unknown,Global,Least Concern
+animalia — mammalia,Atlantic Spotted Dolphin,Stenella frontalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Nassau Grouper,Epinephelus striatus,Decreasing,Global,Critically Endangered
+animalia — aves,Bar-tailed Godwit,Limosa lapponica,Decreasing,Global,Near Threatened
+animalia — aves,Antillean Crested Hummingbird,Orthorhyncus cristatus,Unknown,Global,Least Concern
+animalia — aves,Great Skua,Catharacta skua,Stable,Global,Least Concern
+animalia — aves,West Indian Whistling-duck,Dendrocygna arborea,Decreasing,Global,Near Threatened
+animalia — chondrichthyes,White Shark,Carcharodon carcharias,Decreasing,Global,Vulnerable
+animalia — aves,Magnificent Frigatebird,Fregata magnificens,Decreasing,Global,Least Concern
+animalia — insecta,Cloudless Sulfur,Phoebis sennae,Unknown,Global,Least Concern
+animalia — aves,Great Black-backed Gull,Larus marinus,Unknown,Global,Least Concern
+animalia — aves,Manx Shearwater,Puffinus puffinus,Unknown,Global,Least Concern
+animalia — aves,Sandwich Tern,Thalasseus sandvicensis,Stable,Global,Least Concern
+animalia — aves,Black Tern,Chlidonias niger,Decreasing,Global,Least Concern
+animalia — aves,Osprey,Pandion haliaetus,Increasing,Global,Least Concern
+animalia — reptilia,Loggerhead Turtle,Caretta caretta,Decreasing,Global,Vulnerable
+animalia — aves,Plain Pigeon,Patagioenas inornata,Decreasing,Global,Near Threatened
+animalia — actinopterygii,,Cyclothone microdon,Stable,Global,Least Concern
+animalia — aves,Piping Plover,Charadrius melodus,Increasing,Global,Near Threatened
+animalia — actinopterygii,,Chiasmodon niger,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Pomfret,Brama brama,Unknown,Global,Least Concern
+animalia — mammalia,Common Minke Whale,Balaenoptera acutorostrata,Unknown,Global,Least Concern
+animalia — aves,Northern Fulmar,Fulmarus glacialis,Increasing,Global,Least Concern
+animalia — aves,Barn Swallow,Hirundo rustica,Decreasing,Global,Least Concern
+animalia — mammalia,False Killer Whale,Pseudorca crassidens,Unknown,Global,Near Threatened
+animalia — cephalopoda,Common Blanket Octopus,Tremoctopus violaceus,Unknown,Global,Least Concern
+animalia — actinopterygii,Puffed-cheek Goby,Varicus bucca,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughtail Goby,Evermannichthys metzelaari,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Emerald Clingfish,Acyrtops beryllinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Barred Cardinalfish,Apogon binotatus,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Tusked Goby,Risor ruber,Unknown,Global,Least Concern
+animalia — actinopterygii,Whitestar Cardinalfish,Apogon lachneri,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Bridle Cardinalfish,Apogon aurolineatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Whiskered Goby,Barbulifer antennatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Pallid Goby,Coryphopterus eidolon,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Dash Goby,Ctenogobius saepepallens,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Emerald Sleeper,Erotelis smaragdus,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotfin Mojarra,Eucinostomus argenteus,Stable,Global,Least Concern
+animalia — actinopterygii,Rockcut Goby,Gobiosoma grosvenori,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Rosy Basslet,Lipogramma rosea,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Meek's Goby,Microgobius meeki,Unknown,Global,Least Concern
+animalia — actinopterygii,Mauve Goby,Palatogobius paradoxus,Unknown,"Global, Caribbean",Least Concern
+animalia — malacostraca,,Micratya poeyi,Unknown,Global,Least Concern
+animalia — malacostraca,,Xiphocaris elongata,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bascanichthys paulensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Whiptail Conger,Rhynchoconger gracilior,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Spoon-nose Eel,Echiophis intertinctus,Unknown,Global,Least Concern
+animalia — actinopterygii,Littlehead Porgy,Calamus proridens,Unknown,Global,Least Concern
+animalia — actinopterygii,Porkfish,Anisotremus virginicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Margate,Anisotremus surinamensis,Unknown,Global,Data Deficient
+animalia — actinopterygii,Seagrass Eel,Chilorhinus suensonii,Unknown,Global,Least Concern
+animalia — actinopterygii,Pygmy Moray,Anarchias similis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Greater Soapfish,Rypticus saponaceus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bandtail Puffer,Sphoeroides spengleri,Unknown,Global,Least Concern
+animalia — actinopterygii,Scrawled Cowfish,Acanthostracion quadricornis,Stable,Global,Least Concern
+animalia — actinopterygii,,Parabathymyrus oregoni,Unknown,Global,Least Concern
+animalia — actinopterygii,Slantlip Eel,Caralophia loxochila,Unknown,Global,Least Concern
+animalia — chondrichthyes,Gulper Shark,Centrophorus granulosus,Decreasing,Global,Endangered
+animalia — actinopterygii,Southern Ladyfish,Elops smithi,Unknown,Global,Data Deficient
+animalia — actinopterygii,Reticulate Spikefish,Hollardia hollardi,Unknown,Global,Least Concern
+animalia — actinopterygii,Purple Reeffish,Chromis scotti,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Damselfish,Stegastes adustus,Stable,Global,Least Concern
+animalia — actinopterygii,Beaugregory,Stegastes leucostictus,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfin Damselfish,Stegastes diencaeus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackfin Snapper,Lutjanus buccanella,Unknown,Global,Data Deficient
+animalia — cephalopoda,,Vitreledonella richardi,Unknown,Global,Least Concern
+animalia — cephalopoda,Tropical Arrow Squid,Doryteuthis plei,Unknown,Global,Least Concern
+animalia — chondrichthyes,Atlantic Devilray,Mobula hypostoma,Decreasing,Global,Endangered
+animalia — actinopterygii,Redeye Blenny,Enneanectes pectoralis,Unknown,Global,Least Concern
+animalia — actinopterygii,Rhombic Mojarra,Diapterus rhombeus,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Bonito,Sarda sarda,Stable,Global,Least Concern
+animalia — actinopterygii,Rosy Blenny,Malacoctenus macropus,Unknown,Global,Least Concern
+animalia — actinopterygii,Banded Snake Eel,Ophichthus spinicauda,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spinycheek Soldierfish,Corniger spinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Spikefish,Hollardia meadi,Unknown,Global,Least Concern
+animalia — actinopterygii,Goldspotted Eel,Myrichthys ocellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Barred Clingfish,Tomicodon fasciatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Schoolmaster Snapper,Lutjanus apodus,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Pelagic Stingray,Pteroplatytrygon violacea,Unknown,Global,Least Concern
+animalia — cephalopoda,,Argonauta hians,Unknown,Global,Least Concern
+animalia — actinopterygii,Cubera Snapper,Lutjanus cyanopterus,Decreasing,Global,Vulnerable
+animalia — holothuroidea,,Bathyplotes natans,Stable,Global,Least Concern
+animalia — holothuroidea,,Molpadiodemas porphyrus,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria floridana,Unknown,Global,Least Concern
+animalia — actinopterygii,Checkered Puffer,Sphoeroides testudineus,Unknown,Global,Least Concern
+animalia — insecta,,Macrothemis celeno,Stable,Global,Least Concern
+animalia — gastropoda,Ghost Ramshorn,Biomphalaria havanensis,Stable,Global,Least Concern
+animalia — amphibia,Eneida's Coqui,Eleutherodactylus eneidae,Decreasing,Global,Critically Endangered
+animalia — reptilia,Virgin Islands Boa,Chilabothrus granti,,Global,Endangered
+animalia — actinopterygii,Black Warrior,Bathylaco nigricans,Unknown,Global,Least Concern
+animalia — actinopterygii,Michael Sars Smooth-head,Bathytroctes michaelsarsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Long-fin Smooth-head,Conocara macropterum,Unknown,Global,Least Concern
+animalia — actinopterygii,,Talismania antillarum,Unknown,Global,Least Concern
+animalia — chondrichthyes,Spotted Eagle Ray,Aetobatus narinari,Decreasing,Global,Near Threatened
+animalia — amphibia,Whistling Coqui,Eleutherodactylus cochranae,Stable,Global,Least Concern
+animalia — amphibia,Ranita de Labio Blanco,Leptodactylus albilabris,Stable,Global,Least Concern
+animalia — actinopterygii,Glassy Sweeper,Pempheris schomburgkii,Unknown,Global,Least Concern
+animalia — actinopterygii,Margined Tonguefish,Symphurus marginatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Candy Basslet,Liopropoma carmabi,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Butter Hamlet,Hypoplectrus unicolor,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Reef Bass,Pseudogramma gregoryi,Unknown,Global,Least Concern
+animalia — actinopterygii,School Bass,Schultzea beta,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotted Soapfish,Rypticus subbifrenatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughtongue Bass,Pronotogrammus martinicensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Crosshatch Bass,Serranus luciopercanus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Saddle Bass,Serranus notospilus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Chalk Bass,Serranus tortugarum,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Tattler,Serranus phoebe,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Tonguefish,Symphurus caribbeanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ocellated Tonguefish,Symphurus ommaspilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Spottedfin Tonguefish,Symphurus diomedeanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Flounder,Syacium papillosum,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotwing Scorpionfish,Neomerinthe beanorum,Unknown,Global,Least Concern
+animalia — actinopterygii,Flathead Armored Searobin,Peristedion brevirostre,Unknown,Global,Least Concern
+animalia — actinopterygii,Spinythroat Scorpionfish,Pontinus nematophthalmus,Unknown,Global,Least Concern
+animalia — actinopterygii,Reef Scorpionfish,Scorpaenodes caribbaeus,Unknown,Global,Least Concern
+animalia — actinopterygii,Slope Soapfish,Rypticus carpenteri,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Dwarf Round Herring,Jenkinsia lamprotaenia,Unknown,Global,Least Concern
+animalia — actinopterygii,Slippery Dick,Halichoeres bivittatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Redtail Parrotfish,Sparisoma chrysopterum,Unknown,Global,Least Concern
+animalia — mammalia,,Pteronotus quadridens,Stable,Global,Least Concern
+animalia — actinopterygii,,Scopelarchoides danae,Unknown,Global,Least Concern
+animalia — actinopterygii,Legless Searsid,Platytroctes apus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Aristostomias polydactylus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes leucopogon,Unknown,Global,Least Concern
+animalia — actinopterygii,Mutton Hamlet,Alphestes afer,Stable,Global,Least Concern
+animalia — actinopterygii,,Diaphus fragilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Alligator Armored Searobin,Peristedion greyae,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Armoured Searobin,Peristedion truncatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Twospine Brotula,Diplacanthopoma brachysoma,Unknown,Global,Least Concern
+animalia — actinopterygii,Fourwing Flyingfish,Hirundichthys affinis,Stable,Global,Least Concern
+animalia — actinopterygii,Dwarf Frogfish,Antennarius pauciradiatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Zabaleta Anchovy,Anchovia clupeoides,Unknown,Global,Least Concern
+animalia — actinopterygii,Broad-striped Anchovy,Anchoa hepsetus,Unknown,Global,Least Concern
+animalia — actinopterygii,False Herring,Harengula clupeola,Decreasing,Global,Least Concern
+animalia — actinopterygii,Island Frogfish,Antennatus bermudensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Kakuk's Coralbrotula,Ogilbichthys kakuki,Unknown,Global,Least Concern
+animalia — actinopterygii,Threespine Bass,Synagrops trispinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Brama caribbea,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellow Jawfish,Opistognathus gilberti,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,,Bathyanthias cubensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Tessellated Tonguefish,Symphurus tessellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Plate Fish,Bothus lunatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Snake Mackerel,Nealotus tripes,Stable,Global,Least Concern
+animalia — actinopterygii,Dusky Jawfish,Opistognathus whitehursti,Stable,Global,Least Concern
+animalia — actinopterygii,Beardless Codling,Gadella imberbis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lestidium atlanticum,Unknown,Global,Least Concern
+animalia — actinopterygii,Cero,Scomberomorus regalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye,Epigonus pandionis,Unknown,Global,Least Concern
+animalia — actinopterygii,Pelican flounder,Chascanopsetta lugubris,Unknown,Global,Least Concern
+animalia — actinopterygii,Pugnose Bass,Bullisichthys caribbaeus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Puerto Rico Coralbrotula,Ogilbichthys puertoricoensis,Unknown,Global,Data Deficient
+animalia — actinopterygii,Sleeper Cusk-eel,Otophidium dormitator,Unknown,Global,Least Concern
+animalia — actinopterygii,Threadnose Bass,Choranthias tenuis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Dusky Brotula,Grammonus claudei,Unknown,Global,Least Concern
+animalia — actinopterygii,Twospot Flounder,Bothus robinsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfinger Anchovy,Anchoa filifera,Unknown,Global,Least Concern
+animalia — actinopterygii,Spanish Hogfish,Bodianus rufus,Unknown,Global,Least Concern
+animalia — actinopterygii,Greenband Wrasse,Halichoeres bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Tropical Two-wing Flyingfish,Exocoetus volitans,Unknown,Global,Least Concern
+animalia — actinopterygii,Mirrorwing Flyingfish,Hirundichthys speculiger,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathypterois grallator,Unknown,Global,Least Concern
+animalia — actinopterygii,Duckbill Barracudina,Magnisudis atlantica,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Flyingfish,Cheilopogon melanurus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus garmani,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gigantura chuni,Unknown,Global,Least Concern
+animalia — actinopterygii,Stareye Lightfish,Pollichthys mauli,Unknown,Global,Least Concern
+animalia — actinopterygii,,Myctophum affine,Stable,Global,Least Concern
+animalia — actinopterygii,,Myctophum obtusirostre,Unknown,Global,Least Concern
+animalia — malacostraca,,Polycheles perarmatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diceratias pileatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Chaunax suttkusi,Unknown,Global,Least Concern
+animalia — arachnida,American Golden Orb Weaver,Nephila clavipes,Stable,Global,Least Concern
+animalia — insecta,Spot-tailed Dasher,Micrathyria aequalis,Stable,Global,Least Concern
+animalia — insecta,Evening Skimmer,Tholymis citrina,Stable,Global,Least Concern
+animalia — aves,Green Mango,Anthracothorax viridis,Unknown,Global,Least Concern
+animalia — aves,Vervain Hummingbird,Mellisuga minima,Stable,Global,Least Concern
+animalia — aves,Sora,Porzana carolina,Increasing,Global,Least Concern
+animalia — aves,Greater Yellowlegs,Tringa melanoleuca,Stable,Global,Least Concern
+animalia — aves,Long-billed Dowitcher,Limnodromus scolopaceus,Unknown,Global,Least Concern
+animalia — aves,Western Sandpiper,Calidris mauri,Decreasing,Global,Least Concern
+animalia — aves,Wilson's Phalarope,Steganopus tricolor,Increasing,Global,Least Concern
+animalia — insecta,Striped Saddlebags,Tramea calverti,Stable,Global,Least Concern
+animalia — insecta,Phantom Darner,Triacanthagyna trifida,Stable,Global,Least Concern
+animalia — insecta,Metallic Pennant,Idiataphe cubensis,Stable,Global,Least Concern
+animalia — actinopterygii,,Macroparalepis brevis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Scopelosaurus smithii,Unknown,Global,Least Concern
+animalia — actinopterygii,Violet Goby,Gobioides broussonnetii,Unknown,Global,Least Concern
+animalia — actinopterygii,Common Snook,Centropomus undecimalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Southern Kingfish,Menticirrhus americanus,Unknown,Global,Least Concern
+animalia — reptilia,,Sphaerodactylus klauberi,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diretmichthys parini,Unknown,Global,Least Concern
+animalia — actinopterygii,Longwing Spinyfin,Diretmoides pauciradiatus,Unknown,Global,Least Concern
+animalia — reptilia,Dwarf Anole,Anolis occultus,Stable,Global,Least Concern
+animalia — actinopterygii,Burro Grunt,Rhonciscus crocro,Unknown,Global,Data Deficient
+animalia — actinopterygii,Horse-eye Jack,Caranx latus,Stable,Global,Least Concern
+animalia — actinopterygii,Delalande Blenny,Malacoctenus delalandii,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Leaf-toed Gecko,Phyllodactylus wirshingi,Unknown,Global,Near Threatened
+animalia — actinopterygii,Gelatinous Blindfish,Aphyonus gelatinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackhead Salmon,Narcetes stomias,Stable,Global,Least Concern
+animalia — actinopterygii,,Cetomimus gillii,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Kali kerberti,Unknown,Global,Least Concern
+animalia — actinopterygii,,Pseudoscopelus altipinnis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Haplophryne mollis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Coccorella atlantica,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias longibarba,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Eustomias macrurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Papillose Blenny,Acanthemblemaria chaplini,Unknown,Global,Least Concern
+animalia — actinopterygii,Crested Oarfish,Lophotus lacepede,Unknown,Global,Least Concern
+animalia — actinopterygii,,Photonectes phyllopogon,Unknown,Global,Least Concern
+animalia — mammalia,Caribbean Monk Seal,Neomonachus tropicalis,,Global,Extinct
+animalia — actinopterygii,Whitesaddle Blenny,Starksia leucovitta,Stable,Global,Data Deficient
+animalia — actinopterygii,Dogtooth Herring,Chirocentrodon bleekerianus,Unknown,Global,Least Concern
+animalia — actinopterygii,Rock Hind,Epinephelus adscensionis,Stable,Global,Least Concern
+animalia — actinopterygii,North Atlantic Slope Dragonet,Centrodraco acanthopoma,Unknown,Global,Least Concern
+animalia — reptilia,Townsend's Least Gecko,Sphaerodactylus townsendi,Stable,Global,Least Concern
+animalia — reptilia,Puerto Rican White-tailed Blindsnake,Antillotyphlops platycephalus,Stable,Global,Least Concern
+animalia — actinopterygii,Ground Croaker,Bairdiella ronchus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Photonectes dinema,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lasiognathus saccostoma,Unknown,Global,Least Concern
+animalia — insecta,Familiar Bluet,Enallagma civile,Stable,Global,Least Concern
+animalia — insecta,Spot-winged Glider,Pantala hymenaea,Stable,Global,Least Concern
+animalia — insecta,Caribbean Dasher,Micrathyria dissocians,Stable,Global,Least Concern
+animalia — aves,Mourning Warbler,Geothlypis philadelphia,Decreasing,Global,Least Concern
+animalia — actinopterygii,Goldspot Goby,Gnatholepis thompsoni,Stable,Global,Least Concern
+animalia — aves,Semipalmated Plover,Charadrius semipalmatus,Stable,Global,Least Concern
+animalia — aves,Northern Harrier,Circus hudsonius,Decreasing,Global,Least Concern
+animalia — aves,American Coot,Fulica americana,Decreasing,Global,Least Concern
+animalia — holothuroidea,Five-toothed Sea Cucumber,Actinopyga agassizi,Unknown,Global,Least Concern
+animalia — aves,Northern Mockingbird,Mimus polyglottos,Stable,Global,Least Concern
+animalia — aves,Dark-eyed Junco,Junco hyemalis,Stable,Global,Least Concern
+animalia — aves,Common Gallinule,Gallinula galeata,Stable,Global,Least Concern
+animalia — actinopterygii,,Ataxolepis apus,Unknown,Global,Least Concern
+animalia — reptilia,Common Puerto Rican Ameiva,Pholidoscelis exsul,Stable,Global,Least Concern
+animalia — reptilia,Blind Worm Lizard,Amphisbaena caeca,Stable,Global,Least Concern
+animalia — reptilia,Desecheo Gecko,Sphaerodactylus levinsi,Increasing,Global,Least Concern
+animalia — reptilia,Big-scaled Least Gecko,Sphaerodactylus macrolepis,Stable,Global,Least Concern
+animalia — aves,Key West Quail-dove,Geotrygon chrysia,Stable,Global,Least Concern
+animalia — aves,Lincoln's Sparrow,Melospiza lincolnii,Stable,Global,Least Concern
+animalia — aves,Magnolia Warbler,Setophaga magnolia,Increasing,Global,Least Concern
+animalia — aves,Connecticut Warbler,Oporornis agilis,Decreasing,Global,Least Concern
+animalia — aves,Kentucky Warbler,Geothlypis formosa,Decreasing,Global,Least Concern
+animalia — aves,Northern Waterthrush,Parkesia noveboracensis,Stable,Global,Least Concern
+animalia — aves,Fulvous Whistling-duck,Dendrocygna bicolor,Decreasing,Global,Least Concern
+animalia — aves,Ring-necked Duck,Aythya collaris,Increasing,Global,Least Concern
+animalia — actinopterygii,Live Sharksucker,Echeneis naucrates,Stable,Global,Least Concern
+animalia — actinopterygii,Striated Frogfish,Antennarius striatus,Stable,Global,Least Concern
+animalia — actinopterygii,Spotted Driftfish,Ariomma regulus,Unknown,Global,Least Concern
+animalia — actinopterygii,Boga,Haemulon vittatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Cottonmouth Jack,Uraspis secunda,Stable,Global,Least Concern
+animalia — actinopterygii,,Eustomias furcifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias kreffti,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Brotula,Stygnobrotula latebricola,Unknown,Global,Least Concern
+animalia — actinopterygii,Striped Grunt,Haemulon striatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Dwarf Batfish,Ogcocephalus pumilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Glasseye Snapper,Heteropriacanthus cruentatus,Unknown,Global,Least Concern
+animalia — reptilia,Navassa Curlytail Lizard,Leiocephalus eremitus,,Global,Extinct
+animalia — actinopterygii,Glasshead Barreleye,Rhynchohyalus natalensis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Coryphaenoides rudis,Unknown,Global,Least Concern
+animalia — actinopterygii,Eyebrow Bigscale,Melamphaes longivelis,Unknown,Global,Data Deficient
+animalia — aves,Black-bellied Whistling-duck,Dendrocygna autumnalis,Increasing,Global,Least Concern
+animalia — aves,White-fronted Amazon,Amazona albifrons,Increasing,Global,Least Concern
+animalia — aves,Baltimore Oriole,Icterus galbula,Stable,Global,Least Concern
+animalia — aves,White-rumped Sandpiper,Calidris fuscicollis,Decreasing,Global,Least Concern
+animalia — aves,American Yellow Warbler,Setophaga petechia,Stable,Global,Least Concern
+animalia — aves,Black Skimmer,Rynchops niger,Decreasing,Global,Least Concern
+animalia — aves,Tricolored Heron,Egretta tricolor,Stable,Global,Least Concern
+animalia — aves,Great Crested Flycatcher,Myiarchus crinitus,Stable,Global,Least Concern
+animalia — actinopterygii,,Eustomias bituberatus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Cuban Chimaera,Chimaera cubana,Stable,Global,Least Concern
+animalia — aves,Bridled Tern,Onychoprion anaethetus,Unknown,Global,Least Concern
+animalia — aves,Neotropical Cormorant,Nannopterum brasilianus,Increasing,Global,Least Concern
+animalia — aves,Double-crested Cormorant,Nannopterum auritus,Increasing,Global,Least Concern
+animalia — actinopterygii,Sand Tilefish,Malacanthus plumieri,Unknown,Global,Least Concern
+animalia — actinopterygii,Firebelly Grenadier,Coelorinchus ventrilux,Unknown,Global,Least Concern
+animalia — actinopterygii,,Hymenocephalus billsam,Unknown,Global,Least Concern
+animalia — actinopterygii,Luminous Hake,Steindachneria argentea,Unknown,Global,Least Concern
+animalia — actinopterygii,Bicolored Aphionid,Barathronus bicolor,Unknown,Global,Least Concern
+animalia — actinopterygii,Masked Assfish,Bassozetus nielseni,Unknown,Global,Least Concern
+animalia — actinopterygii,Spineless Cusk-eel,Bathyonus pectoralis,Unknown,Global,Least Concern
+animalia — actinopterygii,Elongate Cusk-eel,Neobythites elongatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Chiasmodon pluriradiatus,Unknown,Global,Least Concern
+animalia — aves,Yellow-crowned Night-heron,Nyctanassa violacea,Stable,Global,Least Concern
+animalia — aves,Ovenbird,Seiurus aurocapilla,Stable,Global,Least Concern
+animalia — aves,Yellow-faced Grassquit,Tiaris olivaceus,Increasing,Global,Least Concern
+animalia — aves,Ruddy Quail-dove,Geotrygon montana,Decreasing,Global,Least Concern
+animalia — aves,Leach's Storm-petrel,Hydrobates leucorhous,Decreasing,Global,Vulnerable
+animalia — aves,Masked Booby,Sula dactylatra,Decreasing,Global,Least Concern
+animalia — actinopterygii,,Ipnops murrayi,Unknown,Global,Least Concern
+animalia — actinopterygii,Buffalo Trunkfish,Lactophrys trigonus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pez Hacha Aquillado,Polyipnus asteroides,Unknown,Global,Least Concern
+animalia — actinopterygii,,Oneirodes melanocauda,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaly-chinned Duckbill,Chrionema squamentum,Unknown,Global,Least Concern
+animalia — actinopterygii,Luminous Deepwater Cardinalfish,Epigonus macrops,Unknown,Global,Least Concern
+animalia — actinopterygii,,Brinkmannella elongata,Unknown,Global,Data Deficient
+animalia — aves,Red-eyed Vireo,Vireo olivaceus,Increasing,Global,Least Concern
+animalia — aves,Virginia Rail,Rallus limicola,Increasing,Global,Least Concern
+animalia — actinopterygii,,Microstoma microstoma,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluefin Driftfish,Psenes pellucidus,Unknown,Global,Least Concern
+animalia — actinopterygii,Skipjack Tuna,Katsuwonus pelamis,Stable,Global,Least Concern
+animalia — actinopterygii,,Lestrolepis intermedia,Unknown,Global,Least Concern
+animalia — aves,Smooth-billed Ani,Crotophaga ani,Stable,Global,Least Concern
+animalia — aves,Common Black Hawk,Buteogallus anthracinus,Decreasing,Global,Least Concern
+animalia — aves,White-tailed Nightjar,Hydropsalis cayennensis,Decreasing,Global,Least Concern
+animalia — actinopterygii,Queen Snapper,Etelis oculatus,Unknown,Global,Data Deficient
+animalia — malacostraca,Flatback Lobster,Stereomastis sculpta,Stable,Global,Least Concern
+animalia — actinopterygii,Splendid Alfonsino,Beryx splendens,Unknown,Global,Least Concern
+animalia — mammalia,Blainville's Beaked Whale,Mesoplodon densirostris,Unknown,Global,Least Concern
+animalia — actinopterygii,Marlin Sucker,Remora osteochir,Stable,Global,Least Concern
+animalia — actinopterygii,Cobia,Rachycentron canadum,Unknown,Global,Least Concern
+animalia — actinopterygii,Ribbon Sawtail Fish,Idiacanthus fasciola,Unknown,Global,Least Concern
+animalia — actinopterygii,Luetken's Lanternfish,Diaphus luetkeni,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bonapartia pedaliota,Unknown,Global,Least Concern
+animalia — malacostraca,Two-toned Lobsterette,Nephropsis rosea,Unknown,Global,Least Concern
+animalia — actinopterygii,Bridled Burrfish,Chilomycterus antennatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Redeye Mullet,Mugil rubrioculus,Unknown,Global,Least Concern
+animalia — malacostraca,,Macrobrachium heterochirus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pygmy Duckbill Eel,Nettenchelys pygmaea,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Muddy Arrowtooth Eel,Ilyophis brunneus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Johnsonina eriomma,Unknown,Global,Least Concern
+animalia — actinopterygii,Rosy Razorfish,Xyrichtys martinicensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Hardhead Silverside,Atherinomorus stipes,Stable,Global,Least Concern
+animalia — malacostraca,Smoothtail Spiny Lobster,Panulirus laevicauda,Unknown,Global,Data Deficient
+animalia — actinopterygii,White Marlin,Kajikia albida,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Wahoo,Acanthocybium solandri,Stable,Global,Least Concern
+animalia — actinopterygii,Lane Snapper,Lutjanus synagris,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Shorttail Snake Eel,Callechelys guineensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Fangtooth Snake Eel,Aplatophis chauliodus,Unknown,"Global, Caribbean",Least Concern
+animalia — anthozoa,,Madracis auretenra,Stable,Global,Least Concern
+animalia — actinopterygii,Royal Basslet,Lipogramma regia,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Paleback Goby,Gobulus myersi,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowtail Reeffish,Chromis enchrysura,Unknown,Global,Least Concern
+animalia — actinopterygii,Night Sergeant,Abudefduf taurus,Stable,Global,Least Concern
+animalia — actinopterygii,Threespot Damselfish,Stegastes planifrons,Unknown,Global,Least Concern
+animalia — actinopterygii,Sergeant-major,Abudefduf saxatilis,Stable,Global,Least Concern
+animalia — actinopterygii,Guppy's Conger Eel,Rhynchoconger guppyi,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Little Anchovy,Anchoa parva,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfin Worm Eel,Myrophis anterodorsalis,Unknown,"Global, Caribbean",Least Concern
+animalia — holothuroidea,,Holothuria cubana,Unknown,Global,Least Concern
+animalia — actinopterygii,High-forehead Clingfish,Derilissus altifrons,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Nineline Goby,Ginsburgellus novemlineatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Highspine Goby,Psilotris celsus,Unknown,Global,Least Concern
+animalia — actinopterygii,Frecklefin Goby,Tigrigobius gemmatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,White-eye Goby,Bollmannia boqueronensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Translucent Goby,Chriolepis fisheri,Unknown,Global,Least Concern
+animalia — actinopterygii,Barfin Goby,Coryphopterus alloides,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Spottail Goby,Ctenogobius stigmaturus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Tiger Goby,Tigrigobius macrodon,Unknown,"Global, Caribbean",Least Concern
+animalia — holothuroidea,,Mesothuria verrilli,Unknown,Global,Data Deficient
+animalia — holothuroidea,,Holothuria occidentalis,Unknown,Global,Least Concern
+animalia — cephalopoda,,Semirossia tenera,Unknown,Global,Least Concern
+animalia — cephalopoda,Deepsea Squid,Bathyteuthis abyssicola,Unknown,Global,Least Concern
+animalia — cephalopoda,Polpo riccio,Scaergus unicirrhus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Blackedge Triplefin,Enneanectes atrorus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sheepshead Porgy,Calamus penna,Unknown,Global,Least Concern
+animalia — actinopterygii,Mimic Triplefin,Enneanectes jordani,Unknown,Global,Least Concern
+animalia — actinopterygii,Cherubfish,Centropyge argi,Unknown,Global,Least Concern
+animalia — actinopterygii,Brazilian Mojarra,Eugerres brasilianus,Stable,Global,Least Concern
+animalia — gastropoda,,Conus nodiferus,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Mud Eel,Pythonichthys sanguineus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Plain False Moray,Kaupichthys hyoproroides,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Mojarra,Eucinostomus havana,Unknown,"Global, Caribbean",Least Concern
+animalia — arachnida,,Heteroonops tetraspinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Honeycomb Cowfish,Acanthostracion polygonius,Unknown,Global,Least Concern
+animalia — gastropoda,Mimic Lymnaea,Pseudosuccinea columella,Increasing,Global,Least Concern
+animalia — actinopterygii,White Margate,Haemulon album,Decreasing,Global,Data Deficient
+animalia — actinopterygii,Dog Snapper,Lutjanus jocu,Decreasing,Global,Data Deficient
+animalia — actinopterygii,Polygon Moray,Gymnothorax polygonius,Unknown,Global,Least Concern
+animalia — actinopterygii,Short Bigeye,Pristigenys alta,Unknown,Global,Least Concern
+animalia — actinopterygii,Surf Eel,Ichthyapus ophioneus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Aldrovandia gracilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Conchfish,Astrapogon stellatus,Decreasing,Global,Data Deficient
+animalia — actinopterygii,Foureye Butterflyfish,Chaetodon capistratus,Stable,Global,Least Concern
+animalia — actinopterygii,Bluestriped Grunt,Haemulon sciurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Snakefish,Trachinocephalus myops,Unknown,Global,Least Concern
+animalia — actinopterygii,Colon Stardrum,Stellifer colonensis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,,Zenion hololepis,Stable,Global,Least Concern
+animalia — actinopterygii,Dwarf Wrasse,Doratonotus megalepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Cape Snaggletooth,Neonesthes capensis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias melanostigma,Unknown,Global,Least Concern
+animalia — actinopterygii,Longbarb Dragonfish,Flagellostomias boureei,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lampanyctus tenuiformis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Cyclothone obscura,Unknown,Global,Least Concern
+animalia — actinopterygii,Longbeard Grenadier,Gadomus dispar,Unknown,Global,Least Concern
+animalia — actinopterygii,Myers Whalefish,Gyrinomimus myersi,Unknown,Global,Data Deficient
+animalia — insecta,Seaside Dragonlet,Erythrodiplax berenice,Stable,Global,Least Concern
+animalia — reptilia,Grant's Worm Snake,Antillotyphlops granti,Decreasing,Global,Endangered
+animalia — reptilia,Puerto Rican Racer,Borikenophis portoricensis,Stable,Global,Least Concern
+animalia — actinopterygii,,Nansenia longicauda,Unknown,Global,Data Deficient
+animalia — aves,American Kestrel,Falco sparverius,Stable,Global,Least Concern
+animalia — aves,Scissor-tailed Flycatcher,Tyrannus forficatus,Decreasing,Global,Least Concern
+animalia — aves,Grey Kingbird,Tyrannus dominicensis,Stable,Global,Least Concern
+animalia — aves,Short-billed Dowitcher,Limnodromus griseus,Decreasing,Global,Least Concern
+animalia — aves,Pectoral Sandpiper,Calidris melanotos,Stable,Global,Least Concern
+animalia — aves,American Golden Plover,Pluvialis dominica,Decreasing,Global,Least Concern
+animalia — aves,Swallow-tailed Kite,Elanoides forficatus,Increasing,Global,Least Concern
+animalia — aves,Broad-winged Hawk,Buteo platypterus,Increasing,Global,Least Concern
+animalia — aves,Purple Martin,Progne subis,Stable,Global,Least Concern
+animalia — aves,Chestnut-sided Warbler,Setophaga pensylvanica,Decreasing,Global,Least Concern
+animalia — aves,Cape May Warbler,Setophaga tigrina,Stable,Global,Least Concern
+animalia — aves,Blackburnian Warbler,Setophaga fusca,Increasing,Global,Least Concern
+animalia — aves,Puerto Rican Tanager,Nesospingus speculiferus,Stable,Global,Least Concern
+animalia — reptilia,Olive Bush Anole,Anolis krugi,Stable,Global,Least Concern
+animalia — reptilia,Spotted Anole,Anolis stratulus,Stable,Global,Least Concern
+animalia — reptilia,Puerto Rican Worm Snake,Typhlops rostellatus,Stable,Global,Least Concern
+animalia — actinopterygii,Melánfido,Melamphaes polylepis,Unknown,Global,Data Deficient
+animalia — insecta,Blue-faced Darner,Coryphaeschna adnexa,Stable,Global,Least Concern
+animalia — insecta,Hyacinth Glider,Miathyria marcella,Stable,Global,Least Concern
+animalia — insecta,Slough Amberwing,Perithemis domitia,Stable,Global,Least Concern
+animalia — insecta,Red-tipped Swampdamsel,Leptobasis vacillans,Stable,Global,Least Concern
+animalia — insecta,Antillean Saddlebags,Tramea insularis,Stable,Global,Least Concern
+animalia — actinopterygii,,Stemonosudis siliquiventer,Unknown,Global,Least Concern
+animalia — chondrichthyes,,Negaprion brevirostris,Unknown,Global,Near Threatened
+animalia — actinopterygii,Highfin Goby,Gobionellus oceanicus,Stable,Global,Least Concern
+animalia — actinopterygii,Smallscaled Spinycheek Sleeper,Eleotris perniger,Unknown,Global,Least Concern
+animalia — actinopterygii,Guavina,Guavina guavina,Unknown,Global,Least Concern
+animalia — actinopterygii,Lebranche Mullet,Mugil liza,Unknown,Global,Data Deficient
+animalia — actinopterygii,Fantail Mullet,Mugil trichodon,Unknown,Global,Least Concern
+animalia — actinopterygii,White Mullet,Mugil curema,Unknown,Global,Least Concern
+animalia — actinopterygii,Sand Drum,Umbrina coroides,Unknown,Global,Least Concern
+animalia — actinopterygii,,Nansenia pelagica,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Dolopichthys pullatus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Problematic Lanternfish,Diaphus problematicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Whalehead Dreamer,Lophodolos acanthognathus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bent-tooth Bristlemouth,Cyclothone acclinidens,Stable,Global,Least Concern
+animalia — actinopterygii,Bobtail Eel,Cyema atrum,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gigantactis longicirra,Unknown,Global,Least Concern
+animalia — actinopterygii,Ridgehead,Melamphaes typhlops,Unknown,Global,Data Deficient
+animalia — actinopterygii,Ridgehead,Poromitra capito,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Bathophilus schizochirus,Unknown,Global,Least Concern
+animalia — aves,Puerto Rican Spindalis,Spindalis portoricensis,Stable,Global,Least Concern
+animalia — aves,White-faced Whistling-duck,Dendrocygna viduata,Increasing,Global,Least Concern
+animalia — aves,American Wigeon,Mareca americana,Stable,Global,Least Concern
+animalia — aves,Green-throated Carib,Eulampis holosericeus,Unknown,Global,Least Concern
+animalia — aves,Common Nighthawk,Chordeiles minor,Decreasing,Global,Least Concern
+animalia — aves,Bridled Quail-dove,Geotrygon mystacea,Decreasing,Global,Least Concern
+animalia — actinopterygii,,Astronesthes micropogon,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes indicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Bathophilus vaillanti,Unknown,Global,Least Concern
+animalia — actinopterygii,,Borostomias elucens,Unknown,Global,Least Concern
+animalia — actinopterygii,,Borostomias mononema,Unknown,Global,Least Concern
+animalia — actinopterygii,Beardfish,Polymixia lowei,Unknown,Global,Least Concern
+animalia — actinopterygii,Pygmy Sea Bass,Serraniculus pumilio,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Orangeback Bass,Serranus annularis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Scrawled Sole,Trinectes inscriptus,Unknown,Global,Least Concern
+animalia — actinopterygii,Shrimp Flounder,Gastropsetta frontalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Coral Scorpionfish,Scorpaena albifimbria,Unknown,Global,Least Concern
+animalia — actinopterygii,Plumed Scorpionfish,Scorpaena grandicornis,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Scorpionfish ,Scorpaena plumieri,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluewing Searobin,Prionotus punctatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bandtail Searobin,Prionotus ophryas,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluelip Parrotfish,Cryptotomus roseus,Unknown,Global,Least Concern
+animalia — actinopterygii,Striped Parrotfish,Scarus iseri,Unknown,Global,Least Concern
+animalia — actinopterygii,Princess Parrotfish,Scarus taeniopterus,Unknown,Global,Least Concern
+animalia — actinopterygii,Banded Jawfish,Opistognathus macrognathus,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Blackfin Spiderfish,Bathypterois phenax,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathypterois viridensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Spurcheek Lanternfish,Bolinichthys photothorax,Stable,Global,Least Concern
+animalia — mammalia,Greater Bulldog Bat,Noctilio leporinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Koefoed's Searsid,Searsia koefoedi,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathysaurus mollis,Unknown,Global,Least Concern
+animalia — actinopterygii,Oceanic Two-wing Flyingfish,Exocoetus obtusirostris,Unknown,Global,Least Concern
+animalia — actinopterygii,Goldface Tilefish,Caulolatilus chrysops,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Thread Herring,Opisthonema oglinum,Unknown,Global,Least Concern
+animalia — actinopterygii,Longjaw Squirrelfish,Neoniphon marianus,Unknown,Global,Least Concern
+animalia — actinopterygii,Squirrelfish,Holocentrus adscensionis,Unknown,Global,Least Concern
+animalia — actinopterygii,Longspine Squirrelfish,Holocentrus rufus,Unknown,Global,Least Concern
+animalia — actinopterygii,Band Cusk-eel,Ophidion holbrookii,Stable,Global,Least Concern
+animalia — actinopterygii,Spotfin Dragonet,Foetorepus agassizii,Unknown,Global,Least Concern
+animalia — actinopterygii,Sand Whiff,Citharichthys arenaceus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sand Perch,Diplectrum formosum,Unknown,Global,Least Concern
+animalia — actinopterygii,Querimana Silverside,Melanorhinus microps,Stable,Global,Least Concern
+animalia — actinopterygii,Flagpole Frogfish,Antennarius multiocellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Longarm Brotula,Calamopteryx goslinei,Unknown,Global,Least Concern
+animalia — actinopterygii,Strange Pike Smelt,Lestidiops mirabilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Western Bluntnose Flyingfish,Prognichthys occidentalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Parazen,Parazen pacificus,Unknown,Global,Least Concern
+animalia — actinopterygii,Diamond Blenny,Malacoctenus boehlkei,Unknown,Global,Least Concern
+animalia — actinopterygii,Graysby,Cephalopholis cruentata,Stable,Global,Least Concern
+animalia — actinopterygii,Spanish Flag,Gonioplectrus hispanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Coney,Cephalopholis fulva,Decreasing,Global,Least Concern
+animalia — actinopterygii,Striped Drum,Umbrina broussonnetii,Unknown,Global,Least Concern
+animalia — actinopterygii,Red Hogfish,Decodon puellaris,Unknown,Global,Least Concern
+animalia — actinopterygii,Loosejaw,Aristostomias tittmanni,Unknown,Global,Least Concern
+animalia — actinopterygii,Filamentous Dragonfish,Astronesthes similus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias binghami,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias brevibarbatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias macrophthalmus,Unknown,Global,Least Concern
+animalia — actinopterygii,Upsilon Cusk-Eel,Lepophidium pheromystax,Unknown,Global,Least Concern
+animalia — actinopterygii,Masked Hamlet,Hypoplectrus providencianus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Yellowedge Grouper,Hyporthodus flavolimbatus,Decreasing,Global,Vulnerable
+animalia — insecta,Rainpool Spreadwing,Lestes forficula,Stable,Global,Least Concern
+animalia — insecta,Three-striped Dasher,Micrathyria didyma,Stable,Global,Least Concern
+animalia — malacostraca,,Pentacheles validus,Stable,Global,Least Concern
+animalia — actinopterygii,Green Razorfish,Xyrichtys splendens,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Smooth-head,Bajacalifornia megalops,Unknown,Global,Least Concern
+animalia — actinopterygii,Grenadier Smooth-head,Leptoderma macrops,Unknown,Global,Least Concern
+animalia — actinopterygii,,Talismania homoptera,Unknown,Global,Least Concern
+animalia — amphibia,Grass Coqui,Eleutherodactylus brittoni,Stable,Global,Least Concern
+animalia — reptilia,Mona Island Boa,Chilabothrus monensis,,Global,Endangered
+animalia — mammalia,Big Brown Bat,Eptesicus fuscus,Increasing,Global,Least Concern
+animalia — actinopterygii,Lightfish,Ichthyococcus ovatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Manducus maderensis,Unknown,Global,Data Deficient
+animalia — actinopterygii,Mirrorbelly,Opisthoproctus grimaldii,Unknown,Global,Least Concern
+animalia — actinopterygii,,Taaningichthys minimus,Unknown,Global,Least Concern
+animalia — actinopterygii,Largescaled Neoscopelid,Neoscopelus macrolepidotus,Unknown,Global,Least Concern
+animalia — actinopterygii,Patchwork Lampfish,Notoscopelus resplendens,Stable,Global,Least Concern
+animalia — actinopterygii,,Asquamiceps caeruleus,Unknown,Global,Least Concern
+animalia — actinopterygii,Staring Pearleye,Scopelarchus guentheri,Unknown,Global,Least Concern
+animalia — actinopterygii,Flying Halfbeak,Euleptorhamphus velox,Unknown,Global,Least Concern
+animalia — actinopterygii,Blacksail Flyingfish,Cheilopogon nigricans,Unknown,Global,Least Concern
+animalia — actinopterygii,False Halfbeak,Oxyporhamphus similis,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaled-eye Duckbill,Bembrops macromma,Unknown,Global,Least Concern
+animalia — actinopterygii,Doublespot Whiff,Citharichthys dinoceros,Unknown,Global,Least Concern
+animalia — actinopterygii,Striped Escolar,Diplospinus multistriatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Fringed Cusk-Eel,Lepophidium wileyi,Unknown,Global,Least Concern
+animalia — myxini,Caribbean Hagfish,Myxine mcmillanae,Unknown,Global,Least Concern
+animalia — reptilia,Mona Skink,Spondylurus monae,Unknown,Global,Critically Endangered
+animalia — holothuroidea,,Astichopus multifidus,Unknown,Global,Least Concern
+animalia — holothuroidea,,Eostichopus arnesoni,Unknown,Global,Data Deficient
+animalia — actinopterygii,Man-of-war Fish,Nomeus gronovii,Unknown,Global,Least Concern
+animalia — actinopterygii,Shorthorn Fangtooth,Anoplogaster brachycera,Unknown,Global,Data Deficient
+animalia — aves,Shiny Cowbird,Molothrus bonariensis,Increasing,Global,Least Concern
+animalia — actinopterygii,,Leptostomias bilobatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Smallhead Cusk-eel,Barathrites parri,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias monoclonus,Unknown,Global,Least Concern
+animalia — actinopterygii,Planehead Filefish,Stephanolepis hispidus,Unknown,Global,Least Concern
+animalia — actinopterygii,Thin-barbeled Dragonfish,Leptostomias leptobolus,Unknown,Global,Least Concern
+animalia — actinopterygii,Redspotted Hawkfish,Amblycirrhitus pinos,Unknown,Global,Least Concern
+animalia — actinopterygii,,Grammatostomias circularis,Unknown,Global,Least Concern
+animalia — actinopterygii,Schroeder's Deepsea Herring,Bathyclupea schroederi,Unknown,Global,Least Concern
+animalia — actinopterygii,Bristly Grenadier,Trachonurus sulcatus,Unknown,Global,Least Concern
+animalia — aves,Pearly-eyed Thrasher,Margarops fuscatus,Stable,Global,Least Concern
+animalia — actinopterygii,Opossum Pipefish,Microphis brachyurus,Unknown,Global,Least Concern
+animalia — aves,Puerto Rican Euphonia,Euphonia sclateri,Stable,Global,Least Concern
+animalia — aves,Puerto Rican Oriole,Icterus portoricensis,Decreasing,Global,Least Concern
+animalia — aves,Uniform Crake,Amaurolimnas concolor,Decreasing,Global,Least Concern
+animalia — aves,White-winged Dove,Zenaida asiatica,Increasing,Global,Least Concern
+animalia — actinopterygii,Slender Sunfish,Ranzania laevis,Unknown,Global,Least Concern
+animalia — actinopterygii,Rough Triggerfish,Canthidermis maculata,Stable,Global,Least Concern
+animalia — reptilia,Ground Snake,Magliophis exiguus,Stable,Global,Least Concern
+animalia — actinopterygii,Cottonwick,Haemulon melanurum,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Bigeye,Priacanthus arenatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Round Sardinella,Sardinella aurita,Unknown,Global,Least Concern
+animalia — aves,Lesser Yellowlegs,Tringa flavipes,Decreasing,Global,Least Concern
+animalia — aves,Bobolink,Dolichonyx oryzivorus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Deepwater Squirrelfish,Sargocentron bullisi,Unknown,Global,Least Concern
+animalia — actinopterygii,Round Scad,Decapterus punctatus,Stable,Global,Least Concern
+animalia — aves,Veery,Catharus fuscescens,Decreasing,Global,Least Concern
+animalia — aves,Little Blue Heron,Egretta caerulea,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Springer's Sawtail Catshark,Galeus springeri,Stable,Global,Least Concern
+animalia — actinopterygii,,Diaphus roei,Unknown,Global,Least Concern
+animalia — actinopterygii,Spiny Hatchetfish,Polyipnus laternatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Silver Deepsea herring,Neobathyclupea argentea,Unknown,Global,Least Concern
+animalia — actinopterygii,Redeye Gaper,Chaunax stigmaeus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Western Deepsea Cardinalfish,Epigonus occidentalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Pricklefish,Stephanoberyx monae,Unknown,Global,Least Concern
+animalia — aves,Antillean Nighthawk,Chordeiles gundlachii,Stable,Global,Least Concern
+animalia — actinopterygii,Tarpon,Megalops atlanticus,Decreasing,Global,Vulnerable
+animalia — aves,Mangrove Cuckoo,Coccyzus minor,Decreasing,Global,Least Concern
+animalia — actinopterygii,American Eel,Anguilla rostrata,Decreasing,Global,Endangered
+animalia — aves,Cave Swallow,Petrochelidon fulva,Increasing,Global,Least Concern
+animalia — aves,Chuck-will's-widow,Antrostomus carolinensis,Decreasing,Global,Near Threatened
+animalia — aves,Saffron Finch,Sicalis flaveola,Stable,Global,Least Concern
+animalia — aves,Blue Grosbeak,Passerina caerulea,Increasing,Global,Least Concern
+animalia — aves,Clapper Rail,Rallus crepitans,Decreasing,Global,Least Concern
+animalia — aves,Red-footed Booby,Sula sula,Decreasing,Global,Least Concern
+animalia — aves,Brown Booby,Sula leucogaster,Decreasing,Global,Least Concern
+animalia — actinopterygii,Violet Cuskeel,Brotulotaenia crassa,Unknown,Global,Least Concern
+animalia — actinopterygii,Mutton Snapper,Lutjanus analis,Decreasing,Global,Near Threatened
+animalia — actinopterygii,,Eustomias paucifilis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gigantactis vanhoeffeni,Unknown,Global,Data Deficient
+animalia — mammalia,Pygmy Killer Whale,Feresa attenuata,Unknown,Global,Least Concern
+animalia — actinopterygii,Valdivia Black Dragon Fish,Melanostomias valdiviae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Abyssobrotula galatheae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Caulophryne jordani,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Tuna,Thunnus obesus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Deepwater Lanternfish,Taaningichthys bathyphilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Flat-nose Codling,Antimora rostrata,Unknown,Global,Least Concern
+animalia — actinopterygii,Bearded Angler,Linophryne densiramus,Unknown,Global,Least Concern
+animalia — actinopterygii,Swordspine Snook,Centropomus ensiferus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Shortfin Mako,Isurus oxyrinchus,Decreasing,Global,Endangered
+animalia — actinopterygii,Frilled Lighthouse Fish,Vinciguerria nimbaria,Unknown,Global,Least Concern
+animalia — actinopterygii,Pacific Barracudina,Lestidiops jayakari,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus lucidus,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Football-Fish,Himantolophus groenlandicus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Benthosema suborbitale,Stable,Global,Least Concern
+animalia — actinopterygii,,Kali indica,Unknown,Global,Least Concern
+animalia — aves,White-crowned Pigeon,Patagioenas leucocephala,Decreasing,Global,Near Threatened
+animalia — aves,Snowy Plover,Charadrius nivosus,Decreasing,Global,Near Threatened
+animalia — aves,Green-winged Teal,Anas carolinensis,Increasing,Global,Least Concern
+animalia — actinopterygii,Freckled Driftfish,Psenes cyanophrys,Unknown,Global,Least Concern
+animalia — actinopterygii,Common Fangtooth,Anoplogaster cornuta,Unknown,Global,Least Concern
+animalia — actinopterygii,Largehead Hairtail,Trichiurus lepturus,Stable,Global,Least Concern
+animalia — actinopterygii,Common Remora,Remora remora,Stable,Global,Least Concern
+animalia — actinopterygii,Sharptail Mola,Masturus lanceolatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pompano Dolphinfish,Coryphaena equiselis,Stable,Global,Least Concern
+animalia — actinopterygii,Blackear Wrasse,Halichoeres poeyi,Unknown,Global,Least Concern
+animalia — actinopterygii,Emerald Parrotfish,Nicholsina usta,Unknown,Global,Least Concern
+animalia — actinopterygii,Redband Parrotfish,Sparisoma aurofrenatum,Unknown,Global,Least Concern
+animalia — gastropoda,,Biomphalaria helophila,Unknown,Global,Least Concern
+animalia — gastropoda,Beau's Stream Limpet,Ferrissia beaui,Unknown,Global,Data Deficient
+animalia — gastropoda,Coffee Melampus,Melampus coffeus,Unknown,Global,Least Concern
+animalia — chondrichthyes,Blacknose Shark,Carcharhinus acronotus,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Queen Parrotfish,Scarus vetula,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Parrotfish,Scarus coeruleus,Unknown,Global,Least Concern
+animalia — myxini,,Eptatretus mendozai,Unknown,Global,Least Concern
+animalia — malacostraca,,Macrobrachium acanthurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotfin Butterflyfish,Chaetodon ocellatus,Stable,Global,Least Concern
+animalia — actinopterygii,Longsnout Butterflyfish,Prognathodes aculeatus,Stable,Global,Least Concern
+animalia — actinopterygii,Sombre Blackchin,Scopelengys tristis,Unknown,Global,Least Concern
+animalia — actinopterygii,Channel Flounder,Syacium micrurum,Unknown,Global,Least Concern
+animalia — actinopterygii,Stout Beardfish,Polymixia nobilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Saddle Squirrelfish,Sargocentron poco,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotfin Flounder,Cyclopsetta fimbriata,Unknown,Global,Least Concern
+animalia — actinopterygii,Inshore Lizardfish,Synodus foetens,Unknown,Global,Least Concern
+animalia — actinopterygii,Reef Silverside,Hypoatherina harringtonensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Spadefish,Chaetodipterus faber,Unknown,Global,Least Concern
+animalia — actinopterygii,Eyed Flounder,Bothus ocellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Cardinal Soldierfish,Plectrypops retrospinis,Unknown,Global,Least Concern
+animalia — actinopterygii,Baird’s Dragonet,Callionymus bairdi,Unknown,Global,Least Concern
+animalia — actinopterygii,Streamer Searobin,Bellator egretta,Unknown,Global,Least Concern
+animalia — actinopterygii,Bay Whiff,Citharichthys spilopterus,Stable,Global,Least Concern
+animalia — actinopterygii,Harelip Cusk-eel,Ophidion lagochila,Unknown,Global,Least Concern
+animalia — actinopterygii,Rainbow Runner,Elagatis bipinnulata,Stable,Global,Least Concern
+animalia — actinopterygii,Striped Codlet,Bregmaceros cantori,Unknown,Global,Least Concern
+animalia — actinopterygii,Golden Hamlet,Hypoplectrus gummigutta,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Black Hamlet,Hypoplectrus nigricans,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Cave Bass,Liopropoma mowbrayi,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Twinspot Bass,Serranus flaviventris,Unknown,Global,Least Concern
+animalia — actinopterygii,Coral Reef Tonguefish,Symphurus arawak,Unknown,Global,Least Concern
+animalia — actinopterygii,Highfin Scorpionfish,Pontinus rathbuni,Unknown,Global,Least Concern
+animalia — actinopterygii,Goosehead Scorpionfish,Scorpaena bergii,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluespotted Searobin,Prionotus roseus,Unknown,Global,Least Concern
+animalia — mammalia,Insular Single-leaf Bat,Monophyllus plethodon,Unknown,Global,Least Concern
+animalia — mammalia,,Tadarida brasiliensis,Stable,Global,Least Concern
+animalia — actinopterygii,Blackline Tilefish,Caulolatilus cyanops,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus adenomus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Stemonosudis intermedia,Unknown,Global,Least Concern
+animalia — actinopterygii,,Poecilopsetta beanii,Unknown,Global,Least Concern
+animalia — actinopterygii,Keelcheek Bass,Synagrops spinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Horned Searobin,Bellator militaris,Unknown,Global,Least Concern
+animalia — actinopterygii,Horned Whiff,Citharichthys cornutus,Stable,Global,Least Concern
+animalia — actinopterygii,Suspicious Lizardfish,Saurida suspicio,Unknown,Global,Least Concern
+animalia — actinopterygii,Whitespotted Filefish,Cantherhines macrocerus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ghost Brotula,Ogilbia jeffwilliamsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Letter Opener,Ophidion nocomis,Unknown,Global,Least Concern
+animalia — actinopterygii,Stripefin Brotula,Neobythites marginatus,Stable,Global,Least Concern
+animalia — actinopterygii,Twospot Sea Bass,Centropristis fuscula,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowbelly Hamlet,Hypoplectrus aberrans,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Dwarf Sand Perch,Diplectrum bivittatum,Stable,Global,Least Concern
+animalia — actinopterygii,Permit,Trachinotus falcatus,Stable,Global,Least Concern
+animalia — actinopterygii,Blackear Bass,Serranus atrobranchus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Phenacoscorpius nebris,Unknown,Global,Least Concern
+animalia — actinopterygii,Shoal Flounder,Syacium gunteri,Unknown,Global,Least Concern
+animalia — actinopterygii,Ocellated Brotula,Neobythites multiocellatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias variabilis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Melanostomias margaritifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Photostomias goodyeari,Unknown,Global,Least Concern
+animalia — actinopterygii,Offshore Hake,Merluccius albidus,Unknown,Global,Least Concern
+animalia — actinopterygii,Shortfin Sweeper,Pempheris poeyi,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowhead Wrasse,Halichoeres garnoti,Unknown,Global,Least Concern
+animalia — actinopterygii,Puddingwife Wrasse,Halichoeres radiatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bermuda Blue Angelfish,Holacanthus bermudensis,Stable,Global,Least Concern
+animalia — actinopterygii,Grey Angelfish,Pomacanthus arcuatus,Stable,Global,Least Concern
+animalia — actinopterygii,Rainbow Wrasse,Halichoeres pictus,Unknown,Global,Least Concern
+animalia — amphibia,Red-eyed Coqui,Eleutherodactylus antillensis,Stable,Global,Least Concern
+animalia — insecta,,Dryotribus mimeticus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Aristostomias xenostoma,Unknown,Global,Least Concern
+animalia — actinopterygii,Palenose Cusk-Eel,Lepophidium kallion,Unknown,Global,Least Concern
+animalia — actinopterygii,Grotesque Seabat,Malthopsis gnoma,Unknown,Global,Least Concern
+animalia — actinopterygii,Pink Wormfish,Microdesmus longipinnis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,,Snyderidia canina,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Verilus,Verilus sordidus,Unknown,Global,Least Concern
+animalia — actinopterygii,Balao,Hemiramphus balao,Unknown,Global,Least Concern
+animalia — actinopterygii,Ballyhoo,Hemiramphus brasiliensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Threadfin Grenadier,Gadomus longifilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Flat Needlefish,Ablennes hians,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantc Sailfin Flyingfish,Parexocoetus hillianus,Stable,Global,Least Concern
+animalia — actinopterygii,Gyre Flyingfish,Prognichthys glaphyrae,Unknown,Global,Least Concern
+animalia — actinopterygii,Clearwing Flyingfish,Cypselurus comatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Dolichopteroides binocularis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus perspicillatus,Stable,Global,Least Concern
+animalia — actinopterygii,,Diaphus splendidus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Hygophum taaningi,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lepidophanes gaussi,Stable,Global,Least Concern
+animalia — actinopterygii,,Lepidophanes guentheri,Stable,Global,Least Concern
+animalia — actinopterygii,Bigbarb Dragonfish,Eustomias macronema,Unknown,Global,Least Concern
+animalia — actinopterygii,,Leptostomias haplocaulus,Unknown,Global,Least Concern
+animalia — actinopterygii,Dana Viperfish,Chauliodus danae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus brachycephalus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bluehead Wrasse,Thalassoma bifasciatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Agujon Needlefish,Tylosurus acus,Unknown,Global,Least Concern
+animalia — actinopterygii,Noble Lanternfish,Lampanyctus nobilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Fangtooth Smooth-head,Bathyprion danae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Ariomma melanum,Unknown,Global,Least Concern
+animalia — actinopterygii,Soft Lanternfish,Diaphus mollis,Stable,Global,Least Concern
+animalia — holothuroidea,,Holothuria impatiens,Unknown,Global,Data Deficient
+animalia — actinopterygii,Yellowcheek Basslet,Gramma linki,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Blackcap Basslet,Gramma melacara,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Padded Clingfish,Arcos nudus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Bartail Goby,Coryphopterus thrix,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Emerald Goby,Ctenogobius smaragdus,Unknown,Global,Least Concern
+animalia — actinopterygii,Leopard Goby,Tigrigobius saucrus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Flagfin Mojarra,Eucinostomus melanopterus,Unknown,Global,Least Concern
+animalia — actinopterygii,Slender Mojarra,Eucinostomus jonesii,Unknown,Global,Least Concern
+animalia — actinopterygii,Stippled Clingfish,Gobiesox punctulatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Bicolor Basslet,Lipogramma klayi,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Silver Jenny,Eucinostomus gula,Unknown,Global,Least Concern
+animalia — mammalia,Common Mustached Bat,Pteronotus parnellii,Stable,Global,Least Concern
+animalia — mammalia,,Mormoops blainvillei,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Spot Blenny,Starksia melasma,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughhead Blenny,Acanthemblemaria aspera,Stable,Global,Least Concern
+animalia — cephalopoda,Ram's Horn Squid,Spirula spirula,Unknown,Global,Least Concern
+animalia — cephalopoda,,Argonauta argo,Unknown,Global,Least Concern
+animalia — cephalopoda,,Ommastrephes bartramii,Unknown,Global,Least Concern
+animalia — cephalopoda,,Haliphron atlanticus,Unknown,Global,Least Concern
+animalia — cephalopoda,Caribbean Reef Squid,Sepioteuthis sepioidea,Unknown,Global,Least Concern
+animalia — cephalopoda,,Euaxoctopus pillsburyae,Unknown,Global,Data Deficient
+animalia — cephalopoda,,Doryteuthis roperi,Unknown,Global,Data Deficient
+animalia — actinopterygii,Bluegold Goby,Lythrypnus spilus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Dwarf Goby,Lythrypnus elasson,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotted Algae-eating Goby,Sicydium punctatum,Decreasing,Global,Least Concern
+animalia — actinopterygii,Green Puffer,Sphoeroides greeleyi,Unknown,Global,Least Concern
+animalia — malacostraca,,Macrobrachium faustinum,Unknown,Global,Least Concern
+animalia — malacostraca,,Macrobrachium carcinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Grey Conger,Conger esculentus,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Snake Eel,Ophichthus cylindroideus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bicolor Damselfish,Stegastes partitus,Stable,Global,Least Concern
+animalia — actinopterygii,Brown Chromis,Chromis multilineata,Unknown,Global,Least Concern
+animalia — actinopterygii,Mahogany Snapper,Lutjanus mahogoni,Unknown,Global,Least Concern
+animalia — actinopterygii,White Grunt,Haemulon plumierii,Decreasing,Global,Least Concern
+animalia — actinopterygii,Sharktooth Moray,Gymnothorax maderensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Blunthead Puffer,Sphoeroides pachygaster,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackedge Moray,Gymnothorax nigromarginatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Threadtail Conger,Uroconger syringinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackfin Sorcerer,Nettastoma melanurum,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfinned Bullseye,Cookeolus japonicus,Unknown,Global,Least Concern
+animalia — actinopterygii,South-American Silver Porgy,Diplodus argenteus,Unknown,Global,Least Concern
+animalia — holothuroidea,,Parastichopus regalis,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria lentiginosa,Unknown,Global,Least Concern
+animalia — holothuroidea,,Bathyplotes pourtalesii,Stable,Global,Least Concern
+animalia — holothuroidea,,Holothuria pseudofossor,Unknown,Global,Least Concern
+animalia — gastropoda,Mangrove Periwinkle,Littoraria angulifera,Unknown,Global,Least Concern
+animalia — actinopterygii,Mottled Mojarra,Eucinostomus lefroyi,Stable,Global,Least Concern
+animalia — actinopterygii,Papillate Clingfish,Acyrtus artius,Unknown,Global,Least Concern
+animalia — actinopterygii,Manytooth Conger,Conger triporiceps,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackfin Tuna,Thunnus atlanticus,Stable,Global,Least Concern
+animalia — malacostraca,,Epilobocera sinuatifrons,Stable,Global,Least Concern
+animalia — malacostraca,Ruby Lobsterette,Nephropsis neglecta,Unknown,Global,Least Concern
+animalia — malacostraca,Caribbean Furry Lobster,Palinurellus gundlachi,Unknown,Global,Least Concern
+animalia — actinopterygii,Banded Butterflyfish,Chaetodon striatus,Stable,Global,Least Concern
+animalia — actinopterygii,French Butterflyfish,Prognathodes guyanensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Roundscale Spearfish,Tetrapturus georgii,Unknown,Global,Data Deficient
+animalia — actinopterygii,King Mackerel,Scomberomorus cavalla,Stable,Global,Least Concern
+animalia — actinopterygii,Silk Snapper,Lutjanus vivanus,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Cuban Dogfish,Squalus cubensis,Increasing,Global,Least Concern
+animalia — malacostraca,Small Spanish Lobster,Arctides guineensis,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria glaberrima,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria surinamensis,Unknown,Global,Least Concern
+animalia — holothuroidea,,Molpadiodemas constrictus,Unknown,Global,Least Concern
+animalia — holothuroidea,,Mesothuria lactea,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria arenicola,Unknown,Global,Data Deficient
+animalia — gastropoda,Ash Gyro,Gyraulus parvus,Stable,Global,Least Concern
+animalia — actinopterygii,Collared Eel,Kaupichthys nuchalis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Mahogany Goby,Lythrypnus crocodilus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Tidewater Mojarra,Eucinostomus harengulus,Unknown,Global,Least Concern
+animalia — actinopterygii,Southern Puffer,Sphoeroides nephelus,Unknown,Global,Least Concern
+animalia — actinopterygii,Marbled Puffer,Sphoeroides dorsalis,Unknown,Global,Least Concern
+animalia — actinopterygii,River Goby,Awaous banana,Stable,Global,Least Concern
+animalia — actinopterygii,Marbled Grouper,Dermatolepis inermis,Decreasing,Global,Data Deficient
+animalia — actinopterygii,Misty Grouper,Hyporthodus mystacinus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gonostoma atlanticum,Stable,Global,Least Concern
+animalia — actinopterygii,Marion's Spiderfish,Bathytyphlops marionae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigfin Pearleye,Scopelarchus michaelsarsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Fat Sleeper,Dormitator maculatus,Stable,Global,Least Concern
+animalia — actinopterygii,Darter Goby,Ctenogobius boleosoma,Stable,Global,Least Concern
+animalia — actinopterygii,Bighead Portholefish,Margrethia obtusirostra,Unknown,Global,Data Deficient
+animalia — actinopterygii,Longfin Escolar,Scombrolabrax heterolepis,Decreasing,Global,Least Concern
+animalia — actinopterygii,,Photocorynus spiniceps,Unknown,Global,Least Concern
+animalia — aves,Snowy Egret,Egretta thula,Increasing,Global,Least Concern
+animalia — aves,American Bittern,Botaurus lentiginosus,Decreasing,Global,Least Concern
+animalia — aves,Puerto Rican Flycatcher,Myiarchus antillarum,Decreasing,Global,Least Concern
+animalia — aves,Loggerhead Kingbird,Tyrannus caudifasciatus,Stable,Global,Least Concern
+animalia — reptilia,Tiburon Stout Anole ,Amphisbaena schmidti,Decreasing,Global,Least Concern
+animalia — reptilia,Puerto Rican Crescent Sphaero ,Sphaerodactylus nicholsi,Stable,Global,Least Concern
+animalia — reptilia,Dry Worm Lizard,Amphisbaena xera,Unknown,Global,Near Threatened
+animalia — reptilia,Ponce Small-fanned Anole,Anolis poncensis,Unknown,Global,Least Concern
+animalia — reptilia,Yellow-chinned Anole,Anolis gundlachi,Unknown,Global,Least Concern
+animalia — aves,Black-and-white Warbler,Mniotilta varia,Decreasing,Global,Least Concern
+animalia — aves,Canada Warbler,Cardellina canadensis,Decreasing,Global,Least Concern
+animalia — aves,American White Pelican,Pelecanus erythrorhynchos,Increasing,Global,Least Concern
+animalia — insecta,Pale-green Darner,Triacanthagyna septima,Stable,Global,Least Concern
+animalia — insecta,Red-taled Pennant,Brachymesia furcata,Stable,Global,Least Concern
+animalia — insecta,Garnet Glider,Tauriphila australis,Stable,Global,Least Concern
+animalia — insecta,Sooty Saddlebags,Tramea binotata,Stable,Global,Least Concern
+animalia — actinopterygii,Caribbean Flagfin Blenny,Emblemariopsis carib,Unknown,Global,Least Concern
+animalia — actinopterygii,Dartfish,Myxodagnus belone,Unknown,Global,Data Deficient
+animalia — aves,Lesser Scaup,Aythya affinis,Decreasing,Global,Least Concern
+animalia — aves,Puerto Rican Lizard-cuckoo,Coccyzus vieilloti,Stable,Global,Least Concern
+animalia — aves,Purple Gallinule,Porphyrio martinicus,Decreasing,Global,Least Concern
+animalia — aves,Puerto Rican Screech-owl,Megascops nudipes,Stable,Global,Least Concern
+animalia — aves,Yellow-breasted Crake,Laterallus flaviventer,Unknown,Global,Least Concern
+animalia — aves,Stilt Sandpiper,Calidris himantopus,Increasing,Global,Least Concern
+animalia — actinopterygii,Doublethread Grenadier,Gadomus arcuatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias contiguus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Spotted Croaker,Ophioscion punctatissimus,Unknown,Global,Least Concern
+animalia — actinopterygii,Little Croaker,Stellifer stellifer,Unknown,Global,Data Deficient
+animalia — reptilia,Mona Blind Snake,Antillotyphlops monensis,Unknown,Global,Least Concern
+animalia — reptilia,,Typhlops sulcatus,Unknown,Global,Near Threatened
+animalia — actinopterygii,,Bathytroctes macrolepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Horned lantern fish,Centrophryne spinulosa,Unknown,Global,Least Concern
+animalia — actinopterygii,,Dysalotus oligoscolus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Kali macrura,Unknown,Global,Least Concern
+animalia — actinopterygii,,Pseudoscopelus scriptus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Himantolophus rostratus,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Dolopichthys longicornis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Pentherichthys atratus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Barathrites iris,Unknown,Global,Least Concern
+animalia — actinopterygii,,Dicrolene introniger,Unknown,Global,Least Concern
+animalia — actinopterygii,,Luciobrotula corethromycter,Unknown,Global,Least Concern
+animalia — actinopterygii,,Penopus microphthalmus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Rondeletia bicolor,Unknown,Global,Least Concern
+animalia — actinopterygii,,Argyripnus atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Argyropelecus sladeni,Unknown,Global,Least Concern
+animalia — actinopterygii,,Kali parri,Unknown,Global,Least Concern
+animalia — aves,Worm-eating Warbler,Helmitheros vermivorum,Increasing,Global,Least Concern
+animalia — aves,Louisiana Waterthrush,Parkesia motacilla,Increasing,Global,Least Concern
+animalia — aves,Hooded Warbler,Setophaga citrina,Increasing,Global,Least Concern
+animalia — aves,Common Yellowthroat,Geothlypis trichas,Stable,Global,Least Concern
+animalia — actinopterygii,Blackfin Goosefish,Lophius gastrophysus,Decreasing,Global,Least Concern
+animalia — aves,Dickcissel,Spiza americana,Stable,Global,Least Concern
+animalia — aves,Mourning Dove,Zenaida macroura,Increasing,Global,Least Concern
+animalia — reptilia,,Celestus badius,Stable,Global,Least Concern
+animalia — actinopterygii,Slender Filefish,Monacanthus tuckeri,Unknown,Global,Least Concern
+animalia — actinopterygii,Cardinal Snapper,Pristipomoides macrophthalmus,Unknown,Global,Least Concern
+animalia — malacostraca,,Atya scabra,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Flashlightfish,Kryptophanaron alfredi,Unknown,Global,Least Concern
+animalia — reptilia,,Magliophis stahli,Stable,Global,Least Concern
+animalia — actinopterygii,Orangespotted Filefish,Cantherhines pullus,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Bumper,Chloroscombrus chrysurus,Stable,Global,Least Concern
+animalia — holothuroidea,,Holothuria mexicana,Unknown,Global,Least Concern
+animalia — holothuroidea,,Isostichopus badionotus,Unknown,Global,Least Concern
+animalia — aves,Black-whiskered Vireo,Vireo altiloquus,Unknown,Global,Least Concern
+animalia — aves,White-eyed Vireo,Vireo griseus,Increasing,Global,Least Concern
+animalia — chondrichthyes,Little Gulper Shark,Centrophorus uyato,Decreasing,Global,Endangered
+animalia — chondrichthyes,Yellow Stingray,Urobatis jamaicensis,Stable,Global,Least Concern
+animalia — reptilia,Chevronated Sphaero,Sphaerodactylus gaigeae,Stable,Global,Least Concern
+animalia — insecta,Prickly Ash Swallowtail,Papilio pelaus,Unknown,Global,Least Concern
+animalia — actinopterygii,Festive Ribbonfish,Eutaeniophorus festivus,Unknown,Global,Least Concern
+animalia — actinopterygii,Mottled Jawfish,Opistognathus maxillosus,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Blue-tailed Ameiva,Pholidoscelis wetmorei,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Spaghetti Eel,Moringua edwardsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Smallmouth Grunt,Haemulon chrysargyreum,Unknown,Global,Least Concern
+animalia — actinopterygii,Sailor's Choice,Haemulon parra,Unknown,Global,Least Concern
+animalia — actinopterygii,Whitemouth Croaker,Micropogonias furnieri,Decreasing,Global,Least Concern
+animalia — actinopterygii,Long-spine Porcupinefish,Diodon holocanthus,Unknown,Global,Least Concern
+animalia — actinopterygii,Mountain Mullet,Dajaus monticola,Stable,Global,Least Concern
+animalia — aves,Blackpoll Warbler,Setophaga striata,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Hogfish,Lachnolaimus maximus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,,Pseudoscopelus obtusifrons,Unknown,Global,Least Concern
+animalia — aves,Least Grebe,Tachybaptus dominicus,Stable,Global,Least Concern
+animalia — reptilia,,Ameiva desechensis,Stable,Global,Least Concern
+animalia — reptilia,Richard's Worm Snake,Antillotyphlops richardii,Decreasing,Global,Near Threatened
+animalia — aves,Bufflehead,Bucephala albeola,Increasing,Global,Least Concern
+animalia — aves,Yellow-bellied Sapsucker,Sphyrapicus varius,Decreasing,Global,Least Concern
+animalia — aves,Puerto Rican Mango,Anthracothorax aurulentus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Margined Flyingfish,Cheilopogon cyanopterus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Croaker,Corvula batabana,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Bigscale,Scopelogadus mizolepis,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Slider,Trachemys stejnegeri,,Global,Near Threatened
+animalia — actinopterygii,Queen Triggerfish,Balistes vetula,Decreasing,Global,Near Threatened
+animalia — actinopterygii,,Bathypterois bigelowi,Unknown,Global,Least Concern
+animalia — actinopterygii,Triplespine Deepwater Cardinalfish,Sphyraenops bairdianus,Unknown,Global,Least Concern
+animalia — actinopterygii,Crested Scabbardfish,Lepidopus altifrons,Unknown,Global,Least Concern
+animalia — actinopterygii,Lumphead Bigscale,Melamphaes microps,Unknown,Global,Least Concern
+animalia — actinopterygii,Gargoyle Cusk-eel,Xyelacyba myersi,Unknown,Global,Least Concern
+animalia — aves,Venezuelan Troupial,Icterus icterus,Stable,Global,Least Concern
+animalia — chondrichthyes,Dwarf Catshark,Scyliorhinus torrei,Stable,Global,Least Concern
+animalia — reptilia,,Ameiva alboguttata,Stable,Global,Least Concern
+animalia — actinopterygii,Blackest Whiptail,Hymenocephalus aterrimus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Peristedion antillarum,Unknown,Global,Least Concern
+animalia — actinopterygii,,Chaunacops roseus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias precarius,Unknown,Global,Data Deficient
+animalia — amphibia,Common Coqui,Eleutherodactylus coqui,Stable,Global,Least Concern
+animalia — chondrichthyes,Atlantic Sixgill Shark,Hexanchus vitulus,Stable,Global,Least Concern
+animalia — aves,Elfin Woods Warbler,Setophaga angelae,Decreasing,Global,Endangered
+animalia — aves,Yellow-shouldered Blackbird,Agelaius xanthomus,Decreasing,Global,Endangered
+animalia — aves,Wilson's Snipe,Gallinago delicata,Increasing,Global,Least Concern
+animalia — actinopterygii,,Cyclothone braueri,Stable,Global,Least Concern
+animalia — actinopterygii,Bicolored Bristlemouth,Cyclothone pallida,Stable,Global,Least Concern
+animalia — actinopterygii,,Eustomias schmidti,Unknown,Global,Least Concern
+animalia — actinopterygii,,Cyclothone alba,Stable,Global,Least Concern
+animalia — actinopterygii,Scalloped Ribbonfish,Zu cristatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Cigarfish,Cubiceps pauciradiatus,Unknown,Global,Least Concern
+animalia — aves,Short-tailed Swift,Chaetura brachyura,Stable,Global,Least Concern
+animalia — actinopterygii,Hammerjaw,Omosudis lowii,Unknown,Global,Least Concern
+animalia — actinopterygii,Longbarb Scaly Dragonfish,Stomias longibarbatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Nemichthys curvirostris,Unknown,Global,Least Concern
+animalia — aves,Golden-winged Warbler,Vermivora chrysoptera,Decreasing,Global,Near Threatened
+animalia — aves,Palm Warbler,Setophaga palmarum,Increasing,Global,Least Concern
+animalia — aves,Black-faced Grassquit,Melanospiza bicolor,Increasing,Global,Least Concern
+animalia — aves,Ring-billed Gull,Larus delawarensis,Increasing,Global,Least Concern
+animalia — actinopterygii,Unicorn Leatherjacket Filefish,Aluterus monoceros,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lamprogrammus niger,Unknown,Global,Least Concern
+animalia — aves,Laughing Gull,Larus atricilla,Increasing,Global,Least Concern
+animalia — aves,Franklin's Gull,Larus pipixcan,Increasing,Global,Least Concern
+animalia — aves,Least Tern,Sternula antillarum,Decreasing,Global,Least Concern
+animalia — actinopterygii,Ridgehead,Poromitra megalops,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Dysalotus alcocki,Unknown,Global,Least Concern
+animalia — actinopterygii,Lanternfish,Bolinichthys indicus,Stable,Global,Least Concern
+animalia — actinopterygii,Blue Fathead,Cubiceps caeruleus,Unknown,Global,Least Concern
+animalia — actinopterygii,Slender Suckerfish,Phtheirichthys lineatus,Stable,Global,Least Concern
+animalia — actinopterygii,Blackfinned Clingfish,Gobiesox nigripinnis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotfin Goby,Oxyurichthys stigmalophius,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Island Goby,Lythrypnus nesiotes,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Roosevelt's Goby,Pycnomma roosevelti,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Surge Clingfish,Tomicodon rupestris,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Helen's Dartfish,Ptereleotris helenae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Yellowtail Damselfish,Microspathodon chrysurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sunshinefish,Chromis insolata,Unknown,Global,Least Concern
+animalia — actinopterygii,Threadfin Smooth-head,Talismania mekistonema,Unknown,Global,Least Concern
+animalia — amphibia,Plains Coquí,Eleutherodactylus juanariveroi,Unknown,Global,Critically Endangered
+animalia — chondrichthyes,Sharpnose Sevengill Shark,Heptranchias perlo,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Oven's Halosaur,Halosaurus ovenii,Unknown,Global,Least Concern
+animalia — actinopterygii,Bronze Cardinalfish,Astrapogon alutus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Orangespotted Goby,Nes longus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Orangesided Goby,Tigrigobius dilepis,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Semiscaled Goby,Tigrigobius pallens,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Broadsaddle Cardinalfish,Apogon pillionatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Patch-reef Goby,Coryphopterus tortugae,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Bearded Goby,Barbulifer ceuthoecus,Unknown,Global,Least Concern
+animalia — actinopterygii,Masked Goby,Coryphopterus personatus,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Shortstripe Goby,Elacatinus chancei,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Broadstripe Goby,Elacatinus prochilos,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Greenbanded Goby,Tigrigobius multifasciatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Irish Mojarra,Diapterus auratus,Unknown,Global,Least Concern
+animalia — actinopterygii,Colon Goby,Coryphopterus dicrus,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellow Conger,Rhynchoconger flavus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathycongrus thysanochilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Key Worm Eel,Ahlia egmontis,Unknown,Global,Least Concern
+animalia — actinopterygii,Sooty Eel,Bascanichthys bascanium,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,French Grunt,Haemulon flavolineatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Twin-spotted Frillfin,Bathygobius geminatus,Unknown,"Global, Caribbean",Data Deficient
+animalia — actinopterygii,Vermilion Snapper,Rhomboplites aurorubens,Decreasing,Global,Vulnerable
+animalia — actinopterygii,,Halosaurus guentheri,Unknown,Global,Least Concern
+animalia — actinopterygii,,Acromycter atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ridged Eel,Neoconger mucronatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellow Goatfish,Mulloidichthys martinicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Twostripe Snake Eel,Callechelys bilinearis,Unknown,Global,Least Concern
+animalia — actinopterygii,Crested Goby,Lophogobius cyprinoides,Unknown,Global,Least Concern
+animalia — actinopterygii,Marked Goby,Ctenogobius stigmaticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Slaty Goby,Elacatinus tenox,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Pale Cardinalfish,Apogon planifrons,Stable,Global,Least Concern
+animalia — actinopterygii,Arawak Blenny,Emblemariopsis arawak,Unknown,Global,Data Deficient
+animalia — actinopterygii,Pluma Porgy,Calamus pennatula,Unknown,Global,Least Concern
+animalia — actinopterygii,Saucereye Porgy,Calamus calamus,Unknown,Global,Least Concern
+animalia — malacostraca,,Jonga serrei,Unknown,Global,Least Concern
+animalia — actinopterygii,,Xenomystax austrinus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Haptenchelys texis,Unknown,Global,Least Concern
+animalia — actinopterygii,Speckled Worm Eel,Myrophis punctatus,Unknown,Global,Least Concern
+animalia — cephalopoda,,Octopus joubini,Unknown,Global,Least Concern
+animalia — cephalopoda,Grass Squid,Pickfordiateuthis pulchella,Unknown,Global,Data Deficient
+animalia — cephalopoda,,Octopus filosus,Unknown,Global,Data Deficient
+animalia — holothuroidea,,Holothuria grisea,Unknown,Global,Least Concern
+animalia — actinopterygii,African Pompano,Alectis ciliaris,Unknown,Global,Least Concern
+animalia — actinopterygii,Antilles Frillfin,Bathygobius antilliensis,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus roberti,Unknown,Global,Least Concern
+animalia — malacostraca,Mona Cave Shrimp,Typhlatya monae,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus pusio,Unknown,Global,Least Concern
+animalia — gastropoda,Virgin Nerite,Neritina virginea,Stable,Global,Least Concern
+animalia — actinopterygii,Broadbanded Moray,Channomuraena vittata,Unknown,Global,Least Concern
+animalia — actinopterygii,,Xenomystax congroides,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Trunkfish,Lactophrys bicaudalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Shortfin Searobin,Bellator brachychir,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotted Snake Eel,Ophichthus ophis,Unknown,Global,Least Concern
+animalia — malacostraca,Prickly Lobsterette,Nephropsis agassizii,Unknown,Global,Least Concern
+animalia — actinopterygii,Rock Beauty,Holacanthus tricolor,Stable,Global,Least Concern
+animalia — actinopterygii,French Angelfish,Pomacanthus paru,Stable,Global,Least Concern
+animalia — actinopterygii,,Ariosoma selenops,Unknown,Global,Least Concern
+animalia — actinopterygii,Freckled Stargazer,Xenocephalus egregius,Stable,Global,Least Concern
+animalia — holothuroidea,,Holothuria rathbunii,Unknown,Global,Least Concern
+animalia — actinopterygii,Forktailed Bass,Parasphyraenops incisus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Caribbean Snow Bass,Serranus chionaraia,Unknown,Global,Least Concern
+animalia — actinopterygii,Slope Bass,Symphysanodon berryi,Unknown,Global,Least Concern
+animalia — actinopterygii,Naked Sole,Gymnachirus nudus,Unknown,Global,Least Concern
+animalia — actinopterygii,Widehead Armored Searobin,Peristedion longispatha,Unknown,Global,Least Concern
+animalia — actinopterygii,Dwarf Scorpionfish,Scorpaena elachys,Unknown,Global,Least Concern
+animalia — actinopterygii,Fringed Flounder,Etropus crossotus,Unknown,Global,Least Concern
+animalia — actinopterygii,Deepreef Scorpionfish,Scorpaenodes tredecimspinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Greenblotch Parrotfish,Sparisoma atomarium,Unknown,Global,Least Concern
+animalia — actinopterygii,Stoplight Parrotfish,Sparisoma viride,Unknown,Global,Least Concern
+animalia — actinopterygii,Midnight Parrotfish,Scarus coelestinus,Unknown,Global,Data Deficient
+animalia — bivalvia,,Eupera cubensis,Unknown,Global,Least Concern
+animalia — gastropoda,Horn Shell,Cerithidea pliculosa,Unknown,Global,Least Concern
+animalia — actinopterygii,Bar Jack,Caranx ruber,Unknown,Global,Least Concern
+animalia — actinopterygii,Big Roughy,Gephyroberyx darwinii,Unknown,Global,Least Concern
+animalia — actinopterygii,Reef Squirrelfish,Sargocentron coruscum,Unknown,Global,Least Concern
+animalia — actinopterygii,Big-eye Anchovy,Anchoa lamprotaenia,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackbarred Squirrelfish,Sargocentron vexillarium,Unknown,Global,Least Concern
+animalia — actinopterygii,Cuban Anchovy,Anchoa cubana,Unknown,Global,Least Concern
+animalia — actinopterygii,Big-eye Soldierfish,Ostichthys trachypoma,Unknown,Global,Least Concern
+animalia — actinopterygii,Flat Anchovy,Anchoviella perfasciata,Unknown,Global,Least Concern
+animalia — actinopterygii,Mottled Flounder,Bothus maculiferus,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfin Yellowtail,Seriola rivoliana,Stable,Global,Least Concern
+animalia — actinopterygii,Narrow-striped Anchovy,Anchoa colonensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Anchoveta,Cetengraulis edentulus,Unknown,Global,Least Concern
+animalia — actinopterygii,Boehlke's Coralbrotula,Ogilbia boehlkei,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Cusk-eel,Parophidion schmidti,Unknown,Global,Least Concern
+animalia — actinopterygii,Guachanche Barracuda,Sphyraena guachancho,Unknown,Global,Least Concern
+animalia — actinopterygii,Brazilian Lizardfish,Saurida brasiliensis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Myctophum selenops,Unknown,Global,Least Concern
+animalia — actinopterygii,,Nannobrachium cuprarium,Unknown,Global,Least Concern
+animalia — actinopterygii,,Myctophum asperum,Stable,Global,Least Concern
+animalia — actinopterygii,Spotted Dragonet,Diplogrammus pauciradiatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Stomias affinis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bufoceratias wedli,Unknown,Global,Least Concern
+animalia — actinopterygii,Stargazing Seadevil,Ceratias uranoscopus,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Tripletail,Lobotes surinamensis,Stable,Global,Least Concern
+animalia — actinopterygii,,Photonectes parvimanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowmouth Grouper,Mycteroperca interstitialis,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Comb Grouper,Mycteroperca acutirostris,Stable,Global,Least Concern
+animalia — reptilia,Culebra Skink,Spondylurus culebrae,Decreasing,Global,Critically Endangered
+animalia — reptilia,Monito Skink,Spondylurus monitae,Unknown,Global,Critically Endangered
+animalia — actinopterygii,Oyster Blenny,Hypleurochilus pseudoaequipinnis,Unknown,Global,Least Concern
+animalia — actinopterygii,Longhorn Blenny,Hypsoblennius exstochilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sabre Goby,Antilligobius nikkiae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Fat Slope Bass,Symphysanodon octoactinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ocellated Pipefish,Bryx randalli,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Chain Pearlfish,Syngnathus dawsoni,Unknown,"Global, Caribbean",Data Deficient
+animalia — actinopterygii,,Eustomias micraster,Unknown,Global,Least Concern
+animalia — insecta,Band-winged Dragonlet,Erythrodiplax umbrata,Stable,Global,Least Concern
+animalia — chondrichthyes,,Ginglymostoma cirratum,Unknown,Global,Data Deficient
+animalia — actinopterygii,Painted Wrasse,Halichoeres caudalis,Unknown,Global,Least Concern
+animalia — malacostraca,Flaming Reef Lobster,Enoplometopus antillensis,Unknown,Global,Least Concern
+animalia — malacostraca,Faxon Slipper Lobster,Bathyarctus faxoni,Unknown,Global,Least Concern
+animalia — actinopterygii,Creole Wrasse,Clepticus parrae,Unknown,Global,Least Concern
+animalia — actinopterygii,Cleaver Wrasse,Xyrichtys novacula,Stable,Global,Least Concern
+animalia — actinopterygii,Bucktooth Parrotfish,Sparisoma radians,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughback Batfish,Ogcocephalus parvus,Unknown,Global,Least Concern
+animalia — actinopterygii,Hubb’s Pearleye,Rosenblattichthys hubbsi,Unknown,Global,Least Concern
+animalia — actinopterygii,Creole-fish,Paranthias furcifer,Stable,Global,Least Concern
+animalia — actinopterygii,,Triplophos hemingi,Unknown,Global,Least Concern
+animalia — actinopterygii,Hound Needlefish,Tylosurus crocodilus,Unknown,Global,Least Concern
+animalia — mammalia,,Heteropsomys insulans,,Global,Extinct
+animalia — actinopterygii,,Aristostomias grimaldii,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes macropogon,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes zharovi,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias dendriticus,Unknown,Global,Least Concern
+animalia — mammalia,Minor Red Bat,Lasiurus minor,Decreasing,Global,Vulnerable
+animalia — actinopterygii,,Hygophum macrochir,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lampadena anomala,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Hygophum reinhardtii,Unknown,Global,Least Concern
+animalia — actinopterygii,Metallic Codling,Physiculus fulvus,Unknown,Global,Least Concern
+animalia — actinopterygii,Onecolor Cusk-eel,Neobythites unicolor,Unknown,Global,Least Concern
+animalia — actinopterygii,Cosmopolitan Oceanic Basslet,Howella simplex,Unknown,Global,Least Concern
+animalia — actinopterygii,Pugjaw Wormfish,Cerdale floridana,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Vaillant Grenedier,Bathygadus melanobranchus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathytroctes microlepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Salmon Smooth-head,Conocara salmoneum,Unknown,Global,Least Concern
+animalia — amphibia,Mona Coqui,Eleutherodactylus monensis,Stable,Global,Vulnerable
+animalia — chondrichthyes,Caribbean Sharpnose Shark,Rhizoprionodon porosus,Stable,Global,Least Concern
+animalia — actinopterygii,Pond Perch,Diplectrum radiale,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowtail Hamlet,Hypoplectrus chlorurus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Deepwater Tonguefish,Symphurus piger,Unknown,Global,Least Concern
+animalia — actinopterygii,Swordtail Jawfish,Lonchopisthus micrognathus,Stable,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Spotfin Flyingfish,Cheilopogon furcatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Barracudina,Lestidiops affinis,Unknown,Global,Least Concern
+animalia — mammalia,Edith's Island-shrew,Nesophontes edithae,,Global,Extinct
+animalia — malacostraca,Banded Lobster,Eunephrops manningi,Unknown,Global,Data Deficient
+animalia — malacostraca,,Willemoesia leptodactyla,Unknown,Global,Least Concern
+animalia — actinopterygii,Shorthead Blenny,Emblemariopsis bottomei,Unknown,Global,Least Concern
+animalia — aves,Least Bittern,Ixobrychus exilis,Stable,Global,Least Concern
+animalia — aves,Puerto Rican Vireo,Vireo latimeri,Decreasing,Global,Least Concern
+animalia — aves,Yellow-throated Vireo,Vireo flavifrons,Increasing,Global,Least Concern
+animalia — aves,Tree Swallow,Tachycineta bicolor,Stable,Global,Least Concern
+animalia — aves,Cliff Swallow,Petrochelidon pyrrhonota,Increasing,Global,Least Concern
+animalia — insecta,Great Pondhawk,Erythemis vesiculosa,Stable,Global,Least Concern
+animalia — insecta,Twilight Darner,Gynacantha nervosa,Stable,Global,Least Concern
+animalia — insecta,Pin-tailed Pondhawk,Erythemis plebeja,Increasing,Global,Least Concern
+animalia — reptilia,Puerto Rican Racer,Borikenophis variegatus,Stable,Global,Near Threatened
+animalia — actinopterygii,Large-scaled Spinycheek Sleeper,Eleotris amblyopsis,Stable,Global,Least Concern
+animalia — actinopterygii,Fat Snook,Centropomus parallelus,Unknown,Global,Least Concern
+animalia — actinopterygii,Lyre Goby,Evorthodus lyricus,Unknown,Global,Least Concern
+animalia — actinopterygii,Longsnout Blacksmelt,Dolicholagus longirostris,Unknown,Global,Least Concern
+animalia — aves,Blue-winged Teal,Spatula discors,Decreasing,Global,Least Concern
+animalia — aves,Canvasback,Aythya valisineria,Decreasing,Global,Least Concern
+animalia — aves,Yellow-billed Cuckoo,Coccyzus americanus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Crevalle Jack,Caranx hippos,Stable,Global,Least Concern
+animalia — actinopterygii,Timucu,Strongylura timucu,Unknown,Global,Least Concern
+animalia — actinopterygii,New Grenada Drum,Protosciaena trewavasae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Atlantic Silverstripe Halfbeak,Hyporhamphus unifasciatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Notchtongue Goby,Bathygobius curacao,Unknown,"Global, Caribbean",Least Concern
+animalia — aves,Prairie Warbler,Setophaga discolor,Decreasing,Global,Least Concern
+animalia — aves,American Redstart,Setophaga ruticilla,Decreasing,Global,Least Concern
+animalia — aves,Wilson's Warbler,Cardellina pusilla,Decreasing,Global,Least Concern
+animalia — aves,Western Spindalis,Spindalis zena,Stable,Global,Least Concern
+animalia — aves,Puerto Rican Bullfinch,Pyrrhulagra portoricensis,Decreasing,Global,Least Concern
+animalia — reptilia,Puerto Rican Bush Anole,Anolis pulchellus,Stable,Global,Least Concern
+animalia — insecta,Rambur's Forktail,Ischnura ramburii,Increasing,Global,Least Concern
+animalia — insecta,Antillean Spreadwing,Lestes spumarius,Stable,Global,Least Concern
+animalia — actinopterygii,Tarpon Snook,Centropomus pectinatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Reef Croaker,Odontoscion dentex,Unknown,Global,Least Concern
+animalia — reptilia,Mona Least Gecko,Sphaerodactylus monensis,Stable,Global,Least Concern
+animalia — actinopterygii,Orange-spotted Clingfish,Acyrtus lanthanum,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Cocoa Damselfish,Stegastes xanthurus,Stable,Global,Least Concern
+animalia — actinopterygii,Brownsnout Spookfish,Dolichopteryx longipes,Unknown,Global,Least Concern
+animalia — actinopterygii,Pudgy Cuskeel,Spectrunculus grandis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Melanostomias spilorhynchus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Photonectes caerulescens,Unknown,Global,Least Concern
+animalia — insecta,Red Saddlebags,Tramea onusta,Stable,Global,Least Concern
+animalia — actinopterygii,,Eustomias patulus,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Melanostomias melanopogon,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Boa,Chilabothrus inornatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Striped Croaker,Corvula sanctaeluciae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Matador Triplefin,Enneanectes matador,Unknown,Global,Least Concern
+animalia — actinopterygii,Shadow Bristlemouth,Cyclothone parapallida,Unknown,Global,Least Concern
+animalia — actinopterygii,,Himantolophus brevirostris,Unknown,Global,Data Deficient
+animalia — actinopterygii,Dotback Lanternfish,Lampanyctus photonotus,Unknown,Global,Least Concern
+animalia — actinopterygii,Rare Lanternfish,Loweina rara,Unknown,Global,Least Concern
+animalia — actinopterygii,,Neoceratias spinifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias satterleei,Unknown,Global,Least Concern
+animalia — insecta,Gold Rim Swallowtail,Battus polydamas,Unknown,Global,Least Concern
+animalia — aves,Lesser Antillean Pewee,Contopus latirostris,Decreasing,Global,Least Concern
+animalia — aves,Eastern Red-legged Thrush,Turdus ardosiaceus,Stable,Global,Least Concern
+animalia — malacostraca,,Atya lanipes,Unknown,Global,Least Concern
+animalia — aves,Buff-breasted Sandpiper,Calidris subruficollis,Decreasing,Global,Near Threatened
+animalia — reptilia,Baker's Worm Lizard,Amphisbaena bakeri,Stable,Global,Least Concern
+animalia — reptilia,Puerto Rican Galliwasp,Diploglossus pleii,Stable,Global,Least Concern
+animalia — reptilia,Beck's Least Gecko,Sphaerodactylus becki,Stable,Global,Least Concern
+animalia — chondrichthyes,Antilles Catshark,Galeus antillensis,Stable,Global,Least Concern
+animalia — aves,Puerto Rican Woodpecker,Melanerpes portoricensis,Stable,Global,Least Concern
+animalia — aves,Scaly-naped Pigeon,Patagioenas squamosa,Decreasing,Global,Least Concern
+animalia — aves,Limpkin,Aramus guarauna,Stable,Global,Least Concern
+animalia — aves,American Avocet,Recurvirostra americana,Stable,Global,Least Concern
+animalia — aves,Killdeer,Charadrius vociferus,Decreasing,Global,Least Concern
+animalia — aves,Marbled Godwit,Limosa fedoa,Decreasing,Global,Least Concern
+animalia — aves,Semipalmated Sandpiper,Calidris pusilla,Decreasing,Global,Near Threatened
+animalia — aves,Caribbean Elaenia,Elaenia martinica,Unknown,Global,Least Concern
+animalia — reptilia,,Sphaerodactylus micropithecus,Unknown,Global,Data Deficient
+animalia — chondrichthyes,Silky Shark,Carcharhinus falciformis,Decreasing,Global,Vulnerable
+animalia — actinopterygii,,Uncisudis advena,Unknown,Global,Least Concern
+animalia — actinopterygii,Ridgehead,Scopeloberyx opisthopterus,Unknown,Global,Least Concern
+animalia — actinopterygii,Gibberfish,Gibberichthys pumilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pugnose Grenadier,Sphagemacrurus grenadae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lampadena atlantica,Unknown,Global,Least Concern
+animalia — actinopterygii,Fewscale Deepwater Cardinalfish,Epigonus oligolepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Dogtooth Lampfish,Ceratoscopelus townsendi,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Jack,Caranx lugubris,Stable,Global,Least Concern
+animalia — actinopterygii,Longnose Greeneye,Parasudis truculenta,Unknown,Global,Least Concern
+animalia — actinopterygii,Oarfish,Regalecus glesne,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Scad,Selar crumenophthalmus,Stable,Global,Least Concern
+animalia — actinopterygii,Sand Diver,Synodus intermedius,Unknown,Global,Least Concern
+animalia — actinopterygii,Great Barracuda,Sphyraena barracuda,Unknown,Global,Least Concern
+animalia — actinopterygii,Sargassumfish,Histrio histrio,Stable,Global,Least Concern
+animalia — actinopterygii,Mackerel Scad,Decapterus macarellus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ocean Triggerfish,Canthidermis sufflamen,Stable,Global,Least Concern
+animalia — actinopterygii,Black Triggerfish,Melichthys niger,Unknown,Global,Least Concern
+animalia — aves,Grasshopper Sparrow,Ammodramus savannarum,Decreasing,Global,Least Concern
+animalia — aves,Black-throated Green Warbler,Setophaga virens,Decreasing,Global,Least Concern
+animalia — aves,Bay-breasted Warbler,Setophaga castanea,Decreasing,Global,Least Concern
+animalia — aves,Ruddy Duck,Oxyura jamaicensis,Decreasing,Global,Least Concern
+animalia — aves,Black-throated Blue Warbler,Setophaga caerulescens,Increasing,Global,Least Concern
+animalia — aves,Black Swift,Cypseloides niger,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Rothschild's Barracudina,Stemonosudis rothschildi,Unknown,Global,Least Concern
+animalia — actinopterygii,Maul's Waryfish,Scopelosaurus mauli,Unknown,Global,Least Concern
+animalia — actinopterygii,Fringed Filefish,Monacanthus ciliatus,Unknown,Global,Least Concern
+animalia — aves,Arctic Herring Gull,Larus smithsonianus,Decreasing,Global,Least Concern
+animalia — actinopterygii,Whitefin Sharksucker,Echeneis neucratoides,Unknown,Global,Data Deficient
+animalia — chondrichthyes,Bigeye Thresher,Alopias superciliosus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Mangrove Rivulus,Kryptolebias marmoratus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias dubius,Unknown,Global,Least Concern
+animalia — chondrichthyes,Genie’s Dogfish,Squalus clarkae,Decreasing,Global,Least Concern
+animalia — aves,Reddish Egret,Egretta rufescens,Decreasing,Global,Near Threatened
+animalia — actinopterygii,,Sonoda paucilampa,Unknown,Global,Least Concern
+animalia — actinopterygii,,Astronesthes gudrunae,Unknown,Global,Least Concern
+animalia — reptilia,Cochran's Caribbean Gecko,Aristelliger cochranae,Stable,Global,Least Concern
+animalia — aves,White-throated Sparrow,Zonotrichia albicollis,Stable,Global,Least Concern
+animalia — aves,Northern Parula,Setophaga americana,Increasing,Global,Least Concern
+animalia — aves,Indigo Bunting,Passerina cyanea,Decreasing,Global,Least Concern
+animalia — aves,Greater Antillean Grackle,Quiscalus niger,Stable,Global,Least Concern
+animalia — actinopterygii,Blackfin Grenadier,Coelorinchus caribbaeus,Unknown,Global,Least Concern
+animalia — actinopterygii,Chain Cusk-eel,Porogadus catena,Unknown,Global,Least Concern
+animalia — actinopterygii,Slimehead Grenadier,Ventrifossa mucocephalus,Unknown,Global,Least Concern
+animalia — aves,Brown Noddy,Anous stolidus,Stable,Global,Least Concern
+animalia — actinopterygii,Blackbelly Argentine,Argentina georgei,Unknown,Global,Least Concern
+animalia — actinopterygii,Snake Mackerel,Gempylus serpens,Stable,Global,Least Concern
+animalia — actinopterygii,,Microlophichthys andracanthus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Blackthread Dreamer,Danaphryne nigrifilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Triplewart Seadevil,Cryptopsaras couesii,Unknown,Global,Least Concern
+animalia — cephalopoda,Diamondback squid,Thysanoteuthis rhombus,Unknown,Global,Least Concern
+animalia — aves,Bicknell's Thrush,Catharus bicknelli,Decreasing,Global,Vulnerable
+animalia — mammalia,Dwarf Sperm Whale,Kogia sima,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias simplex,Unknown,Global,Least Concern
+animalia — actinopterygii,Swordfish,Xiphias gladius,Decreasing,Global,Least Concern
+animalia — actinopterygii,Pelican Eel,Eurypharynx pelecanoides,Unknown,Global,Least Concern
+animalia — actinopterygii,Topside Lampfish,Notolychnus valdiviae,Stable,Global,Least Concern
+animalia — mammalia,Bryde's Whale,Balaenoptera edeni,Unknown,Global,Least Concern
+animalia — actinopterygii,Slender Bristlemouth,Cyclothone pseudopallida,Stable,Global,Least Concern
+animalia — actinopterygii,Deepsea Angler,Ceratias holboelli,Unknown,Global,Least Concern
+animalia — actinopterygii,Albacore Tuna,Thunnus alalunga,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Softskin Smooth-head,Rouleina attrita,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowfin Tuna,Thunnus albacares,Decreasing,Global,Near Threatened
+animalia — actinopterygii,Whalesucker,Remora australis,Stable,Global,Least Concern
+animalia — actinopterygii,Rope Eel,Gordiichthys randalli,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Horsehair Eel,Gordiichthys irretitus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Stippled Spoon-nose Eel,Echiophis punctifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Xenomystax bidentatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Broadnose Worm Eel,Myrophis platyrhynchus,Unknown,Global,Least Concern
+animalia — actinopterygii,Unexpected Snake Eel,Bascanichthys inopinatus,Unknown,"Global, Caribbean",Data Deficient
+animalia — actinopterygii,,Bathycongrus dubius,Stable,Global,Least Concern
+animalia — actinopterygii,Bonefish,Albula vulpes,Decreasing,Global,Near Threatened
+animalia — gastropoda,,Conus speciosissimus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blue Runner,Caranx crysos,Unknown,Global,Least Concern
+animalia — actinopterygii,Palometa,Trachinotus goodei,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Cardinalfish,Phaeoptyx pigmentaria,Stable,Global,Least Concern
+animalia — actinopterygii,Red Clingfish,Acyrtus rubiginosus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Toadfish Goby,Psilotris batrachodes,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Mimic Cardinalfish,Apogon phenax,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Cave Cardinalfish,Zapogon evermanni,Unknown,Global,Least Concern
+animalia — actinopterygii,Sawcheek Cardinalfish,Apogon quadrisquamatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Citrine Goby,Bollmannia litura,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Sand-canyon Goby,Coryphopterus venezuelae,Unknown,"Global, Caribbean",Vulnerable
+animalia — actinopterygii,Blotchcheek Goby,Ctenogobius fasciatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Yellownose Goby,Elacatinus randalli,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Threeline Basslet,Lipogramma trilineata,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Seminole Goby,Microgobius carri,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Dashback Goby,Microgobius signatus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Longtail Goby,Parrella macropteryx,Unknown,Global,Least Concern
+animalia — actinopterygii,Cryptic Clingfish,Tomicodon cryptus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Sponge Cardinalfish,Phaeoptyx xenus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Avocet Snipe Eel,Avocettina infans,Unknown,Global,Least Concern
+animalia — actinopterygii,Pallid Snake Eel,Ophichthus gomesii,Unknown,Global,Least Concern
+animalia — actinopterygii,Shortfinger Anchovy,Anchoa lyolepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Grey Snapper,Lutjanus griseus,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellowtail Snapper,Ocyurus chrysurus,Decreasing,Global,Data Deficient
+animalia — malacostraca,Spanish Slipper Lobster,Scyllarides aequinoctialis,Unknown,Global,Least Concern
+animalia — actinopterygii,Queen Angelfish,Holacanthus ciliaris,Stable,Global,Least Concern
+animalia — actinopterygii,Blue Chromis,Chromis cyanea,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria parvula,Unknown,Global,Least Concern
+animalia — actinopterygii,Jolthead Porgy,Calamus bajonado,Unknown,Global,Least Concern
+animalia — actinopterygii,Sea Bream,Archosargus rhomboidalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughhead Triplefin,Enneanectes boehlkei,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Snapper,Apsilus dentatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Reef Butterflyfish,Chaetodon sedentarius,Stable,Global,Least Concern
+animalia — actinopterygii,Web Burrfish,Chilomycterus antillarum,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Chestnut Moray,Enchelycore carychroa,Unknown,Global,Least Concern
+animalia — actinopterygii,Black Grunt,Haemulon bonariense,Decreasing,Global,Least Concern
+animalia — actinopterygii,Smooth Puffer,Lagocephalus laevigatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Sevenfingered Threadfin,Polydactylus virginicus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Polyacanthonotus merretti,Unknown,Global,Least Concern
+animalia — actinopterygii,Island Frillfin,Bathygobius mystacium,Unknown,Global,Least Concern
+animalia — holothuroidea,,Holothuria thomasi,Unknown,Global,Least Concern
+animalia — gastropoda,Dusky Ancylid,Laevapex fuscus,Stable,Global,Least Concern
+animalia — actinopterygii,Spotted Pike-conger,Hoplunnis tenuis,Unknown,Global,Least Concern
+animalia — gastropoda,,Uncancylus concentricus,Unknown,Global,Least Concern
+animalia — gastropoda,Carib Fossaria,Galba cubensis,Stable,Global,Least Concern
+animalia — gastropoda,Ridged Rams-horn,Drepanotrema cimex,Stable,Global,Least Concern
+animalia — gastropoda,,Physa marmorata,Unknown,Global,Least Concern
+animalia — cephalopoda,,Semirossia equalis,Unknown,Global,Data Deficient
+animalia — cephalopoda,,Japetella diaphana,Unknown,Global,Least Concern
+animalia — cephalopoda,,Brachioteuthis riisei,Unknown,Global,Data Deficient
+animalia — cephalopoda,,Muusoctopus januarii,Unknown,Global,Least Concern
+animalia — cephalopoda,,Ornithoteuthis antillarum,Unknown,Global,Least Concern
+animalia — cephalopoda,,Bolitaena pygmaea,Unknown,Global,Least Concern
+animalia — actinopterygii,Saddled Moray,Gymnothorax conspersus,Unknown,Global,Least Concern
+animalia — actinopterygii,Brown Conger,Gymnothorax vicinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Marbled Moray,Uropterygius macularius,Unknown,Global,Least Concern
+animalia — actinopterygii,Checkerboard Frillfin Goby,Bathygobius lacertus,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Reitz's Clingfish,Tomicodon reitzae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Yellowcheek Wrasse,Halichoeres cyanocephalus,Unknown,Global,Least Concern
+animalia — actinopterygii,Clown Wrasse,Halichoeres maculipinna,Unknown,Global,Least Concern
+animalia — actinopterygii,Spotfin Hogfish,Bodianus pulchellus,Unknown,Global,Least Concern
+animalia — malacostraca,Florida Lobsterette,Nephropsis aculeata,Unknown,Global,Least Concern
+animalia — actinopterygii,Oilfish,Ruvettus pretiosus,Stable,Global,Least Concern
+animalia — actinopterygii,Tan Hamlet,Hypoplectrus randallorum,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,Plain Soapfish,Rypticus randalli,Unknown,Global,Least Concern
+animalia — actinopterygii,Spiny Stargazer,Kathetostoma cubana,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfinned Deepwater Flounder,Monolene atrimana,Unknown,Global,Least Concern
+animalia — actinopterygii,Slim Flounder,Monolene megalepis,Unknown,Global,Least Concern
+animalia — actinopterygii,Duskycheek Tonguefish,Symphurus plagusia,Unknown,Global,Least Concern
+animalia — actinopterygii,Longsnout Scorpionfish,Pontinus castor,Unknown,Global,Least Concern
+animalia — actinopterygii,Mushroom Scorpionfish,Scorpaena inermis,Unknown,Global,Least Concern
+animalia — actinopterygii,Barbfish,Scorpaena brasiliensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Pygmy Filefish,Stephanolepis setifer,Unknown,Global,Least Concern
+animalia — mammalia,Jamaican Fruit-eating Bat,Artibeus jamaicensis,Stable,Global,Least Concern
+animalia — mammalia,Brown Flower Bat,Erophylla bombifrons,Stable,Global,Least Concern
+animalia — actinopterygii,Blackmouth Bass,Synagrops bellus,Unknown,Global,Least Concern
+animalia — actinopterygii,Madeiran Smooth-head,Rouleina maderensis,Unknown,Global,Least Concern
+animalia — actinopterygii,Starry Smooth-head,Photostylus pycnopterus,Unknown,Global,Least Concern
+animalia — mammalia,Leach's Single-leaf Bat,Monophyllus redmani,Stable,Global,Least Concern
+animalia — actinopterygii,Bandwing Flyingfish,Cheilopogon exsiliens,Unknown,Global,Least Concern
+animalia — bivalvia,,Anodontites trigonus,Unknown,Global,Data Deficient
+animalia — gastropoda,,Caribnauta harryi,Unknown,Global,Data Deficient
+animalia — gastropoda,,Doryssa hohenackeri,Unknown,Global,Least Concern
+animalia — actinopterygii,Shy Brotula,Ogilbia suarezae,Unknown,Global,Least Concern
+animalia — actinopterygii,Escolar,Lepidocybium flavobrunneum,Unknown,Global,Least Concern
+animalia — actinopterygii,Smooth-head Scorpionfish,Scorpaena calcarata,Unknown,Global,Least Concern
+animalia — actinopterygii,Palemouth Jawfish,Lonchopisthus lemur,Stable,Global,Least Concern
+animalia — actinopterygii,Dwarf Goatfish,Upeneus parvus,Unknown,Global,Least Concern
+animalia — actinopterygii,Moustache Jawfish,Opistognathus lonchurus,Stable,Global,Least Concern
+animalia — actinopterygii,Spotted Goatfish,Pseudupeneus maculatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Roudi Escolar,Promethichthys prometheus,Stable,Global,Least Concern
+animalia — actinopterygii,,Notoscopelus caudispinosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Midwater Scorpionfish,Ectreposebastes imus,Unknown,Global,Least Concern
+animalia — actinopterygii,Key Anchovy,Anchoa cayorum,Unknown,Global,Least Concern
+animalia — actinopterygii,Duckbill Flathead,Bembrops anatirostris,Unknown,Global,Least Concern
+animalia — actinopterygii,Yellow Jack,Caranx bartholomaei,Stable,Global,Least Concern
+animalia — actinopterygii,Shortbeard Cusk-Eel,Lepophidium brevibarbe,Unknown,Global,Least Concern
+animalia — actinopterygii,Longfinned Coralbrotula,Ogilbichthys longimanus,Unknown,Global,Least Concern
+animalia — malacostraca,,Scyllarus chacei,Unknown,Global,Least Concern
+animalia — malacostraca,,Willemoesia forceps,Stable,Global,Least Concern
+animalia — actinopterygii,,Diaphus subtilis,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Diaphus termophilus,Stable,Global,Least Concern
+animalia — actinopterygii,,Lampanyctus alatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Lampadena luminosa,Unknown,Global,Least Concern
+animalia — actinopterygii,,Cetonurus globiceps,Unknown,Global,Least Concern
+animalia — actinopterygii,,Centrobranchus nigroocellatus,Stable,Global,Least Concern
+animalia — actinopterygii,,Diaphus effulgens,Stable,Global,Least Concern
+animalia — actinopterygii,Pearlfish,Carapus bermudensis,Stable,Global,Least Concern
+animalia — actinopterygii,Bearded Brotula,Brotula barbata,Unknown,Global,Least Concern
+animalia — actinopterygii,Florida Round Herring,Jenkinsia stolifera,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Lookdown,Selene vomer,Stable,Global,Least Concern
+animalia — actinopterygii,Reticulated Goosefish,Lophiodes reticulatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Shore Brotula,Alionematichthys minyomma,Unknown,Global,Least Concern
+animalia — actinopterygii,Florida Pompano,Trachinotus carolinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Redear Herring,Harengula humeralis,Decreasing,Global,Least Concern
+animalia — actinopterygii,Plainfin Sole,Achirus declivis,Unknown,Global,Least Concern
+animalia — actinopterygii,Smallscale Lizardfish,Saurida caribbaea,Unknown,Global,Least Concern
+animalia — amphibia,Golden Coqui,Eleutherodactylus jasperi,Decreasing,Global,Critically Endangered
+animalia — amphibia,Webbed-footed Coqui,Eleutherodactylus karlschmidti,Decreasing,Global,Critically Endangered
+animalia — actinopterygii,,Gigantura indica,Unknown,Global,Least Concern
+animalia — actinopterygii,,Diaphus dumerilii,Stable,Global,Data Deficient
+animalia — actinopterygii,Lanternfish,Nannobrachium lineatum,Unknown,Global,Least Concern
+animalia — actinopterygii,,Odontostomops normalops,Unknown,Global,Least Concern
+animalia — actinopterygii,Waryfish,Scopelosaurus argenteus,Unknown,Global,Least Concern
+animalia — actinopterygii,Zugmayer's Pearleye,Benthalbella infans,Unknown,Global,Least Concern
+animalia — actinopterygii,Oceanic Puffer,Lagocephalus lagocephalus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Melanostomias macrophotus,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Bathophilus nigerrimus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias filifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias lipochirus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Heterophotus ophistoma,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias polyaster,Unknown,Global,Data Deficient
+animalia — actinopterygii,Rufous lanternfish,Symbolophorus rufinus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias braueri,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Eustomias arborifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Eustomias bigelowi,Unknown,Global,Least Concern
+animalia — actinopterygii,Fierce Pike Smelt,Sudis atrox,Unknown,Global,Least Concern
+animalia — actinopterygii,Redfin Parrotfish,Sparisoma rubripinne,Unknown,Global,Least Concern
+animalia — actinopterygii,Bigeye Squaretail,Tetragonurus atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Redvelvet Whalefish,Barbourisia rufa,Unknown,Global,Least Concern
+animalia — insecta,,Brachymesia herbida,Stable,Global,Least Concern
+animalia — insecta,Caribbean Darner,Triacanthagyna caribbea,Stable,Global,Least Concern
+animalia — actinopterygii,Largescale Fat Snook,Centropomus mexicanus,Unknown,Global,Least Concern
+animalia — actinopterygii,Cueriduro,Oligoplites saurus,Unknown,Global,Least Concern
+animalia — actinopterygii,Scaled Sardine,Harengula jaguana,Unknown,Global,Least Concern
+animalia — actinopterygii,Pacific Portholefish,Diplophos taenia,Stable,Global,Least Concern
+animalia — actinopterygii,Power's Deep-water Bristle-mouth Fish,Vinciguerria poweriae,Unknown,Global,Least Concern
+animalia — actinopterygii,,Photonectes leucospilus,Unknown,Global,Least Concern
+animalia — actinopterygii,Ornamented Stargazer,Dactyloscopus comptus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bolinichthys supralateralis,Unknown,Global,Least Concern
+animalia — reptilia,Puerto Rican Giant Anole,Anolis cuvieri,Stable,Global,Least Concern
+animalia — actinopterygii,Red Grouper,Epinephelus morio,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Yellowfin Grouper,Mycteroperca venenosa,Decreasing,Global,Near Threatened
+animalia — actinopterygii,,Alepisaurus brevirostris,Unknown,Global,Least Concern
+animalia — actinopterygii,Smalleye Smooth-head,Alepocephalus productus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Cataetyx laticeps,Unknown,Global,Least Concern
+animalia — actinopterygii,Red Hind,Epinephelus guttatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Neoepinnula americana,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Offshore Flounder,Poecilopsetta inermis,Unknown,Global,Least Concern
+animalia — actinopterygii,Maracaibo Mojarra,Eugerres awlae,Unknown,"Global, Caribbean",Least Concern
+animalia — actinopterygii,,Eustomias acinosus,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Photonectes achirus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Nansenia megalopa,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Xenophthalmichthys danae,Unknown,Global,Least Concern
+animalia — actinopterygii,Nacreous lanternfish,Lampanyctus vadulus,Unknown,Global,Least Concern
+animalia — actinopterygii,Cusk Eel,Bassozetus normalis,Unknown,Global,Least Concern
+animalia — actinopterygii,,Polymetme thaeocoryla,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathophilus metallicus,Unknown,Global,Least Concern
+animalia — actinopterygii,Short-tail Cusk-eel,Brotulotaenia brevicauda,Unknown,Global,Least Concern
+animalia — actinopterygii,Tropical Pomfret,Eumegistus brevorti,Unknown,Global,Least Concern
+animalia — actinopterygii,Domine Escolar,Epinnula magistralis,Unknown,Global,Least Concern
+animalia — actinopterygii,Atlantic Pricklefish,Howella atlantica,Unknown,Global,Least Concern
+animalia — actinopterygii,Marbled Cusk-Eel,Lepophidium marmoratum,Unknown,Global,Least Concern
+animalia — actinopterygii,Western Roughy,Hoplostethus occidentalis,Unknown,Global,Least Concern
+animalia — actinopterygii,Blind Wormfish,Microdesmus luscus,Unknown,"Global, Caribbean",Data Deficient
+animalia — actinopterygii,Shortnose Batfish,Ogcocephalus nasutus,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackfin Blenny,Emblemariopsis occidentalis,Unknown,Global,Least Concern
+animalia — aves,Puerto Rican Tody,Todus mexicanus,Decreasing,Global,Least Concern
+animalia — aves,Belted Kingfisher,Megaceryle alcyon,Stable,Global,Least Concern
+animalia — aves,Black-billed Cuckoo,Coccyzus erythropthalmus,Decreasing,Global,Least Concern
+animalia — aves,Ruby-throated Hummingbird,Archilochus colubris,Increasing,Global,Least Concern
+animalia — aves,Spotted Sandpiper,Actitis macularius,Decreasing,Global,Least Concern
+animalia — aves,American Oystercatcher,Haematopus palliatus,Stable,Global,Least Concern
+animalia — aves,Wilson's Plover,Charadrius wilsonia,Decreasing,Global,Least Concern
+animalia — aves,Cuban Pewee,Contopus caribaeus,Stable,Global,Least Concern
+animalia — aves,Eastern Kingbird,Tyrannus tyrannus,Decreasing,Global,Least Concern
+animalia — aves,Pied-billed Grebe,Podilymbus podiceps,Stable,Global,Least Concern
+animalia — aves,Antillean Palm-swift,Tachornis phoenicobia,Stable,Global,Least Concern
+animalia — aves,Puerto Rican Emerald,Chlorostilbon maugaeus,Unknown,Global,Least Concern
+animalia — aves,White-necked Crow,Corvus leucognaphalus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Lesser Amberjack,Seriola fasciata,Unknown,Global,Least Concern
+animalia — actinopterygii,Wenchman,Pristipomoides aquilonaris,Unknown,Global,Least Concern
+animalia — actinopterygii,Bonnetmouth,Emmelichthyops atlanticus,Unknown,Global,Least Concern
+animalia — actinopterygii,Smooth Trunkfish,Lactophrys triqueter,Unknown,Global,Least Concern
+animalia — actinopterygii,Wrasse Blenny,Hemiemblemaria simulus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Poromitra crassiceps,Unknown,Global,Least Concern
+animalia — actinopterygii,Opah,Lampris guttatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Caribbean Batfish,Halieutichthys caribbaeus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Aristostomias lunifer,Unknown,Global,Least Concern
+animalia — actinopterygii,,Grammatostomias flagellibarba,Unknown,Global,Least Concern
+animalia — actinopterygii,,Melanostomias melanops,Unknown,Global,Least Concern
+animalia — actinopterygii,,Pseudoscopelus scutatus,Unknown,Global,Least Concern
+animalia — actinopterygii,,Rhynchactis macrothrix,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Melamphaes ebelingi,Unknown,Global,Data Deficient
+animalia — actinopterygii,,Melamphaes pumilus,Unknown,Global,Data Deficient
+animalia — chondrichthyes,Longnose Stingray,Hypanus guttatus,Decreasing,Global,Near Threatened
+animalia — malacostraca,,Atya innocous,Unknown,Global,Least Concern
+animalia — insecta,Mangrove Darner,Coryphaeschna viriditas,Stable,Global,Least Concern
+animalia — insecta,Red-mantled Dragonlet,Erythrodiplax fervida,Stable,Global,Least Concern
+animalia — insecta,Vermilion Saddlebags,Tramea abdominalis,Stable,Global,Least Concern
+animalia — aves,Caribbean Martin,Progne dominicensis,Increasing,Global,Least Concern
+animalia — aves,Adelaide's Warbler,Setophaga adelaidae,Stable,Global,Least Concern
+animalia — aves,Prothonotary Warbler,Protonotaria citrea,Decreasing,Global,Least Concern
+animalia — aves,Bananaquit,Coereba flaveola,Stable,Global,Least Concern
+animalia — aves,Scarlet Tanager,Piranga olivacea,Stable,Global,Least Concern
+animalia — actinopterygii,Northern Sennet,Sphyraena borealis,Unknown,Global,Least Concern
+animalia — actinopterygii,Five-band Surgeonfish,Acanthurus tractus,Unknown,Global,Least Concern
+animalia — aves,Hooded Merganser,Lophodytes cucullatus,Increasing,Global,Least Concern
+animalia — actinopterygii,Scribbled Leatherjacket Filefish,Aluterus scriptus,Unknown,Global,Least Concern
+animalia — aves,Cedar Waxwing,Bombycilla cedrorum,Increasing,Global,Least Concern
+animalia — aves,Grey-cheeked Thrush,Catharus minimus,Unknown,Global,Least Concern
+animalia — reptilia,Roosevelt's Beige Sphaero,Sphaerodactylus roosevelti,Stable,Global,Near Threatened
+animalia — reptilia,Puerto Rican Coastal Blindsnake,Antillotyphlops hypomethes,Stable,Global,Least Concern
+animalia — actinopterygii,Sargassum Triggerfish,Xanthichthys ringens,Stable,Global,Least Concern
+animalia — actinopterygii,Spot-fin Porcupinefish,Diodon hystrix,Unknown,Global,Least Concern
+animalia — aves,Masked Duck,Nomonyx dominicus,Decreasing,Global,Least Concern
+animalia — aves,White-cheeked Pintail,Anas bahamensis,Decreasing,Global,Least Concern
+animalia — actinopterygii,Caesar Grunt,Haemulon carbonarium,Unknown,Global,Least Concern
+animalia — actinopterygii,Spanish Grunt,Haemulon macrostomum,Unknown,Global,Least Concern
+animalia — actinopterygii,Pilotfish,Naucrates ductor,Stable,Global,Least Concern
+animalia — aves,Myrtle Warbler,Setophaga coronata,Unknown,Global,Least Concern
+animalia — actinopterygii,Harlequin Bass,Serranus tigrinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Club Bait Anglerfish,Lophiodes monodi,Unknown,Global,Least Concern
+animalia — actinopterygii,Shortnose Barracudina,Paralepis brevirostris,Unknown,Global,Least Concern
+animalia — aves,Solitary Sandpiper,Tringa solitaria,Decreasing,Global,Least Concern
+animalia — actinopterygii,,Diaphus minax,Unknown,Global,Least Concern
+animalia — actinopterygii,Offshore Lizardfish,Synodus poeyi,Unknown,Global,Least Concern
+animalia — actinopterygii,Tomtate,Haemulon aurolineatum,Decreasing,Global,Least Concern
+animalia — actinopterygii,Big-scale Pomfret,Taractichthys longipinnis,Unknown,Global,Least Concern
+animalia — actinopterygii,Orange Filefish,Aluterus schoepfii,Unknown,Global,Least Concern
+animalia — actinopterygii,Diamond Lizardfish,Synodus synodus,Unknown,Global,Least Concern
+animalia — actinopterygii,Shortjaw Lizardfish,Saurida normani,Unknown,Global,Least Concern
+animalia — actinopterygii,Blackbar Soldierfish,Myripristis jacobus,Unknown,Global,Least Concern
+animalia — actinopterygii,Barred Grunt,Conodon nobilis,Unknown,Global,Least Concern
+animalia — actinopterygii,Roughneck Grunt,Haemulopsis corvinaeformis,Unknown,Global,Least Concern
+animalia — gastropoda,,Angiola lineata,Unknown,Global,Least Concern
+animalia — aves,Blue-winged Warbler,Vermivora cyanoptera,Decreasing,Global,Least Concern
+animalia — aves,Rose-breasted Grosbeak,Pheucticus ludovicianus,Decreasing,Global,Least Concern
+animalia — aves,Yellow-throated Warbler,Setophaga dominica,Increasing,Global,Least Concern
+animalia — aves,Lesser Antillean Bullfinch,Loxigilla noctis,Stable,Global,Least Concern
+animalia — chondrichthyes,Broadfoot Pygmy Skate,Cruriraja cadenati,Stable,Global,Least Concern
+animalia — aves,Chimney Swift,Chaetura pelagica,Decreasing,Global,Vulnerable
+animalia — aves,Bonaparte's Gull,Larus philadelphia,Increasing,Global,Least Concern
+animalia — aves,Royal Tern,Thalasseus maximus,Stable,Global,Least Concern
+animalia — aves,Forster's Tern,Sterna forsteri,Increasing,Global,Least Concern
+animalia — actinopterygii,West Atlantic Cusk-eel,Dicrolene kanazawai,Unknown,Global,Least Concern
+animalia — cephalopoda,,Sthenoteuthis pteropus,Unknown,Global,Least Concern
+animalia — actinopterygii,White Anglerfish,Lophiodes beroe,Unknown,Global,Least Concern
+animalia — actinopterygii,Bighead Cusk-eel,Barathrodemus manatinus,Unknown,Global,Least Concern
+animalia — actinopterygii,Longbeard Grenadier,Ventrifossa macropogon,Unknown,Global,Least Concern
+animalia — actinopterygii,Pyramidnose Armored Searobin,Peristedion ecuadorense,Unknown,Global,Least Concern
+animalia — actinopterygii,Indian Sabretooth,Evermannella indica,Unknown,Global,Least Concern
+animalia — aves,Common Ground-dove,Columbina passerina,Stable,Global,Least Concern
+animalia — aves,Black Rail,Laterallus jamaicensis,Decreasing,Global,Endangered
+animalia — actinopterygii,,Oneirodes plagionema,Unknown,Global,Least Concern
+animalia — actinopterygii,,Thaumatichthys binghami,Unknown,Global,Least Concern
+animalia — actinopterygii,,Bathophilus longipes,Unknown,Global,Least Concern
+animalia — actinopterygii,,Pachycara sulaki,Unknown,Global,Least Concern
+animalia — aves,Zenaida Dove,Zenaida aurita,Stable,Global,Least Concern
+animalia — actinopterygii,Doublekeeled whalefish,Ditropichthys storeri,Unknown,Global,Data Deficient
+animalia — aves,Least Sandpiper,Calidris minutilla,Decreasing,Global,Least Concern
+animalia — actinopterygii,Spotted Lanternfish,Myctophum nitidulum,Stable,Global,Least Concern
+animalia — actinopterygii,Longjaw Bigscale,Scopeloberyx robustus,Unknown,Global,Data Deficient
+animalia — actinopterygii,Spearfish Remora,Remora brachyptera,Stable,Global,Least Concern
+animalia — actinopterygii,Blackbelly Pearleye,Scopelarchus analis,Unknown,Global,Least Concern
+animalia — chondrichthyes,Longfin Mako,Isurus paucus,Decreasing,Global,Endangered
+animalia — actinopterygii,,Ceratoscopelus warmingii,Stable,Global,Least Concern
+animalia — actinopterygii,Tube-eye,Stylephorus chordatus,Unknown,Global,Least Concern
+animalia — actinopterygii,Pink Flabby Whalefish,Cetostoma regani,Unknown,Global,Data Deficient
+animalia — actinopterygii,Shortfin Neoscopelid,Neoscopelus microchir,Unknown,Global,Least Concern
+animalia — aves,Wilson's Storm-petrel,Oceanites oceanicus,Stable,Global,Least Concern
+animalia — actinopterygii,Fragile Cagemouth,Kali colubrina,Unknown,Global,Least Concern
