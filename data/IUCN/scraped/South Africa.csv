@@ -1,0 +1,61 @@
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — actinopterygii,,Bodianus diana,Unknown,Global,Least Concern
+animalia — actinopterygii,Dusky Parrotfish,Scarus niger,Unknown,Global,Least Concern
+animalia — amphibia,Horstock's Reed Frog,Hyperolius horstockii,Unknown,Global,Least Concern
+animalia — actinopterygii,Eclipse Parrotfish,Scarus russelii,Unknown,Global,Least Concern
+animalia — actinopterygii,Rock Gurnard,Trigloporus lastoviza,Unknown,Global,Least Concern
+animalia — actinopterygii,Indo-Pacific Tarpon,Megalops cyprinoides,Unknown,Global,Data Deficient
+animalia — actinopterygii,Hyphen Barb,Enteromius bifrenatus,Stable,"Global, Pan-Africa",Least Concern
+animalia — actinopterygii,Line-spotted Barb,Enteromius lineomaculatus,Unknown,"Global, Pan-Africa",Least Concern
+animalia — mammalia,Banded Mongoose,Mungos mungo,Stable,Global,Least Concern
+animalia — mammalia,Karoo Round-eared Sengi,Macroscelides proboscideus,Stable,Global,Least Concern
+animalia — actinopterygii,Spotted Seahorse,Hippocampus kuda,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Spotted Wrasse,Anampses meleagrides,Stable,Global,Least Concern
+animalia — chondrichthyes,Angular Roughshark,Oxynotus centrina,Unknown,Global,Vulnerable
+animalia — actinopterygii,Semicircle Angelfish,Pomacanthus semicirculatus,Stable,Global,Least Concern
+animalia — actinopterygii,,Oxycheilinus digramma,Unknown,Global,Least Concern
+animalia — chondrichthyes,Bull Shark,Carcharhinus leucas,Unknown,Global,Near Threatened
+animalia — chondrichthyes,Javanese Cownose Ray,Rhinoptera javanica,Unknown,Global,Vulnerable
+animalia — insecta,Zambezi Siphontail,Neurogomphus zambeziensis,Unknown,"Global, Pan-Africa",Least Concern
+animalia — actinopterygii,Scaleless Dragonfish,Leptostomias gladiator,Unknown,Global,Least Concern
+animalia — actinopterygii,Alfonsino,Beryx decadactylus,Unknown,Global,Least Concern
+animalia — amphibia,Rose’s Mountain Toadlet ,Capensibufo rosei,Unknown,Global,Critically Endangered
+animalia — gastropoda,,Conus vexillum,Unknown,Global,Least Concern
+animalia — holothuroidea,,Thelenota ananas,Decreasing,Global,Endangered
+animalia — actinopterygii,Striped Seabream,Lithognathus mormyrus,Stable,Global,Least Concern
+animalia — reptilia,Common African Flap-necked Chameleon,Chamaeleo dilepis,Stable,Global,Least Concern
+animalia — actinopterygii,Elongate Surgeonfish,Acanthurus mata,Stable,Global,Least Concern
+animalia — actinopterygii,Half-naked Hatchetfish,Argyropelecus hemigymnus,Stable,Global,Least Concern
+animalia — actinopterygii,Pennant Coral Fish,Heniochus acuminatus,Stable,Global,Least Concern
+animalia — malacostraca,Sculptured Mitten Lobster,Parribacus antarcticus,Unknown,Global,Least Concern
+animalia — gastropoda,Engraved Cone,Conus inscriptus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus visagenus,Unknown,Global,Least Concern
+animalia — amphibia,,Anhydrophryne rattrayi,Unknown,Global,Vulnerable
+animalia — gastropoda,,Conus wakayamaensis,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus striatellus,Unknown,Global,Least Concern
+animalia — actinopterygii,Red Stumpnose Seabream,Chrysoblephus gibbiceps,Decreasing,Global,Endangered
+animalia — mammalia,Melon-headed Whale,Peponocephala electra,Unknown,Global,Least Concern
+animalia — actinopterygii,,Gonostoma denudatum,Unknown,Global,Least Concern
+animalia — aves,Alpine Swift,Tachymarptis melba,Stable,Global,Least Concern
+animalia — aves,Marsh Sandpiper,Tringa stagnatilis,Decreasing,Global,Least Concern
+animalia — aves,Red-knobbed Coot,Fulica cristata,Decreasing,Global,Least Concern
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Smalleye Squaretail,Tetragonurus cuvieri,Stable,Global,Least Concern
+animalia — actinopterygii,Bulbous Dreamer,Oneirodes eschrichtii,Unknown,Global,Least Concern
+animalia — insecta,Long-legged Armoured Katydid,Acanthoplus longipes,Unknown,Global,Least Concern
+animalia — insecta,Cape Flightless Katydid,Austrodontura capensis,Unknown,Global,Least Concern
+animalia — insecta,Wilson's Winter Katydid,Brinckiella wilsoni,Unknown,Global,Least Concern
+animalia — insecta,Common Restio Katydid,Conocephalus montana,Unknown,Global,Least Concern
+animalia — insecta,Black-spotted Plangia,Plangia compressa,Unknown,Global,Least Concern
+animalia — insecta,Lace-winged Katydid,Pseudosaga maculata,Unknown,Global,Least Concern
+animalia — insecta,Tsitsikamma Katydid,Zitsikama tessellata,Unknown,Global,Least Concern
+animalia — aves,Marabou,Leptoptilos crumenifer,Increasing,Global,Least Concern
+animalia — actinopterygii,Thorny Seahorse,Hippocampus histrix,Decreasing,Global,Vulnerable
+animalia — insecta,Kristin's False Shieldback,Acilacris kristinae,Unknown,Global,Critically Endangered
+animalia — insecta,Black-spotted False Shieldback,Aroegas nigroornatus,Unknown,Global,Critically Endangered
+animalia — insecta,Duplessis' Agile Katydid,Griffiniana duplessisae,Unknown,Global,Critically Endangered
+animalia — insecta,Serrated Winter Katydid,Brinckiella serricauda,Unknown,Global,Data Deficient
+animalia — insecta,Elegant Sylvan Katydid,Acauloplax exigua,Unknown,Global,Least Concern
+animalia — actinopterygii,Reticulated Freshwater Pipefish,Hippichthys heptagonus,Unknown,Global,Least Concern
+animalia — actinopterygii,Banded bellows fish ,Centriscops humerosus,Unknown,Global,Least Concern
+animalia — actinopterygii,Alligator Pipefish,Syngnathoides biaculeatus,Unknown,Global,Least Concern

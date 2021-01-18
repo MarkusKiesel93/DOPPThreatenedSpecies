@@ -1,0 +1,61 @@
+kingdom_class,common_name,scientific_name,trend,region,threat_level
+animalia — mammalia,San Martin Titi Monkey,Plecturocebus oenanthe,Decreasing,Global,Critically Endangered
+animalia — gastropoda,,Conus princeps,,Global,Least Concern
+animalia — gastropoda,,Conus fergusoni,Unknown,Global,Least Concern
+animalia — mammalia,,Molossus molossus,Unknown,Global,Least Concern
+animalia — mammalia,Silky Short-tailed Bat,Carollia brevicauda,Stable,Global,Least Concern
+animalia — mammalia,Southern Naked-Tailed Armadillo,Cabassous unicinctus,Unknown,Global,Least Concern
+animalia — mammalia,Silky Anteater,Cyclopes didactylus,Unknown,Global,Least Concern
+animalia — mammalia,Southern Tamandua,Tamandua tetradactyla,Unknown,Global,Least Concern
+animalia — mammalia,Molina's Hog-nosed Skunk,Conepatus chinga,Decreasing,Global,Least Concern
+animalia — mammalia,Kinkajou,Potos flavus,Decreasing,Global,Least Concern
+animalia — mammalia,South American Fur Seal,Arctocephalus australis,Increasing,Global,Least Concern
+animalia — chondrichthyes,Bull Shark,Carcharhinus leucas,Unknown,Global,Near Threatened
+animalia — amphibia,South American Common Toad,Rhinella margaritifera,Stable,Global,Least Concern
+animalia — amphibia,Rusty Treefrog,Boana boans,Stable,Global,Least Concern
+animalia — mammalia,Short-eared Dog,Atelocynus microtis,Decreasing,Global,Near Threatened
+animalia — amphibia,Bolivian Bleating Frog,Hamptophryne boliviana,Stable,Global,Least Concern
+animalia — mammalia,Lesser Long-tailed Bat,Choeroniscus minor,Unknown,Global,Least Concern
+animalia — insecta,American Snout,Libytheana carinenta,Unknown,Global,Least Concern
+animalia — amphibia,,Ctenophryne carpish,Decreasing,Global,Endangered
+animalia — gastropoda,,Conus arcuatus,Unknown,Global,Least Concern
+animalia — gastropoda,,Conus tornatus,,Global,Least Concern
+animalia — gastropoda,,Conus purpurascens,,Global,Least Concern
+animalia — mammalia,Melon-headed Whale,Peponocephala electra,Unknown,Global,Least Concern
+animalia — mammalia,Maned Wolf,Chrysocyon brachyurus,Unknown,Global,Near Threatened
+animalia — amphibia,,Boana palaestes,Decreasing,Global,Endangered
+animalia — amphibia,,Gastrotheca stictopleura,Decreasing,Global,Endangered
+animalia — amphibia,,Phrynopus dagmarae,Decreasing,Global,Endangered
+animalia — amphibia,,Phrynopus heimorum,Decreasing,Global,Critically Endangered
+animalia — amphibia,,Oreobates ayacucho,Unknown,Global,Endangered
+animalia — actinopterygii,Elongated Bristlemouth Fish,Gonostoma elongatum,Unknown,Global,Least Concern
+animalia — actinopterygii,Bulbous Dreamer,Oneirodes eschrichtii,Unknown,Global,Least Concern
+animalia — aves,White Ibis,Eudocimus albus,Stable,Global,Least Concern
+animalia — actinopterygii,Barred Pipefish,Syngnathus auliscus,Unknown,Global,Least Concern
+animalia — insecta,Wandering Glider,Pantala flavescens,Stable,Global,Least Concern
+animalia — aves,Red-fan Parrot,Deroptyus accipitrinus,Decreasing,Global,Least Concern
+animalia — aves,Willet,Tringa semipalmata,Stable,Global,Least Concern
+animalia — mammalia,Juan Fernández Fur Seal,Arctocephalus philippii,Increasing,Global,Least Concern
+animalia — mammalia,Jaguarundi,Herpailurus yagouaroundi,Decreasing,Global,Least Concern
+animalia — aves,Lineated Woodpecker,Hylatomus lineatus,Increasing,Global,Least Concern
+animalia — mammalia,Spectacled Bear,Tremarctos ornatus,Decreasing,Global,Vulnerable
+animalia — aves,White-winged Petrel,Pterodroma leucoptera,Decreasing,Global,Vulnerable
+animalia — aves,White-bellied Cinclodes,Cinclodes palliatus,Decreasing,Global,Critically Endangered
+animalia — aves,Brown Pelican,Pelecanus occidentalis,Increasing,Global,Least Concern
+animalia — amphibia,Tiger-striped Leaf Frog,Callimedusa tomopterna,Stable,Global,Least Concern
+animalia — aves,Ornate Tinamou,Nothoprocta ornata,Decreasing,Global,Least Concern
+animalia — aves,Peach-fronted Parakeet,Eupsittula aurea,Stable,Global,Least Concern
+animalia — aves,Fawn-breasted Brilliant,Heliodoxa rubinoides,Unknown,Global,Least Concern
+animalia — aves,Little Woodstar,Chaetocercus bombus,Decreasing,Global,Vulnerable
+animalia — actinopterygii,Giant Seahorse,Hippocampus ingens,Decreasing,Global,Vulnerable
+animalia — mammalia,Ocelot,Leopardus pardalis,Decreasing,Global,Least Concern
+animalia — aves,Toco Toucan,Ramphastos toco,Decreasing,Global,Least Concern
+animalia — amphibia,,Ranitomeya flavovittata,Stable,Global,Least Concern
+animalia — chondrichthyes,Spinetail Devil Ray,Mobula mobular,Decreasing,Global,Endangered
+animalia — aves,Red-billed Tropicbird,Phaethon aethereus,Decreasing,Global,Least Concern
+animalia — chondrichthyes,Largetooth Sawfish,Pristis pristis,Decreasing,Global,Critically Endangered
+animalia — aves,Buller's Shearwater,Ardenna bulleri,Stable,Global,Vulnerable
+animalia — aves,Black Tinamou,Tinamus osgoodi,Decreasing,Global,Vulnerable
+animalia — aves,Red-necked Phalarope,Phalaropus lobatus,Decreasing,Global,Least Concern
+animalia — aves,Military Macaw,Ara militaris,Decreasing,Global,Vulnerable
+animalia — aves,Andean Flamingo,Phoenicoparrus andinus,Decreasing,Global,Vulnerable
