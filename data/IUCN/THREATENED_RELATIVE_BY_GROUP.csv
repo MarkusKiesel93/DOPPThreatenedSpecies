@@ -1,4 +1,4 @@
-,total_threatened,mammals_threatened,insects_threatened,amphibians_threatened,birds_threatened,reptiles_threatened,mammals_resident,insects_resident,amphibians_resident,birds_resident,reptiles_resident
+Country,total_threatened,mammals_threatened,insects_threatened,amphibians_threatened,birds_threatened,reptiles_threatened,mammals_resident,insects_resident,amphibians_resident,birds_resident,reptiles_resident
 Argentina,0.0791,0.1003,0.0744,0.2061,0.0519,0.0771,True,True,True,True,True
 Armenia,0.0682,0.0761,0.0959,0.0,0.0471,0.1628,True,True,True,True,True
 Australia,0.112,0.1864,0.1403,0.2108,0.0716,0.0766,True,True,True,True,True
