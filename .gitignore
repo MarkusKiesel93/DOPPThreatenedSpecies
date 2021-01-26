@@ -9,3 +9,6 @@ geckodriver.log
 
 # local development
 local/
+
+# pipenv
+Pipfile*
