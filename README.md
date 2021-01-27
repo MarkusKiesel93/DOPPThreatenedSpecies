@@ -1,5 +1,16 @@
 # DOPPThreatenedSpecies
 
+## Information
+
+The whole data analysis and modeling can be found in the DOPPThreatenedSpecies.ipynb notebook.
+
+Web scraping is seperatated in the IUCN_web_scraping.py module.
+For this the geckodriver is also needed. 
+
+The countries.yml provides a list of selected countries by region needed for web scraping.
+This file can be loaded using the accompanying countries module.
+
+
 ## Conda Environment
 To run assignment notebook, follow the steps provided below:
 
